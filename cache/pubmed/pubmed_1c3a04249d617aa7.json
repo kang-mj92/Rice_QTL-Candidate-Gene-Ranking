@@ -1,0 +1,446 @@
+{
+  "term": "(\"BG11\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "35906537",
+    "38830468",
+    "33801135",
+    "38377758",
+    "36204466",
+    "39579189",
+    "37730554",
+    "41003329",
+    "39447360",
+    "39008925",
+    "23765374",
+    "34954367",
+    "36406613",
+    "30984142",
+    "36903888",
+    "38935314",
+    "31183423",
+    "34225111",
+    "34274677",
+    "39964594"
+  ],
+  "records": [
+    {
+      "pmid": "35906537",
+      "title": "Enhancement of plant growth regulators production from microalgae cultivated in treated sewage wastewater (TSW).",
+      "pubdate": "2022 Jul 29",
+      "source": "BMC Plant Biol",
+      "authors": "Elakbawy WM, Shanab SMM, Shalaby EA",
+      "elocationid": "doi: 10.1186/s12870-022-03764-w",
+      "abstract": "The aim of this work is to develop an efficient method for detection and evaluation of the plant growth regulators produced from cyanobacteria species (Anabaena oryzae and Nostoc muscorum) cultivated on BG110, and Chlorophyta alga (Chlorella vulgaris) cultivated on BG11 in addition to the cultivation of these strains on treated sewage wastewater (TSW) combined with control media (BG11 and BG110) at different concentrations (100, 75 and 50%). Bioassays were performed on Wheat coleoptile length and Cucumber cotyledons fresh weight for indole acetic acid (IAA) and Benzyl adenine (BA) detection. In addition, application experiments of IAA and BA presence in algal extract were applied on tomato plantlets and soybean callus. The obtained results of A. oryzae and N. muscorum extracts (grown on BG110 and 100% sewage media) with optimum conc. of IAA and BA showed moderate shoot length and leaves number as well as high root initiation of tomato explant compared to control. While dimethyl sulfoxide (DMSO), IAA conc. as well as IAA + BA conc. showed no effect on branching and leaf expansion. The results of C. vulgaris (grown on BG11) also revealed that the shoot had high leaves number and greatest root initiation, without branching and leaf expansion. On the other hand, 100% TSW had a moderate shoot, leaves number and high root initiation. Extracts of A. oryzae and N. muscorum (grown on BG110) induced 1.5-fold increase in soybean callus fresh weight, while the growth on 100% TSW was shown to be less effective. Moreover, extract of C. vulgaris (grown on BG11) induced a moderate effect, while its growth on 100% TSW was shown to be less effective in soybean callus fresh weight increment.",
+      "mesh_terms": [
+        "Chlorella vulgaris",
+        "Solanum lycopersicum",
+        "Microalgae",
+        "Plant Extracts",
+        "Plant Growth Regulators",
+        "Sewage",
+        "Wastewater"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38830468",
+      "title": "Characterization and potentiality of plant-derived silver nanoparticles for enhancement of biomass and hydrogen production in Chlorella sp. under nitrogen deprived condition.",
+      "pubdate": "2024 Aug",
+      "source": "Chemosphere",
+      "authors": "Subramani K, Wutthithien P, Saha R, Lindblad P, Incharoensakdi A",
+      "elocationid": "doi: 10.1016/j.chemosphere.2024.142514",
+      "abstract": "Energy is a crucial entity for the development and it has various alternative forms of energy sources. Recently, the synthesis of nanoparticles using benign biocatalyst has attracted increased attention. In this study, silver nanoparticles were synthesized and characterized using Azadirachta indica plant-derived phytochemical as the reducing agent. Biomass of the microalga Chlorella sp. cultivated in BG11 medium increased after exposure to low concentrations of up to 0.48 mg L-1 AgNPs. In addition, algal cells treated with 0.24 mg L-1 AgNPs and cultivated in BG110 medium which contained no nitrogen source showed the highest hydrogen yield of 10.8 mmol L-1, whereas the untreated cells under the same conditions showed very low hydrogen yield of 0.003 mmol L-1. The enhanced hydrogen production observed in the treated cells was consistent with an increase in hydrogenase activity. Treatment of BG110 grown cells with low concentration of green synthesized AgNPs at 0.24 mg L-1 enhanced hydrogenase activity with a 5-fold increase of enzyme activity compared to untreated BG110 grown cells. In addition, to improve photolytic water splitting efficiency for hydrogen production, cells treated with AgNPs at 0.24 mg L-1 showed highest oxygen evolution signifying improvement in photosynthesis. The silver nanoparticles synthesized using phytochemicals derived from plant enhanced both microalgal biomass and hydrogen production with an added advantage of CO2 reduction which could be achieved due to an increase in biomass. Hence, treating microalgae with nanoparticles provided a promising strategy to reduce the atmospheric carbon dioxide as well as increasing production of hydrogen as clean energy.",
+      "mesh_terms": [
+        "Metal Nanoparticles",
+        "Chlorella",
+        "Silver",
+        "Biomass",
+        "Hydrogen",
+        "Nitrogen",
+        "Photosynthesis",
+        "Hydrogenase",
+        "Microalgae"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33801135",
+      "title": "Phytoremediation of CYN, MC-LR and ANTX-a from Water by the Submerged Macrophyte Lemna trisulca.",
+      "pubdate": "2021 Mar 21",
+      "source": "Cells",
+      "authors": "Kucała M, Saładyga M, Kaminski A",
+      "elocationid": "doi: 10.3390/cells10030699",
+      "abstract": "Cyanotoxins are harmful to aquatic and water-related organisms. In this study, Lemna trisulca was tested as a phytoremediation agent for three common cyanotoxins produced by bloom-forming cyanobacteria. Cocultivation of L. trisulca with Dolichospermum flos-aquae in BG11 medium caused a release of the intracellular pool of anatoxin-a into the medium and the adsorption of 92% of the toxin by the plant-after 14 days, the total amount of toxin decreased 3.17 times. Cocultivation with Raphidopsis raciborskii caused a 2.77-time reduction in the concentration of cylindrospermopsin (CYN) in comparison to the control (62% of the total pool of CYN was associated with the plant). The greatest toxin limitation was noted for cocultivation with Microcystis aeruginosa. After two weeks, the microcystin-LR (MC-LR) concentration decreased more than 310 times. The macrophyte also influenced the growth and development of cyanobacteria cells. Overall, 14 days of cocultivation reduced the biomass of D. flos-aquae, M. aeruginosa, and R. raciborskii by 8, 12, and 3 times, and chlorophyll a concentration in comparison to the control decreased by 17.5, 4.3, and 32.6 times, respectively. Additionally, the macrophyte stabilized the electrical conductivity (EC) and pH values of the water and affected the even uptake of cations and anions from the medium. The obtained results indicate the biotechnological potential of L. trisulca for limiting the development of harmful cyanobacterial blooms and their toxicity.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Araceae",
+        "Biodegradation, Environmental",
+        "Biomass",
+        "Chlorophyll A",
+        "Cyanobacteria",
+        "Cyanobacteria Toxins",
+        "Electric Conductivity",
+        "Hydrogen-Ion Concentration",
+        "Ions",
+        "Kinetics",
+        "Marine Toxins",
+        "Microcystins",
+        "Photosynthesis",
+        "Tropanes",
+        "Water Pollutants, Chemical"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38377758",
+      "title": "Carbon-negative and high-rate nutrient recovery from municipal wastewater using mixotrophic Scenedesmus acuminatus.",
+      "pubdate": "2024 Mar",
+      "source": "J Environ Manage",
+      "authors": "Mubashar M, Zulekha R, Cheng S, Xu C, Li J, Zhang X",
+      "elocationid": "doi: 10.1016/j.jenvman.2024.120360",
+      "abstract": "The efficiency of mixotrophic microalgae in enhancing the recovery of waste nutrients has been well established; however, the recovery rate is crucial in meeting the needs of field applications. This study evaluated the impact of media characteristics on nutrient recovery under mixotrophic conditions. The mixotrophic N recovery rate with S. acuminatus in modified BG-11 reached 2.59 mg L-1h-1. A mixotrophic growth optimization strategy was applied to achieve a high-rate nutrient recovery from municipal wastewater treatment plant effluents. The contribution of waste chemical oxygen demand (COD) to nutrient recovery was assessed using secondary effluent (SE) under heterotrophy. The results highlighted a significant increase in total nitrogen (TN) and total phosphorus (TP) recovery rates when glucose was supplied, indicating the additional carbon requirements for efficient nutrient recovery. The TN and TP recovery rates under mixotrophic conditions with the addition of trace metals and high cell density were enhanced by 91.94% and 92.53%, respectively, resulting in recovery rates of 3.43 mg L-1h-1 and 0.30 mg L-1h-1. The same conditions were used for nutrient recovery from primary effluent (PE), and the results were more satisfactory as the TN and TP recovery rates reached 4.79 and 0.55 mg L-1h-1, respectively. Additionally, the study estimated the carbon footprints (C-footprints) and areal footprints of mixotrophy-based nitrogen recovery. The findings revealed carbon footprints and areal footprints of -15.93 ± 4.57 tCO2e t-1 N recovery and 0.53 ± 0.19 m3 m-2d-1 wastewater, respectively. This high-rate nutrient recovery, achieved under a carbon-negative (C-negative) budget through mixotrophy, presents a novel strategy for efficiently recovering resources from municipal wastewater, thus facilitating resource recycling and ensuring environmental sustainability.",
+      "mesh_terms": [
+        "Wastewater",
+        "Scenedesmus",
+        "Carbon",
+        "Biomass",
+        "Phosphorus",
+        "Nutrients",
+        "Nitrogen",
+        "Microalgae"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36204466",
+      "title": "Combining metabolite doping and metabolic engineering to improve 2-phenylethanol production by engineered cyanobacteria.",
+      "pubdate": "2022",
+      "source": "Front Bioeng Biotechnol",
+      "authors": "Usai G, Cordara A, Re A, Polli MF, Mannino G, Bertea CM, Fino D, Pirri CF, Menin B",
+      "elocationid": "doi: 10.3389/fbioe.2022.1005960",
+      "abstract": "2-Phenylethanol (2-PE) is a rose-scented aromatic compound, with broad application in cosmetic, pharmaceutical, food and beverage industries. Many plants naturally synthesize 2-PE via Shikimate Pathway, but its extraction is expensive and low-yielding. Consequently, most 2-PE derives from chemical synthesis, which employs petroleum as feedstock and generates unwanted by products and health issues. The need for \"green\" processes and the increasing public demand for natural products are pushing biotechnological production systems as promising alternatives. So far, several microorganisms have been investigated and engineered for 2-PE biosynthesis, but a few studies have focused on autotrophic microorganisms. Among them, the prokaryotic cyanobacteria can represent ideal microbial factories thanks to their ability to photosynthetically convert CO2 into valuable compounds, their minimal nutritional requirements, high photosynthetic rate and the availability of genetic and bioinformatics tools. An engineered strain of Synechococcus elongatus PCC 7942 for 2-PE production, i.e., p120, was previously published elsewhere. The strain p120 expresses four heterologous genes for the complete 2-PE synthesis pathway. Here, we developed a combined approach of metabolite doping and metabolic engineering to improve the 2-PE production kinetics of the Synechococcus elongatus PCC 7942 p120 strain. Firstly, the growth and 2-PE productivity performances of the p120 recombinant strain were analyzed to highlight potential metabolic constraints. By implementing a BG11 medium doped with L-phenylalanine, we covered the metabolic burden to which the p120 strain is strongly subjected, when the 2-PE pathway expression is induced. Additionally, we further boosted the carbon flow into the Shikimate Pathway by overexpressing the native Shikimate Kinase in the Synechococcus elongatus PCC 7942 p120 strain (i.e., 2PE_aroK). The combination of these different approaches led to a 2-PE yield of 300 mg/gDW and a maximum 2-PE titer of 285 mg/L, 2.4-fold higher than that reported in literature for the p120 recombinant strain and, to our knowledge, the highest recorded for photosynthetic microorganisms, in photoautotrophic growth condition. Finally, this work provides the basis for further optimization of the process aimed at increasing 2-PE productivity and concentration, and could offer new insights about the use of cyanobacteria as appealing microbial cell factories for the synthesis of aromatic compounds.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39579189",
+      "title": "Phycoremediation of rice bran oil processing wastewater and biodiesel production using green microalgae, Scenedesmus obliquus: a green approach to environmental protection and remediation.",
+      "pubdate": "2024 Dec",
+      "source": "Environ Sci Pollut Res Int",
+      "authors": "Roy HP, Eldiehy KSH, Deka D",
+      "elocationid": "doi: 10.1007/s11356-024-35599-3",
+      "abstract": "The current study investigated the enhancement of biomass in S. obliquus, using rice bran oil processing (RBOP) wastewater in different RBOP wastewater concentrations, while also aiming to produce biofuel and treat the wastewater simultaneously. The strain was grown in Blue Green-11 (BG11) media as well as RBOP wastewater at different wastewater concentrations with distilled water at 10%, 25%, 50%, 75%, and 100% under controlled experimental settings. The study findings demonstrated a notable enhancement in the characteristics of RBOP wastewater during a 16-day growth period. The 75% RBOP wastewater concentration demonstrated superior efficacy as a growth medium for producing biomass as well as lipids, among other wastewater concentrations. Accordingly, physicochemical parameters and heavy metal percent of the RBOP wastewater were assessed. The collected biomass was employed in the production of biodiesel, and the fatty acid methyl esters (FAME) were measured, along with an assessment of its characteristics. Physicochemical analysis indicated that S. obliquus was able to effectively decrease levels of nitrate, phosphate, sulfur, and chemical oxygen demand (COD) in RBOP wastewater. The heavy metal reduction percentages for iron (Fe), zinc (Zn), nickel (Ni), copper (Cu), and arsenic (As) were 69.43%, 72.94%, 72.99%, 90.49%, and 91.5%, respectively, following treatment with S. obliquus. FTIR indicated the existence of various functional groups (including alcohol, carboxylic acid) on the surface of the microalgal biomass. The FAME profile of S. obliquus exhibited a moderate level of saturated and unsaturated fatty acid content. S. obliquus demonstrated significant phycoremediation capabilities and potential for lipid production. This study has indicated that S. obliquus is a potential candidate for the treatment of wastewater.",
+      "mesh_terms": [
+        "Wastewater",
+        "Microalgae",
+        "Biofuels",
+        "Scenedesmus",
+        "Rice Bran Oil",
+        "Biodegradation, Environmental",
+        "Metals, Heavy",
+        "Biomass",
+        "Waste Disposal, Fluid"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37730554",
+      "title": "Microalgal upgrading of the fermentative biohydrogen produced from Bacillus coagulans via non-pretreated plant biomass.",
+      "pubdate": "2023 Sep 20",
+      "source": "Microb Cell Fact",
+      "authors": "Aldaby ESE, Mahmoud AHA, El-Bery HM, Ali MM, Shoreit AA, Mawad AMM",
+      "elocationid": "doi: 10.1186/s12934-023-02193-0",
+      "abstract": "BACKGROUND: Hydrogen is a promising source of alternative energy. Fermentative production is more feasible because of its high hydrogen generation rate, simple operating conditions, and utilization of various organic wastes as substrates. The most significant constraint for biohydrogen production is supplying it at a low cost with fewer impurities. RESULTS: Leaf biomass of Calotropis procera was used as a feedstock for a dark fermentative production of hydrogen by Bacillus coagulans AH1 (MN923076). The optimum operation conditions for biohydrogen production were 5.0% substrate concentrationand pH 9.0, at 35 °C. In which the biohydrogen yield was 3.231 mmol H2/g dry biomass without any pretreatments of the biomass. A freshwater microalga Oscillatroia sp was used for upgrading of the produced biohydrogen. It sequestrated 97 and 99% % of CO2 from the gas mixture when it was cultivated in BG11 and BG11-N media, respectively After upgrading process, the residual microalgal cells exhibited 0.21mg/mL of biomass yield,high content of chlorophyll-a (4.8 µg/mL) and carotenoid (11.1 µg/mL). In addition to Oscillatroia sp residual biomass showed a lipid yield (7.5-8.7%) on the tested media. CONCLUSION: Bacillus coagulans AH1 is a promising tool for biohydrogen production avoiding the drawbacks of biomass pretreatment. Oscillatroia sp is encouraged as a potent tool for upgrading and purification of biohydrogen. These findings led to the development of a multiproduct biorefinery with zero waste that is more economically sustainable.",
+      "mesh_terms": [
+        "Bacillus coagulans",
+        "Biomass",
+        "Microalgae",
+        "Fermentation",
+        "Hydrogen"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41003329",
+      "title": "Co-Culture of Auxenochlorella protothecoides and Serratia liquefaciens Promotes Lutein Accumulation.",
+      "pubdate": "2025 Sep 18",
+      "source": "Mar Drugs",
+      "authors": "Xue W, Li Z, Qiu Y, Ma Y, Xue Y, Zhang Z, Liu C",
+      "elocationid": "doi: 10.3390/md23090360",
+      "abstract": "Lutein, a crucial carotenoid with diverse biological roles, is in high demand in the market. Current production predominantly relies on plant extraction, which is hindered by low yield and seasonal limitations. Microalgae, such as Chlorella and Chlamydomonas, known for their efficient lutein production due to high photosynthetic efficiency, rapid growth, and ease of cultivation, still require enhanced yields. This study presents a novel finding that co-cultivating A. protothecoides with S. liquefaciens significantly boosts lutein production. Optimization of carbon and nitrogen sources, nitrogen-to-phosphorus (N:P) ratio, and algal-bacterial inoculation ratio using BG11 medium was systematically conducted. The results indicate that supplementing with 3.0 g/L sodium acetate as the carbon source, 2.0 g/L sodium nitrate as the nitrogen source, sodium dihydrogen phosphate to achieve an N:P ratio of 12:1, and an algal:bacterial inoculation ratio of 10:1, resulted in an A. protothecoides biomass of 21.72 g/L (DWt) and a lutein yield significantly increased to 56.86 mg/g (DWt), a ninefold rise compared to monoculture. This co-cultivation approach offers a promising avenue for sustainable industrial lutein production.",
+      "mesh_terms": [
+        "Lutein",
+        "Coculture Techniques",
+        "Nitrogen",
+        "Chlorella",
+        "Serratia liquefaciens",
+        "Biomass",
+        "Carbon",
+        "Microalgae",
+        "Phosphorus",
+        "Culture Media"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39447360",
+      "title": "Adaptation of Chlorella vulgaris immobilization on rice straw with liquid manure to create a sustainable feedstock for biogas production and potential feed applications.",
+      "pubdate": "2024 Nov",
+      "source": "J Environ Manage",
+      "authors": "Sobhi M, Elsamahy T, Zhang Y, Zakaria E, Ren S, Gaballah MS, Zhu F, Hu X, Cui Y, Huo S",
+      "elocationid": "doi: 10.1016/j.jenvman.2024.123050",
+      "abstract": "Rice straw (RS) is a widely available agricultural residue with significant potential for biogas production and feed applications; however, its poor digestibility and nutritional value limit its utilization. This study explores an innovative approach to enhance the digestibility and nutritional value of RS by cultivating Chlorella vulgaris through immobilization technology on RS, using liquid manure (LM) as an alternative to the traditional BG11 medium. The results showed an increase in chlorophyll a (Chl a) after 12 days for both the BG11 medium and LM-based treatments, from 0.13 to 0.34 and 0.24 mg Chl a/g product (DM), respectively. Additionally, the immobilized microalgal biomass increased to 284.18 and 170.14 mg algal biomass/g product (DM), respectively. Soaking under microaerobic conditions during cultivation led to the partial degradation of RS. This, combined with the formed microalgal biofilm, contributed to an improved digestibility of the dry matter, reaching 69.1% and 65.9% for the final products based on the BG11 medium and LM mediums, respectively, compared to 52.1% for the raw RS. Furthermore, the crude protein and lipids contents were significantly improved with the potential for applications in feed, reaching 21.4% and 4.1% for the BG11 medium-based product, while they were observed to be 12.8% and 3.0%, respectively, for the LM-based product. Additionally, carbon-to-nitrogen ratio was significantly reduced compared to the raw RS. The higher digestibility and improved nutritional value contributed to increased biogas production, reaching 129.3 and 118.7 mL/g (TS) for the products based on the traditional medium and LM medium, respectively, compared to 86.7 mL/g (TS) for the raw RS. The immobilization mechanism and biofilm development could be attributed to the roughness of the RS and extracellular polymer substances. This study demonstrates that integrating C. vulgaris cultivation on RS with LM as a nutrient source not only enhances the digestibility and nutritional value of RS but also offers a sustainable waste management solution with potential applications in biogas production and animal feed.",
+      "mesh_terms": [
+        "Chlorella vulgaris",
+        "Biofuels",
+        "Manure",
+        "Oryza",
+        "Biomass",
+        "Microalgae"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39008925",
+      "title": "Towards a circular economy - Repurposing side streams from the potato processing industry by Chlorella vulgaris.",
+      "pubdate": "2024 Aug",
+      "source": "J Environ Manage",
+      "authors": "Kriechbaum R, Kronlachner L, Limbeck A, Kopp J, Spadiut O",
+      "elocationid": "doi: 10.1016/j.jenvman.2024.121796",
+      "abstract": "Common wastewater treatment strategies in the food industry do not include efficient remediation strategies for nitrogen, phosphorous and organic carbon. Incorporating microalgae in water treatment plants is rising in popularity because of their high nutrient and trace element uptake driven by light. In this study, four different side streams from an Austrian potato processing company have been screened for their applicability of microalgal cultivation. The side streams were assessed for Chlorella vulgaris growth and their requirement of any additional pretreatment or media supplementation. One side stream specifically, called blanching water II, a stream generated by boiling the potatoes for ease of peeling, turned out very useful to cultivate Chlorella vulgaris and concomitantly remedy the wastewater. Compared to a state-of-the-art cultivation in BG11, cultivating Chlorella vulgaris in blanching water II led to a 45 % increase in specific growth rate of 1.29 day-1 and a 48% increase in biomass productivity to 294.6 mg/L/day, while all nitrogen and phosphate present in the side stream were metabolized. Overall, the results demonstrate that the water remediation process for blanching water II shows vast potential in regard to water purification and waste to value approaches.",
+      "mesh_terms": [
+        "Chlorella vulgaris",
+        "Solanum tuberosum",
+        "Nitrogen",
+        "Water Purification",
+        "Microalgae",
+        "Wastewater",
+        "Biomass",
+        "Phosphorus"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "23765374",
+      "title": "Auxin producing non-heterocystous Cyanobacteria and their impact on the growth and endogenous auxin homeostasis of wheat.",
+      "pubdate": "2013 Dec",
+      "source": "J Basic Microbiol",
+      "authors": "Mazhar S, Cohen JD, Hasnain S",
+      "elocationid": "doi: 10.1002/jobm.201100563",
+      "abstract": "Four non-heterocystous cyanobacterial strains isolated from rhizosphere and soil surface mat of rice, wheat, and maize were identified by 16S rRNA gene sequencing and evaluated for auxin production as well as growth promotion of wheat. Isolated strains produced a diverse amount of auxin in BG11 media supplemented with different concentrations of L-tryptophan. The amount of auxin detected with colorimetric methods was higher as compared to GC-MS analysis. Auxin production by cyanobacterial strains in BG 11 medium supplemented with 250 µg ml(-1) L-tryptophan ranged from 0.20 to 1.63 µg ml(-1) IAA as revealed by gas chromatography and mass spectrometric (GC-MS) analysis. In a hydroponic growth system, the vegetative growth of wheat was stimulated appreciably by inoculation with cyanobacterial strains. The endogenous auxin content of wheat was significantly correlated with the exogenous auxin production of the cyanobacterial strains. It was observed that cyanobacterial strains produced more endogenous and exogenous auxin in the presence of a plant, showing that plants might be releasing some signals responsible for higher auxin production by cyanobacterial cultures. It was concluded that the auxin producing potential of cyanobacterial strains can be exploited for the promotion of wheat growth.",
+      "mesh_terms": [
+        "Cyanobacteria",
+        "Homeostasis",
+        "Indoleacetic Acids",
+        "RNA, Bacterial",
+        "RNA, Ribosomal, 16S",
+        "Rhizosphere",
+        "Soil Microbiology",
+        "Triticum"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34954367",
+      "title": "Use of reverse osmosis reject from drinking water plant for microalgal biomass production.",
+      "pubdate": "2022 Feb 15",
+      "source": "Water Res",
+      "authors": "Bhandari M, Prajapati SK",
+      "elocationid": "doi: 10.1016/j.watres.2021.117989",
+      "abstract": "The present study evaluates the use of reverse osmosis (RO) reject, termed as ROR, for microalgal biomass production. The supplementation of ROR from two different sources, namely domestic RO unit (ROR1) and commercial-scale RO plant (ROR2), showed a synergistic effect on the growth and biochemical composition of Chlorella pyrenoidosa. Among the tested ROR1 doses, the highest biomass production (1.27±0.06 g L-1) was observed with 25% ROR1 supplemented growth media. In contrast, the lipid content (28.85±3.13% of TS) in C. pyrenoidosa at 50% ROR1 dose was almost twice that in BG11 (positive control). Interestingly, the microalgae showed relatively higher biomass production (1.37±0.07 g L-1) and higher lipid content (33.23±3.92% of TS) when 50% ROR2 was used in growth media. At the same time, the estimated carbohydrate and protein contents were 28.41±0.73 and 29.75±0.31% of TS, respectively. Furthermore, the lipid productivity (28.98±2.79 mg L-1 d-1) was relatively higher than the nutrient media (12.35±1.34 mg L-1 d-1). The present findings revealed that the RO reject from drinking water purifiers can efficiently be utilized for lipid-rich microalgal biomass production. Hence, the dependency on freshwater resources for mass scale microalgae cultivation through recycling of RO reject can be reduced.",
+      "mesh_terms": [
+        "Biomass",
+        "Chlorella",
+        "Drinking Water",
+        "Microalgae",
+        "Osmosis"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36406613",
+      "title": "Evaluation of fatty acid profiles of Chlorella Vulgaris microalgae grown in dairy wastewater for producing biofuel.",
+      "pubdate": "2022 Dec",
+      "source": "J Environ Health Sci Eng",
+      "authors": "Khalaji M",
+      "elocationid": "doi: 10.1007/s40201-022-00808-z",
+      "abstract": "Biodiesel is a biofuel made from plant oils and animal lipids. Utilization of lipid accumulation in algae biomass as biodiesel is a good alternative to fossil fuels. In this research Chlorella vulgaris microalga was applied after planting in BG11 culture medium in effluent and wastewater of dairy industry after preparation of 25, 50, and 75% dilutions. Algae in two concentrations with low (13 million cells/mL) and high density (26 million cells/mL) were injected. According to the results obtained in the wastewater environment the highest amount of C16:0 fatty acid was observed in F2 25% treatment, and C18:0 fatty acid is related to F1 75% treatment. In the effluent environment, the highest amount of fatty acids C16:0 and C16:1n7 occur in P1 50% treatment, and C18:0 and C18:3n3 fatty acids are related to P1 50% treatment, respectively. The highest amount of saturated fatty acids (SFA) was reported at P2 75% treatment (56.25%) and monounsaturated fatty acids (MUFA) has accumulated in F175% (40.13%) treatment. Chlorella vulgaris microalgae can be considered as a rich source of lipid and fatty acid profiles in both wastewater and effluents, and it can be regarded as potential significance source for biodiesel production.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "30984142",
+      "title": "Transcriptional Reprogramming of Arabidopsis thaliana Defence Pathways by the Entomopathogen Beauveria bassiana Correlates With Resistance Against a Fungal Pathogen but Not Against Insects.",
+      "pubdate": "2019",
+      "source": "Front Microbiol",
+      "authors": "Raad M, Glare TR, Brochero HL, Müller C, Rostás M",
+      "elocationid": "doi: 10.3389/fmicb.2019.00615",
+      "abstract": "The entomopathogenic fungus Beauveria bassiana can adopt an endophytic lifestyle by colonising a wide array of plant species. Beauveria-colonised plants can show enhanced resistance against insects and plant pathogens alike. However, little is known about the molecular and physiological mechanisms that govern such interactions. Here, we assessed the effects of two B. bassiana strains (BG11, FRh2) on the growth of Arabidopsis thaliana and its resistance against two herbivore species and a phytopathogen. Plant responses were studied on the transcriptomic and metabolic level using microarrays and by measuring changes in defence-related phytohormones and glucosinolates (GLSs). Root inoculation with B. bassiana BG11 significantly increased plant growth, while FRh2 had no such effect. Both Beauveria strains decreased leaf lesion area caused by the phytopathogen Sclerotinia sclerotiorum but did not affect population growth of the aphid Myzus persicae or the growth of Plutella xylostella caterpillars. Microarray analyses of leaves from endophyte-inoculated A. thaliana provided evidence for transcriptional reprogramming of plant defence pathways, with strain-specific changes in the expression of genes related to pathogenesis, phytoalexin, jasmonic (JA), and salicylic acid (SA) signalling pathways. However, B. bassiana colonisation did not result in higher concentrations of JA and SA or major changes in leaf GLS profiles. We conclude that the endophyte B. bassiana induces plant defence responses and hypothesise that these contribute to enhanced resistance against S. sclerotiorum.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36903888",
+      "title": "Enhancing Urban Wastewater Treatment through Isolated Chlorella Strain-Based Phytoremediation in Centrate Stream: An Analysis of Algae Morpho-Physiology and Nutrients Removal Efficiency.",
+      "pubdate": "2023 Feb 24",
+      "source": "Plants (Basel)",
+      "authors": "Baldisserotto C, Demaria S, Arcidiacono M, Benà E, Giacò P, Marchesini R, Ferroni L, Benetti L, Zanella M, Benini A",
+      "elocationid": "doi: 10.3390/plants12051027",
+      "abstract": "The release of inadequately treated urban wastewater is the main cause of environmental pollution of aquatic ecosystems. Among efficient and environmentally friendly technologies to improve the remediation process, those based on microalgae represent an attractive alternative due to the potential of microalgae to remove nitrogen (N) and phosphorus (P) from wastewaters. In this work, microalgae were isolated from the centrate stream of an urban wastewater treatment plant and a native Chlorella-like species was selected for studies on nutrient removal from centrate streams. Comparative experiments were set up using 100% centrate and BG11 synthetic medium, modified with the same N and P as the effluent. Since microalgal growth in 100% effluent was inhibited, cultivation of microalgae was performed by mixing tap-freshwater with centrate at increasing percentages (50%, 60%, 70%, and 80%). While algal biomass and nutrient removal was little affected by the differently diluted effluent, morpho-physiological parameters (FV/FM ratio, carotenoids, chloroplast ultrastructure) showed that cell stress increased with increasing amounts of centrate. However, the production of an algal biomass enriched in carotenoids and P, together with N and P abatement in the effluent, supports promising microalgae applications that combine centrate remediation with the production of compounds of biotechnological interest; for example, for organic agriculture.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38935314",
+      "title": "Terrestrial mosses as a substrate and potential host for cyanobacteria, green algae and diatoms.",
+      "pubdate": "2024 Sep",
+      "source": "J Plant Res",
+      "authors": "Szczepocka E, Nowicka-Krawczyk P, Wolski GJ",
+      "elocationid": "doi: 10.1007/s10265-024-01551-2",
+      "abstract": "Most studies of terrestrial bryophytes as natural substrates for photosynthetic microorganisms have been performed in the polar regions, where bryophytes are an important part of the ecosystem. As they remain green throughout the year, bryophytes may also be an ideal substrate for epiphytic organisms in temperate regions. The present study investigated the colonization potential and diversity of microalgae on selected plant species in riparian forest and spruce monoculture in a temperate region. It examines whether the presence of algae is related to substrate humidity, the micromorphology of gametophyte or the seasonal availability of substrate. The taxonomic diversity of algae was studied. Cyanobacteria and green algae were cultured on BG-11 agar medium, while diatoms were identified in permanent diatomaceous slides. The alpha- and beta-diversity indices were calculated, and the communities were compared using Bray-Curtis distances and multidimensional correspondence analyses. Our findings indicate that the largest number of alga species were diatoms; however, their presence was only observed in riparian forest and was associated with high humidity. Both aerophilic and freshwater taxa were noted, the latter carried by water from nearby aquatic ecosystem. Green algae were present in both phytocoenoses and humidity appears to have no substantial effect on the degree of colonization; their diversity was low and the group consisted of terrestrial taxa. In two bryophytes growing at the highest humidity, cyanobacteria were only identified in culture. The key factor influencing the degree of microalgae colonization was the humidity of the substrate, which was related to the distance from water.",
+      "mesh_terms": [
+        "Diatoms",
+        "Bryophyta",
+        "Cyanobacteria",
+        "Chlorophyta",
+        "Ecosystem",
+        "Biodiversity",
+        "Forests"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "31183423",
+      "title": "Effect of CO(2) and metal-rich waste water on bioproduct potential of the diazotrophic freshwater cyanobacterium, Tolypothrix sp.",
+      "pubdate": "2019 Apr",
+      "source": "Heliyon",
+      "authors": "Velu C, Cirés S, Brinkman DL, Heimann K",
+      "elocationid": "doi: 10.1016/j.heliyon.2019.e01549",
+      "abstract": "Continued economic growth is reliant on stable, affordable energy, requiring at present fossil fuel-derived energy production. Coal-fired power stations produce metal-rich but macro-nutrient-poor waste waters and emit flue gas, containing ∼10% CO2. Algae and cyanobacteria remediate metals and CO2, but use of N2-fixing (diazotrophic) cyanobacteria can reduce nitrogen-fertilization costs. The resulting biomass represents a promising source for biofuel and bio-product development. This study investigated the effect of CO2- and trace metals on growth performance, biochemical profiles and metal content of the freshwater diazotrophic cyanobacterium Tolypothrix sp. to assess bioproduct potential. Aerated 2 L batch cultures were grown in simulated ash-dam water (SADW) and BG11 without nitrogen (BG11(-N) controls). Supplied air was supplemented with either 15% CO2 or not (non-CO2 controls). CO2 supplementation resulted in 2.4 and 3.3-fold higher biomass productivities and 1.3 and 1.2-fold higher phycocyanin and phycoerythrin contents, whilst metals (media) had no effect. Al, Cu, Ni and V were more efficiently removed (50-90%) with CO2-addition, while As, Mo, Se and Sr removal was higher (30-87%) for non-CO2 controls. No significant effect on Zn and Fe removal was evident. Calculated biomass metal concentrations, at quantities required to meet N-requirements of wheat, suggests no metal toxicity when applied as a mineral-nitrogen biofertilizer. With a carbohydrate content of 50%, the biomass is also suitable for bioethanol production. In summary, Tolypothrix sp. raised in ash dam waste water supplemented with flue gas CO2 could yield high-value phycobiliproteins, bioethanol or biogas, and mineral-rich nitrogen fertilizer which would offset remediation costs and improve agricultural productivity.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34225111",
+      "title": "Auxin production of the filamentous cyanobacterial Planktothricoides strain isolated from a polluted river in Vietnam.",
+      "pubdate": "2021 Dec",
+      "source": "Chemosphere",
+      "authors": "Duong TT, Nguyen TTL, Dinh THV, Hoang TQ, Vu TN, Doan TO, Dang TMA, Le TPQ, Tran DT, Le VN",
+      "elocationid": "doi: 10.1016/j.chemosphere.2021.131242",
+      "abstract": "Cyanobacteria are photosynthetic microorganisms with widespread diversity and extensive global distribution. They produce a wide variety of bioactive substances (e.g., lipopeptides, fatty acids, toxins, carotenoids, vitamins and plant growth regulators) that are released into culture media. In this study, the capability of a cyanobacterial strain of Planktothricoides raciborskii to produce intra- and extracellular auxins was investigated. The filamentous cyanobacterial P. raciborskii strain was isolated from a river in Vietnam, and it was cultivated in the laboratory under the optimum conditions of the BG11 culture medium and a pH of 7.0. The auxins were identified and quantified by the Salkowski colorimetric method and high-performance liquid chromatography coupled with mass spectrometry (HPLC-MS). Colorimetric analysis revealed that P. raciborskii produces extracellular indole-3-acetic acid (IAA) in the absence and presence of l-tryptophan. The maximum extracellular IAA concentration of the culture reached 118 ± 2 μg mL-1, which was supplemented with 900 μg mL-1 of l-tryptophan. HPLC-MS analysis revealed that the isolated cyanobacteria accumulate other plant-growth-promoting hormones besides IAA, such as indole-3-carboxylic acid (ICA), indole-3 butyric acid (IBA) and indole propionic acid (IPA). This is the first report on the production of auxins in an isolated strain of cyanobacteria Planktothricoides from a polluted river. The capability of producing auxins makes the P. raciborskii strain an appropriate candidate for the formulation of a biofertilizer.",
+      "mesh_terms": [
+        "Cyanobacteria",
+        "Indoleacetic Acids",
+        "Rivers",
+        "Vietnam"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34274677",
+      "title": "Valorization of poultry litter using Acutodesmus obliquus and its integrated application for lipids and fertilizer production.",
+      "pubdate": "2021 Nov 20",
+      "source": "Sci Total Environ",
+      "authors": "Musetsho P, Renuka N, Guldhe A, Singh P, Pillay K, Rawat I, Bux F",
+      "elocationid": "doi: 10.1016/j.scitotenv.2021.149018",
+      "abstract": "Microalgae are recognized as potential candidates for resource recovery from wastewater and projected for biorefinery models. This study was undertaken to evaluate the potential of poultry litter and municipal wastewater as nutrient and water sources, for the cultivation of Acutodesmus obliquus for lipids production for biodiesel application. The efficacy of lipid extracted biomass (LEA) as fertilizer for mung bean crops was also assessed in microcosm. A. obliquus cultivation in acid pre-treated poultry litter extract (PPLE) showed maximum biomass production of 1.90 g L-1, which was 74.67% and 12.61% higher than the raw poultry litter extract (RPPE) and BG11 respectively. Higher NO3-N, NH3-N, and PO4-P removal of 79.51%, 81.82%, and 80.52% respectively were observed in PPLE as compared to RPLE treatment. The highest biomass (140.36 mg L-1 d-1), lipids (38.49 mg L-1 d-1), and carbohydrates (49.55 mg L-1 d-1) productivities were observed in the PPLE medium. The application of LEA as a fertilizer for mung bean crops showed improvement in plant growth and soil microbial activity. A maximum increase in organic carbon (59.5%) and dehydrogenase activity (130.8%) was observed in LEA amended soil which was significantly higher than chemical fertilizer (CF) control in 30 days. Whilst plant fresh weight and leaf chlorophyll in the LEA amended soil was comparable to whole algal biomass (WA) and CF control. The strategy developed could be a basis for sustainable biorefinery for the valorization of wastewater for the production of microalgae-derived biofuel and byproducts for agricultural application.",
+      "mesh_terms": [
+        "Animals",
+        "Biofuels",
+        "Biomass",
+        "Fertilizers",
+        "Lipids",
+        "Microalgae",
+        "Poultry",
+        "Wastewater"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39964594",
+      "title": "Plastics aplenty in paddy lands: incidence of microplastics in Indian rice fields and ecotoxicity on paddy field phytoplankton.",
+      "pubdate": "2025 Feb 18",
+      "source": "Environ Monit Assess",
+      "authors": "Amaneesh C, Kim HS, Ramanan R",
+      "elocationid": "doi: 10.1007/s10661-025-13737-9",
+      "abstract": "Occurrence of microplastics (MP) in natural paddy fields and its impact are less studied. This study reports the abundance of MP in two paddy fields of Kerala, India, cultivating rice crops, 'Pokkali' and 'Uma' crops, which are vital to Kerala's food security and climate resilience. Fourier transform infrared spectroscopy (FTIR) analyses confirmed the presence of polyethylene (PE) and polypropylene (PP) fragments as major MP in the surface water of paddy fields during vegetative (transplantation) and ripening (near harvesting) phases. MP density in the vegetative phase of 'Pokkali' (1370 ± 468.51 fragments/m3) and 'Uma' (1110 ± 304.96 fragments/m3) was thrice more than the ripening phase concentrations (400 ± 196.85 and 370 ± 57.00 fragments/m3, respectively). Subsequently, ecotoxicity of MP and plastic leachates (PL) on phytoplankton that are naturally found in rice fields was examined. Microalga, Chlorococcum sp., and cyanobacterium, Synechococcus sp., were grown in modified BG11 and BG11 media, respectively, and tested with paddy field concentrations for PE-MP and PE-PL. MP bestowed a significant hormetic effect on the specific growth rate of the microalga (121% of the control) whereas the cyanobacterial growth was negatively impacted (70% of the control). Both phytoplankton exhibited a similar response when exposed to PL, but results were neither dose-dependent nor significant. Further, increased catalase activity and compromised superoxide dismutase machinery in the cyanobacterium corroborated the toxic impact on growth (p ≤ 0.05), which indicates reactive oxygen species (ROS) generation in MP-treated groups. ROS generation indicates oxidative stress following MP exposure in the studied phytoplankton perhaps through surface contact or by leaching of toxic intermediates into the medium. The distinctive responses of paddy field phytoplankton to MP and PL stress suggest that MP pollution may enrich certain resilient species over others leading to a possible change in phytoplankton community structure. Pollution load indices suggest that even environmental concentrations of MP and PL may affect the rice productivity as paddy field phytoplankton play a significant role in sustaining and enhancing crop health. Therefore, the presence of MP at alarming concentrations in the paddy fields signifies the emergence of a global environmental and food security concern.",
+      "mesh_terms": [
+        "Microplastics",
+        "Oryza",
+        "India",
+        "Water Pollutants, Chemical",
+        "Environmental Monitoring",
+        "Phytoplankton",
+        "Agriculture",
+        "Plastics"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

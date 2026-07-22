@@ -1,0 +1,501 @@
+{
+  "term": "(\"APX2\"[Title/Abstract] OR \"APx02\"[Title/Abstract] OR \"APx2\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "36130868",
+    "29549445",
+    "35352421",
+    "30516434",
+    "39963376",
+    "40914939",
+    "39316915",
+    "33510759",
+    "33711164",
+    "41559540",
+    "32423827",
+    "33753194",
+    "35269925",
+    "34515933",
+    "41109508",
+    "11997373",
+    "37148659",
+    "35986244",
+    "12068123",
+    "36836880"
+  ],
+  "records": [
+    {
+      "pmid": "36130868",
+      "title": "Brassinosteroids enhance BES1-required thermomemory in Arabidopsis thaliana.",
+      "pubdate": "2022 Dec",
+      "source": "Plant Cell Environ",
+      "authors": "Yao X, Li Y, Chen J, Zhou Z, Wen Y, Fang K, Yang F, Li T, Zhang D, Lin H",
+      "elocationid": "doi: 10.1111/pce.14444",
+      "abstract": "Heat stress (HS) caused by ambient high temperature poses a threat to plants. In the natural and agricultural environment, plants often encounter repeated and changeable HS. Moderate HS primes plants to establish a molecular 'thermomemory' that enables plants to withstand a later-and possibly more extreme-HS attack. Recent years, brassinosteroids (BRs) have been implicated in HS response, whereas the information is lacking on whether BRs signal transduction modulates thermomemory. Here, we uncover the positive role of BRs signalling in thermomemory of Arabidopsis thaliana. Heat priming induces de novo synthesis and nuclear accumulation of BRI1-Ethyl methyl sulfon-SUPPRESSOR (BES1), which is the key regulator of BRs signalling. BRs promote the accumulation of dephosphorylated BES1 during memory phase, and stoppage of BRs synthesis impairs dephosphorylation. During HS memory, BES1 is required to maintain sustained induction of HS memory genes and directly targets APX2 and HSFA3 for activation. In summary, our results reveal a BES1-required, BRs-enhanced transcriptional control module of thermomemory in Arabidopsis thaliana.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Brassinosteroids",
+        "Arabidopsis Proteins",
+        "Gene Expression Regulation, Plant",
+        "DNA-Binding Proteins",
+        "Plants, Genetically Modified"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "29549445",
+      "title": "Cytosolic APX2 is a pleiotropic protein involved in H(2)O(2) homeostasis, chloroplast protection, plant architecture and fertility maintenance.",
+      "pubdate": "2018 Jun",
+      "source": "Plant Cell Rep",
+      "authors": "Wu B, Li L, Qiu T, Zhang X, Cui S",
+      "elocationid": "doi: 10.1007/s00299-018-2272-y",
+      "abstract": "Rice cytoplasmic APX2 is a pleiotropic protein, densely distributed around chloroplasts. It plays key roles in H2O2 homeostasis and chloroplast protection, and is related to plant architecture and fertility regulation. Ascorbate peroxidases (APXs) catalyze the conversion of H2O2 into H2O. In this report, we systematically investigated the function of cytosolic APX2 using a T-DNA knockout mutant. Loss of OsAPX2 altered rice architecture including shoot height and leaf inclination, resulting in shoot dwarfing, leaf dispersion and fertility decline. Sixty-five differentially expressed proteins were identified in flag leaves of the milk-ripe stage, mainly involved in photosynthesis, glycolysis and TCA cycle, redox homeostasis, and defense. The absence of APX2 severely impacted the stability of chloroplast proteins, and dramatically reduced their expression levels. Subcellular localization showed that APX2 was enriched around each chloroplast to form a high concentration sphere, highlighting chloroplasts as key targets protected by the protein. Accumulation of H2O2 was suppressed in the KO-APX2 mutant, which may benefit from increased CAT activity and functional complementation of APX family members. Unexpectedly, the accumulation of soluble sugar, especially sucrose increased significantly, suggesting that APX2 was involved in regulation of sugar metabolism. Obviously, roles of the cytosolic APX2 are very profound and complex in rice. It can be concluded that the cytosolic APX2 is a pleiotropic protein and an important regulator in ROS homeostasis, chloroplast protection, carbohydrate metabolism as well as plant architecture and fertility maintenance.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Carbohydrate Metabolism",
+        "Chloroplasts",
+        "Cytosol",
+        "Homeostasis",
+        "Hydrogen Peroxide",
+        "Oryza",
+        "Oxidation-Reduction",
+        "Photosynthesis",
+        "Plant Proteins",
+        "Reproduction"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35352421",
+      "title": "LSD3 mediates the oxidative stress response through fine-tuning APX2 activity and the NF-YC15-GSTs module in cassava.",
+      "pubdate": "2022 Jun",
+      "source": "Plant J",
+      "authors": "Zeng H, Xu H, Wang H, Chen H, Wang G, Bai Y, Wei Y, Shi H",
+      "elocationid": "doi: 10.1111/tpj.15749",
+      "abstract": "Reactive oxygen species (ROS) overproduction leads to oxidative damage under almost all stress conditions. Lesion-Simulating Disease (LSD), a zinc finger protein, is an important negative regulator of ROS accumulation and cell death in plants. However, the in vivo role of LSD in cassava (Manihot esculenta) and the underlying molecular mechanisms remain elusive. Here, we found that MeLSD3 is essential for the oxidative stress response in cassava. MeLSD3 physically interacted with ascorbate peroxidase 2 (MeAPX2), thereby promoting its enzymatic activity. In addition, MeLSD3 also interacted with the nuclear factor YC15 (MeNF-YC15), which also interacted with nuclear factor YA2/4 (MeNF-YA2/4) and nuclear factor YB18 (MeNF-YB18) to form an MeNF-YC15-MeNF-YA2/4-MeNF-YB18 complex. Notably, MeLSD3 positively modulated the transcriptional activation of the MeNF-YC15-MeNF-YA2/4-MeNF-YB18 complex by interacting with the CCAAT boxes of the promoters of glutathione S-transferases U37/U39 (MeGST-U37/U39), activating their transcription. When one or both of MeLSD3 and the MeNF-YC15-MeNF-YA2/4-MeNF-YB18 complex were co-silenced, cassava showed decreased oxidative stress resistance, while overexpression of MeGST-U37/U39 alleviated the oxidative stress-sensitive phenotype of these silenced plants. This study illustrates the dual roles of MeLSD3 in promoting MeAPX2 activity and MeNF-YC15-MeGST-U37/U39 regulation, which underlie the oxidative stress response in cassava.",
+      "mesh_terms": [
+        "Manihot",
+        "Oxidative Stress",
+        "Reactive Oxygen Species"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "30516434",
+      "title": "Light priming of thermotolerance development in plants.",
+      "pubdate": "2019",
+      "source": "Plant Signal Behav",
+      "authors": "Han SH, Park YJ, Park CM",
+      "elocationid": "doi: 10.1080/15592324.2018.1554469",
+      "abstract": "It is widely perceived that plant responses to environmental temperatures are profoundly influenced by light conditions. However, it is unknown how light signals modulate plant thermal responses and what photoreceptors are responsible for the light regulation of thermal adaptive process. We have recently reported that phytochrome B (phyB)-mediated red light signals prime the ASCORBATE PEROXIDASE 2 (APX2)-mediated detoxification reaction of reactive oxygen species (ROS), a well-known biochemical process that mediates the acquisition of thermotolerance under high temperature conditions. It is interesting that red light influences the HEAT SHOCK FACTOR A1 (HSFA1)-stimulated activation of the APX2 transcription, which is otherwise responsive primarily to stressful high temperatures. Blue light also efficiently primes the APX2-mediated induction of thermotolerance. In natural habitats, temperatures fluctuate according to the light/dark cycles with temperature peaks occurring during the daytime. It is thus apparent that plants utilize light information to prepare for upcoming high temperature spells.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Gene Expression Regulation, Plant",
+        "Light",
+        "Thermotolerance"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39963376",
+      "title": "The overexpression of ascorbate peroxidase 2 (APX2) gene improves drought tolerance in maize.",
+      "pubdate": "2025 Feb",
+      "source": "Mol Breed",
+      "authors": "Gao B, Wang Y, Qu J, Miao M, Zhao Y, Liu S, Guan S, Ma Y",
+      "elocationid": "doi: 10.1007/s11032-025-01548-2",
+      "abstract": "UNLABELLED: Maize, a primary global food crop, is crucial for food security. In recent years, climatic and other abiotic stresses have led to frequent global droughts. Ascorbate peroxidase (APX) plays a vital role in the ascorbate-glutathione cycle. Under drought stress, APX effectively scavenges reactive oxygen species (ROS) produced by plants and maintains the normal growth and development of organisms. This study successfully amplified APX-related genes, and the ZmAPX2 gene was screened using expression analysis. pCAMBIA3301-ZmAPX2-Bar and pCXB053-ZmAPX2-Bar plant expression vectors were constructed and transformed into the maize inbred line H120. Drought tolerance of plants was analyzed by phenotypic characteristics, physiological and biochemical indices in T2 generation positive maize seedlings as well as agronomic traits at maturity. Results indicate that boosting APX2 gene expression enhances maize drought resistance by reducing ROS content. This research underpins the exploration of new drought-tolerant maize germplasm and resistance mechanisms. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s11032-025-01548-2.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40914939",
+      "title": "BBX10 interacts with PIF1 to prevent photo-oxidation and to promote the greening process.",
+      "pubdate": "2025 Sep 23",
+      "source": "Cell Rep",
+      "authors": "Zhou L, Bian Y, Song Z, Chen X, Wang Y, Chu L, Dong J, Xu D",
+      "elocationid": "doi: 10.1016/j.celrep.2025.116268",
+      "abstract": "Seedlings emerged from the covering soil immediately undergo de-etiolation, ensuring plants switch from heterotrophic to photoautotrophic growth. This transition is essential for seedling development and survival. However, the underlying mechanism remains largely obscure. Here, we identified that B-box PROTEIN 10 (BBX10) inhibits the biosynthesis of protochlorophyllide in darkness and accumulation of reactive oxygen species (ROS) upon light exposure, hence leading to the increase of seedling greening and survival during de-etiolation. BBX10 interacts with PHYTOCHROME INTERACTING FACTOR 1 (PIF1) and enhances its DNA-binding affinity and transcriptional repression or activation activity toward target genes GENOMES UNCOUPLED 5 (GUN5) and ASCORBATE PEROXIDASE 2 (APX2), respectively. Genetically, BBX10 acts upstream of PIF1, GUN5, and APX2 in regulating of greening. Together, our study reveals that the BBX10-PIF1 transcriptional module inhibits the protochlorophyllide biosynthesis in darkness and ROS accumulation upon light irradiation, through which seedlings protect themselves against photo-oxidative damage upon emerging from the soil.",
+      "mesh_terms": [
+        "Arabidopsis Proteins",
+        "Arabidopsis",
+        "Basic Helix-Loop-Helix Proteins",
+        "Oxidation-Reduction",
+        "Reactive Oxygen Species",
+        "Light",
+        "Seedlings",
+        "Transcription Factors",
+        "Gene Expression Regulation, Plant",
+        "Protochlorophyllide",
+        "Ascorbate Peroxidases",
+        "Protein Binding",
+        "Etiolation"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39316915",
+      "title": "Ammonium mitigates cadmium toxicity by activating the bZIP20-APX2/CATA transcriptional module in rice seedlings in an ABA-dependent manner.",
+      "pubdate": "2024 Dec 5",
+      "source": "J Hazard Mater",
+      "authors": "Di DW, Li TT, Yu ZL, Cheng J, Wang M, Liu CF, Wang Y, Kronzucker HJ, Yu M, Shi W",
+      "elocationid": "doi: 10.1016/j.jhazmat.2024.135874",
+      "abstract": "The amelioration of cadmium (Cd2+) toxicity in plants by ammonium (NH4+) has been widely investigated. However, the molecular mechanisms underpinning this amelioration have remained ambiguous. Here, we found that NH4+ significantly reduces Cd2+ accumulation and enhances antioxidant capacity by increasing ABA accumulation, which, in turn, improves Cd2+ tolerance in rice seedlings. A combination of qPCR, yeast-one-hybrid and dual-luciferase assays, and CUT&RUN-qPCR methods demonstrates that OsbZIP20 directly binds to the promoters of OsAPX2 and OsCATA, activating their transcription, and we show that the process requires phosphorylation modification of OsbZIP20 by OsSAPK9. Under Cd2+ stress, Osbzip20 and Ossapk9 mutants show reduced peroxidase and catalase activities, higher H2O2 accumulation, and reduced Cd2+ tolerance. In sum, our results elucidate a novel mechanism by which NH4+ enhances Cd2+ resistance, through ABA-SAPK9-bZIP20-APX2/CATA, offering a new strategy for improving Cd2+ resistance in rice.",
+      "mesh_terms": [
+        "Oryza",
+        "Cadmium",
+        "Abscisic Acid",
+        "Seedlings",
+        "Plant Proteins",
+        "Ammonium Compounds",
+        "Gene Expression Regulation, Plant",
+        "Basic-Leucine Zipper Transcription Factors",
+        "Hydrogen Peroxide"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33510759",
+      "title": "Heat-Induced Oxidation of the Nuclei and Cytosol.",
+      "pubdate": "2020",
+      "source": "Front Plant Sci",
+      "authors": "Babbar R, Karpinska B, Grover A, Foyer CH",
+      "elocationid": "doi: 10.3389/fpls.2020.617779",
+      "abstract": "The concept that heat stress (HS) causes a large accumulation of reactive oxygen species (ROS) is widely accepted. However, the intracellular compartmentation of ROS accumulation has been poorly characterized. We therefore used redox-sensitive green fluorescent protein (roGFP2) to provide compartment-specific information on heat-induced redox changes of the nuclei and cytosol of Arabidopsis leaf epidermal and stomatal guard cells. We show that HS causes a large increase in the degree of oxidation of both compartments, causing large shifts in the glutathione redox potentials of the cells. Heat-induced increases in the levels of the marker transcripts, heat shock protein (HSP)101, and ascorbate peroxidase (APX)2 were maximal after 15 min of the onset of the heat treatment. RNAseq analysis of the transcript profiles of the control and heat-treated seedlings revealed large changes in transcripts encoding HSPs, mitochondrial proteins, transcription factors, and other nuclear localized components. We conclude that HS causes extensive oxidation of the nucleus as well as the cytosol. We propose that the heat-induced changes in the nuclear redox state are central to both genetic and epigenetic control of plant responses to HS.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33711164",
+      "title": "The protein kinase CPK28 phosphorylates ascorbate peroxidase and enhances thermotolerance in tomato.",
+      "pubdate": "2021 Jun 11",
+      "source": "Plant Physiol",
+      "authors": "Hu Z, Li J, Ding S, Cheng F, Li X, Jiang Y, Yu J, Foyer CH, Shi K",
+      "elocationid": "doi: 10.1093/plphys/kiab120",
+      "abstract": "High temperatures are a major threat to plant growth and development, leading to yield losses in crops. Calcium-dependent protein kinases (CPKs) act as critical components of Ca2+ sensing in plants that transduce rapid stress-induced responses to multiple environmental stimuli. However, the role of CPKs in plant thermotolerance and their mechanisms of action remain poorly understood. To address this issue, tomato (Solanum lycopersicum) cpk28 mutants were generated using a CRISPR-Cas9 gene-editing approach. The responses of mutant and wild-type plants to normal (25°C) and high temperatures (45°C) were documented. Thermotolerance was significantly decreased in the cpk28 mutants, which showed increased heat stress-induced accumulation of reactive oxygen species (ROS) and levels of protein oxidation, together with decreased activities of ascorbate peroxidase (APX) and other antioxidant enzymes. The redox status of ascorbate and glutathione were also modified. Using a yeast two-hybrid library screen and protein interaction assays, we provide evidence that CPK28 directly interacts with cytosolic APX2. Mutations in APX2 rendered plants more sensitive to high temperatures, whereas the addition of exogenous reduced ascorbate (AsA) rescued the thermotolerance phenotype of the cpk28 mutants. Moreover, protein phosphorylation analysis demonstrated that CPK28 phosphorylates the APX2 protein at Thr-59 and Thr-164. This process is suggested to be responsive to Ca2+ stimuli and may be required for CPK28-mediated thermotolerance. Taken together, these results demonstrate that CPK28 targets APX2, thus improving thermotolerance. This study suggests that CPK28 is an attractive target for the development of improved crop cultivars that are better adapted to heat stress in a changing climate.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Ascorbate Peroxidases",
+        "Heat-Shock Response",
+        "Solanum lycopersicum",
+        "Mutation",
+        "Oxidation-Reduction",
+        "Phenotype",
+        "Phosphorylation",
+        "Plant Proteins",
+        "Protein Kinases",
+        "Reactive Oxygen Species",
+        "Thermotolerance",
+        "Two-Hybrid System Techniques",
+        "Calcium-Calmodulin-Dependent Protein Kinases"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41559540",
+      "title": "Transcriptome and metabolome analyses reveal the roles of APX2 in regulating tiller growth and metabolism in rice (Oryza sativa L.).",
+      "pubdate": "2026 Jan 21",
+      "source": "BMC Genomics",
+      "authors": "Liu X, Wang L, Qiu P, Wu B, Liu W",
+      "elocationid": "doi: 10.1186/s12864-026-12557-6",
+      "abstract": "BACKGROUND: Tiller angle, a key determinant of plant architecture in rice (Oryza sativa), critically influences photosynthetic efficiency and grain yield potential. Nevertheless, the molecular mechanisms that regulate tiller angle remain poorly characterized. As a central component of the ascorbate-glutathione cycle, ascorbate peroxidase (APX) scavenges reactive oxygen species (ROS) and maintains cellular redox homeostasis, thereby modulating diverse growth and developmental processes in plants. Despite its established pleiotropic functions, the specific role of OsAPX2 in controlling tiller angle in rice has yet to be elucidated. RESULTS: Here, we employed an integrated transcriptomic and metabolomics analyses to elucidate the role of OsAPX2 in regulating rice tiller angle. Comparative analysis revealed 1,473 differentially expressed genes (DEGs) in the apx2 mutant, with significant enrichment in 23 pathways including starch and sucrose metabolism, plant-pathogen interaction, and plant hormone signal transduction. Concurrently, OsAPX2 deletion perturbed the metabolome, leading to significant accumulation changes in 34 metabolites (15 increased, 19 decreased). Moreover, the results of co-expression analysis showed that the interactions of identified DEGs and DEMs diversely involved in starch and sucrose metabolism, pentose phosphate pathway, amino sugar and nucleotide sugar metabolism, indicating that OsAPX2 may be involved in the regulation of these processes during tillering stage. CONCLUSION: The results indicated that a loss-of-function mutation in OsAPX2 increased the tiller angle by (i) enhancement of the starch and sucrose metabolism, (ii) promotion of plant hormone signal transduction pathways. This study provided new mechanistic insight into how this pleiotropic regulator modulated carbohydrate metabolism and plant hormone signal transduction pathways that specifically link ROS signaling to tiller angle.",
+      "mesh_terms": [
+        "Oryza",
+        "Metabolome",
+        "Gene Expression Regulation, Plant",
+        "Transcriptome",
+        "Plant Proteins",
+        "Gene Expression Profiling",
+        "Metabolomics",
+        "Ascorbate Peroxidases"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32423827",
+      "title": "WRKY33-PIF4 loop is required for the regulation of H(2)O(2) homeostasis.",
+      "pubdate": "2020 Jul 5",
+      "source": "Biochem Biophys Res Commun",
+      "authors": "Sun Y, Liu Z, Guo J, Zhu Z, Zhou Y, Guo C, Hu Y, Li J, Shangguan Y, Li T",
+      "elocationid": "doi: 10.1016/j.bbrc.2020.05.041",
+      "abstract": "The reactive oxygen species (ROS) are continuously produced and are essential for mediating the growth and development of plants. However too much accumulation of ROS can result in the oxidative damage to cells, especially under the adverse environmental conditions. Plants have evolved sophisticated strategies to regulate the homeostasis of H2O2. In this study, we generated transgenic Arabidopsis plants in the Ws ecotype (Ws) background in which WRKY33 is co-suppressed (csWRKY33/Ws). Compared with Ws, csWRKY33/Ws plants accumulate more H2O2. RNA-seq analysis indicated that in csWRKY33/Ws plants, expression of oxidative stress related genes such as ascorbate peroxidase 2 (APX2) is affected. Over-expression of APX2 can rescue the phenotype of csWRKY33/Ws, suggesting that the changes in the growth of csWRKY33/Ws is duo to the higher accumulation of H2O2. Analysis of the CHIP-seq data suggested that WRKY33 can directly regulate the expression of PIF4, vice versa. qPCR analysis also confirmed that the mutual regulation between WRKY33 and PIF4. Similar to that of csWRKY33/Ws, and the accumulation of H2O2 in pif4 also increased. Taken together, our results reveal a WRKY33-PIF4 regulatory loop that appears to play an important role in regulating the growth and development of seedlings by mediating H2O2 homeostasis.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Basic Helix-Loop-Helix Proteins",
+        "Gene Expression Regulation, Plant",
+        "Homeostasis",
+        "Hydrogen Peroxide",
+        "Plants, Genetically Modified",
+        "Reactive Oxygen Species",
+        "Transcription Factors"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33753194",
+      "title": "Characteristics of starch from rice seeds modified by T-DNA insertion of ascorbate peroxidase 2.",
+      "pubdate": "2021 Jun 1",
+      "source": "Int J Biol Macromol",
+      "authors": "Wu B, Xie C, Zhang Q, Wang B, Liu W",
+      "elocationid": "doi: 10.1016/j.ijbiomac.2021.03.099",
+      "abstract": "Starch is the main storage carbohydrate in rice seed. The amylose and amylopectin content differ among varieties. A transgenic rice line was obtained by T-DNA insertion of ascorbate peroxidase 2 (apx2), resulting in decrease of thousand kernel weight. In this study, starches were isolated from apx2 and wild type seeds. Morphology, physical and chemical properties of starch granules were analyzed. The seed micro-surface in apx2 showed distinct textures, compared with that of wild type. The morphology of starch granules in apx2 exhibited irregular shapes, while the wild type starch granules presented regular polyhedral shapes. Additionally, the length and width of starch granules in apx2 were significantly decreased, compared with that of wild type. Further analysis found that apx2 starch showed low crystallinity and high amylose with the methods of X-ray diffraction pattern, iodine binding and blue value analysis, fourier transform infrared (FT-IR) spectrum and thermogravimetric investigation. This study broadened our knowledge of relationship between antioxidant enzyme and rice seed starch formation.",
+      "mesh_terms": [
+        "Amylopectin",
+        "Amylose",
+        "Ascorbate Peroxidases",
+        "DNA, Bacterial",
+        "Iodine",
+        "Microscopy, Electron, Scanning",
+        "Mutagenesis, Insertional",
+        "Oryza",
+        "Plants, Genetically Modified",
+        "Seeds",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Starch",
+        "Surface Properties",
+        "Thermogravimetry",
+        "X-Ray Diffraction"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35269925",
+      "title": "Characterization of the Wheat Heat Shock Factor TaHsfA2e-5D Conferring Heat and Drought Tolerance in Arabidopsis.",
+      "pubdate": "2022 Mar 3",
+      "source": "Int J Mol Sci",
+      "authors": "Bi H, Miao J, He J, Chen Q, Qian J, Li H, Xu Y, Ma D, Zhao Y, Tian X",
+      "elocationid": "doi: 10.3390/ijms23052784",
+      "abstract": "Environmental stresses, especially heat and drought, severely limit plant growth and negatively affect wheat yield and quality worldwide. Heat shock factors (Hsfs) play a central role in regulating plant responses to various stresses. In this study, the wheat heat shock factor gene TaHsfA2e-5D on chromosome 5D was isolated and functionally characterized, with the goal of investigating its role in responses to heat and drought stresses. Gene expression profiling showed that TaHsfA2e-5D was expressed constitutively in various wheat tissues, most highly in roots at the reproductive stage. The expression of TaHsfA2e-5D was highly up-regulated in wheat seedlings by heat, cold, drought, high salinity, and multiple phytohormones. The TaHsfA2e-5D protein was localized in the nucleus and showed a transcriptional activation activity. Ectopic expression of the TaHsfA2e-5D in yeast exhibited improved thermotolerance. Overexpression of the TaHsfA2e-5D in Arabidopsis results in enhanced tolerance to heat and drought stresses. Furthermore, RT-qPCR analyses revealed that TaHsfA2e-5D functions through increasing the expression of Hsp genes and other stress-related genes, including APX2 and GolS1. Collectively, these results suggest that TaHsfA2e-5D functions as a positive regulator of plants' responses to heat and drought stresses, which may be of great significance for understanding and improving environmental stress tolerance in crops.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Droughts",
+        "Gene Expression Regulation, Plant",
+        "Heat-Shock Response",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Stress, Physiological",
+        "Triticum"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34515933",
+      "title": "Seed priming with brassinosteroids alleviates aluminum toxicity in rice via improving antioxidant defense system and suppressing aluminum uptake.",
+      "pubdate": "2022 Feb",
+      "source": "Environ Sci Pollut Res Int",
+      "authors": "Basit F, Liu J, An J, Chen M, He C, Zhu X, Li Z, Hu J, Guan Y",
+      "elocationid": "doi: 10.1007/s11356-021-16209-y",
+      "abstract": "Brassinosteroids (BRs) are growth-promoting hormones that exhibit high biological activities across various plant species. BRs shield plants against various abiotic stresses. In the present study, the effect of BRs against aluminum (Al) toxicity was investigated through seed priming with 24-epibrassinolide (0.01 μM) in two different rice cultivars. BRs application was found effective in confronting plants from Al toxicity (400 μM). The rice seeds primed with BRs showed enhancement in seed germination energy, germination percentage, root and shoot length, as well as fresh and dry weight under Al-absence and Al-stressed conditions as compared to water-priming. Especially under Al stress, BRs priming promoted the growth of rice seedlings more obviously. Al toxicity significantly increased the Al contents in seedling root and shoot, as well as the MDA concentration, H2O2 production, and the activities of antioxidative enzymes including ascorbate peroxidase, catalase, and peroxidase. Meanwhile, the photosynthetic pigments of seedling reduced under Al stress. When compared to sensitive cultivar (CY-927), these modifications were more obvious in the tolerant variety (YLY-689). Surprisingly, BRs were able to alleviate the Al injury by lowering MDA and H2O2 level and increasing antioxidant activities and photosynthetic pigments under Al stress. The results on antioxidant activities were further validated by gene expression study of SOD-Cu-Zn, SOD-Fe2, CATa, CATb, APX02, and APX08. It suggested that BRs were responsible for the mitigation of Al stress in rice seedlings by inducing antioxidant activities with an effective response to other seed growth parameters and reduced Al uptake under induced metal stress.",
+      "mesh_terms": [
+        "Aluminum",
+        "Antioxidants",
+        "Brassinosteroids",
+        "Hydrogen Peroxide",
+        "Oryza",
+        "Seedlings",
+        "Seeds"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41109508",
+      "title": "Nitro-fatty acid signaling and intracellular biodistribution in plants.",
+      "pubdate": "2026 Jan",
+      "source": "Plant Sci",
+      "authors": "Aranda-Caño L, Valderrama R, Begara-Morales JC, Chaki M, Pedrajas JR, Barroso JB",
+      "elocationid": "doi: 10.1016/j.plantsci.2025.112829",
+      "abstract": "Nitrated fatty acids (NO₂-FAs) are biologically active molecules formed by the reaction between unsaturated fatty acids and reactive species derived from nitric oxide (NO). They are characterised by their ability to release NO, their incorporation into complex lipids and their reactivity with nucleophiles such as cysteine and histidine, facilitating post-translational modifications by nitroalkylation. The main NO₂-FAs identified in plants are nitro-oleic acid (NO₂-OA), nitro-linoleic acid (NO₂-LA), nitro-conjugated linoleic acid (NO2-cLA) and nitro-linolenic acid (NO₂-Ln), whose concentration decreases during plant development and increases under abiotic stress. They are usually esterified with triglycerides and phytosterols in seeds and with phospholipids during vegetative growth. Although its bioactivity is still under investigation, NO₂-Ln has been shown to induce genes associated with heat shock and stress response. In addition, NO released by NO₂-FAs regulates the metabolism of S-nitrosothiols and promotes germination by degrading ABI5, a key repressor, and activating seed metabolism. NO₂-FAs-mediated nitroalkylation also plays a central role in oxidative stress response. This modification reversibly affects antioxidant enzymes such as ascorbate peroxidase (APX2) and catalase (CAT2), inhibiting their activity via adducts at catalytic residues. However, under high levels of reactive oxygen species (ROS), the adducts are oxidised, releasing NO₂-FA and restoring enzyme activity. This redox-dependent mechanism makes nitroalkylation a dynamic and adaptive regulator of antioxidant enzymes.",
+      "mesh_terms": [
+        "Plants",
+        "Signal Transduction",
+        "Fatty Acids",
+        "Nitric Oxide"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "11997373",
+      "title": "Imaging of photo-oxidative stress responses in leaves.",
+      "pubdate": "2002 May",
+      "source": "J Exp Bot",
+      "authors": "Fryer MJ, Oxborough K, Mullineaux PM, Baker NR",
+      "elocationid": "",
+      "abstract": "High resolution digital imaging was used to identify sites of photo-oxidative stress responses in Arabidopsis leaves non-invasively, and to demonstrate the potential of using a suite of imaging techniques for the study of oxidative metabolism in planta. Tissue-specific photoinhibition of photosynthesis in individual chloroplasts in leaves was imaged by chlorophyll fluorescence microscopy. Singlet oxygen production was assessed by imaging the quenching of the fluorescence of dansyl-2,2,5,5-tetramethyl-2,5-dihydro-1H-pyrrole (DanePy) that results from its reaction with singlet oxygen. Superoxide and hydrogen peroxide accumulation were visualized by the reduction of nitroblue tetrazolium (NBT) to formazan deposits and by polymerization with 3,3'-diaminobenzidine (DAB), respectively. Stress-induced expression of a gene involved with antioxidant metabolism was imaged from the bioluminescence from leaves of an Arabidopsis APX2-LUC transformant, which co-expresses an ascorbate peroxidase (APX2) with firefly luciferase. Singlet oxygen and superoxide production were found to be primarily located in mesophyll tissues whereas hydrogen peroxide accumulation and APX2 gene expression were primarily localized in the vascular tissues.",
+      "mesh_terms": [
+        "Arabidopsis Proteins",
+        "Ascorbate Peroxidases",
+        "Chlorophyll",
+        "Gene Expression Regulation, Plant",
+        "Hydrogen Peroxide",
+        "Light",
+        "Oxidative Stress",
+        "Oxygen",
+        "Peroxidases",
+        "Photosynthesis",
+        "Plant Leaves",
+        "Reactive Oxygen Species",
+        "Superoxides"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37148659",
+      "title": "Expression of ZmNAGK in tobacco enhances heat stress tolerance via activation of antioxidant-associated defense.",
+      "pubdate": "2023 Jun",
+      "source": "Plant Physiol Biochem",
+      "authors": "Liu W, Zhang Y, Zhang B, Zou H",
+      "elocationid": "doi: 10.1016/j.plaphy.2023.107719",
+      "abstract": "Heat stress severely inhibits plant growth and limits crop yields. Thus, it is crucial to identify genes that are associated with plant heat stress responses. Here, we report a maize (Zea mays L.) gene, N-acetylglutamate kinase (ZmNAGK), that positively enhances plant heat stress tolerance. The ZmNAGK expression level was significantly up-regulated by heat stress in maize plants, and ZmNAGK was found to be localized in maize chloroplasts. Phenotypic analysis showed that overexpressing of ZmNAGK enhanced the tolerance of tobacco to heat stress both in the seed germination and seedling growth stages. Further physiological analysis showed that ZmNAGK overexpression in tobacco could alleviate oxidative damages that occurred during heat stress via activation of antioxidant defense signaling. Transcriptome analysis revealed that ZmNAGK could modulate the expression of antioxidant-enzyme encoding genes, such as ascorbate peroxidase 2 (APX2) and superoxide dismutase C (SODC), and heat shock network genes. Taken together, we have identified a maize gene that can provide plants with heat tolerance through the induction of antioxidant-associated defense signaling.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Nicotiana",
+        "Thermotolerance",
+        "Plants, Genetically Modified",
+        "Heat-Shock Response",
+        "Zea mays",
+        "Gene Expression Regulation, Plant",
+        "Stress, Physiological",
+        "Plant Proteins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35986244",
+      "title": "A maize heat shock factor ZmHsf11 negatively regulates heat stress tolerance in transgenic plants.",
+      "pubdate": "2022 Aug 20",
+      "source": "BMC Plant Biol",
+      "authors": "Qin Q, Zhao Y, Zhang J, Chen L, Si W, Jiang H",
+      "elocationid": "doi: 10.1186/s12870-022-03789-1",
+      "abstract": "BACKGROUND: Heat shock transcription factors (Hsfs) are highly conserved among eukaryote and always play vital role in plant stress responses. Whereas, function and mechanism of Hsfs in maize are limited. RESULTS: In this study, an HSF gene ZmHsf11, a member of class B Hsfs, was cloned from maize, and it was up-regulated under heat treatment. ZmHsf11 was a nuclear protein with no transcriptional autoactivation activity in yeast. Overexpression of ZmHsf11 gene in Arabidopsis and rice significantly reduced the survival rate under heat shock treatment and decreased ABA sensitivity of transgenic plants. Under heat stress, transgenic rice accumulated more H2O2, increased cell death, and decreased proline content compared with wild type. In addition, RT-qPCR analysis revealed that ZmHsf11 negatively regulated some oxidative stress-related genes APX2, DREB2A, HsfA2e, NTL3, GR and HSP17 under heat stress treatment. CONCLUSIONS: Our results indicate that ZmHsf11 decreases plant tolerance to heat stress by negatively regulating the expression of oxidative stress-related genes, increasing ROS levels and decreasing proline content. It is a negative regulator involved in high temperature stress response.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Gene Expression Regulation, Plant",
+        "Heat Shock Transcription Factors",
+        "Heat-Shock Response",
+        "Hydrogen Peroxide",
+        "Oryza",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Proline",
+        "Transcription Factors",
+        "Zea mays"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "12068123",
+      "title": "Heat stress- and heat shock transcription factor-dependent expression and activity of ascorbate peroxidase in Arabidopsis.",
+      "pubdate": "2002 Jun",
+      "source": "Plant Physiol",
+      "authors": "Panchuk II, Volkov RA, Schöffl F",
+      "elocationid": "",
+      "abstract": "To find evidence for a connection between heat stress response, oxidative stress, and common stress tolerance, we studied the effects of elevated growth temperatures and heat stress on the activity and expression of ascorbate peroxidase (APX). We compared wild-type Arabidopsis with transgenic plants overexpressing heat shock transcription factor 3 (HSF3), which synthesize heat shock proteins and are improved in basal thermotolerance. Following heat stress, APX activity was positively affected in transgenic plants and correlated with a new thermostable isoform, APX(S). This enzyme was present in addition to thermolabile cytosolic APX1, the prevalent isoform in unstressed cells. In HSF3-transgenic plants, APX(S) activity was detectable at normal temperature and persisted after severe heat stress at 44 degrees C. In nontransgenic plants, APX(S) was undetectable at normal temperature, but could be induced by moderate heat stress. The mRNA expression profiles of known and three new Apx genes were determined using real-time PCR. Apx1 and Apx2 genes encoding cytosolic APX were heat stress and HSF dependently expressed, but only the representations of Apx2 mRNA met the criteria that suggest identity between APX(S) and APX2: not expressed at normal temperature in wild type, strong induction by heat stress, and HSF3-dependent expression in transgenic plants. Our data suggest that Apx2 is a novel heat shock gene and that the enzymatic activity of APX2/APX(S) is required to compensate heat stress-dependent decline of APX1 activity in the cytosol. The functional roles of modulations of APX expression and the interdependence of heat stress and oxidative stress response and signaling mechanisms are discussed.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Ascorbate Peroxidases",
+        "Ascorbic Acid",
+        "Chloroplast Proteins",
+        "DNA-Binding Proteins",
+        "Dehydroascorbic Acid",
+        "Gene Expression Regulation, Enzymologic",
+        "Gene Expression Regulation, Plant",
+        "Heat Shock Transcription Factors",
+        "Heat-Shock Proteins",
+        "Isoenzymes",
+        "Peroxidases",
+        "Phylogeny",
+        "RNA, Messenger",
+        "Temperature",
+        "Trans-Activators",
+        "Transcription Factors"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36836880",
+      "title": "Suppression of the HOS1 Gene Affects the Level of ROS Depending on Light and Cold.",
+      "pubdate": "2023 Feb 14",
+      "source": "Life (Basel)",
+      "authors": "Gorpenchenko TY, Veremeichik GN, Shkryl YN, Yugay YA, Grigorchuk VP, Bulgakov DV, Rusapetova TV, Vereshchagina YV, Mironova AA, Subbotin EP",
+      "elocationid": "doi: 10.3390/life13020524",
+      "abstract": "The E3 ubiquitin-protein ligase HOS1 is an important integrator of temperature information and developmental processes. HOS1 is a negative regulator of plant cold tolerance, and silencing HOS1 leads to increased cold tolerance. In the present work, we studied ROS levels in hos1Cas9Arabidopsis thaliana plants, in which the HOS1 gene was silenced by disruption of the open reading frame via CRISPR/Cas9 technology. Confocal imaging of intracellular reactive oxygen species (ROS) showed that the hos1 mutation moderately increased levels of ROS under both low and high light (HL) conditions, but wild-type (WT) and hos1Cas9 plants exhibited similar ROS levels in the dark. Visualization of single cells did not reveal differences in the intracellular distribution of ROS between WT and hos1Cas9 plants. The hos1Cas9 plants contained a high basal level of ascorbic acid, maintained a normal balance between reduced and oxidized glutathione (GSH and GSSG), and generated a strong antioxidant defense response against paraquat under HL conditions. Under cold exposure, the hos1 mutation decreased the ROS level and substantially increased the expression of the ascorbate peroxidase genes Apx1 and Apx2. When plants were pre-exposed to cold and further exposed to HL, the expression of the NADPH oxidase genes RbohD and RbohF was increased in the hos1Cas9 plants but not in WT plants. hos1-mediated changes in the level of ROS are cold-dependent and cold-independent, which implies different levels of regulation. Our data indicate that HOS1 is required to maintain ROS homeostasis not only under cold conditions, but also under conditions of both low and high light intensity. It is likely that HOS1 prevents the overinduction of defense mechanisms to balance growth.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

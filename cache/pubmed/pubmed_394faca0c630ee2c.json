@@ -1,0 +1,8 @@
+{
+  "term": "(\"Os08g0408200\"[Title/Abstract] OR \"SRWD4\"[Title/Abstract] OR \"OsWD40-160\"[Title/Abstract] OR \"OsDWD56\"[Title/Abstract] OR \"SALT RESPONSIVE WD40 PROTEIN 4\"[Title/Abstract] OR \"SALT RESPONSIVE WD40 PROTEIN 4, salt responsive WD40 protein 4\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [],
+  "records": [],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

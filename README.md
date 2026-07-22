@@ -62,6 +62,11 @@ project_root/
 ```
 
 ## Input files
+### Data availability
+
+Input datasets are not included in this repository because of their size and/or licensing restrictions.
+
+Users should prepare the required input files described below before running the pipeline.
 
 ### `data/variants.tsv`
 Variant table containing chromosome, position, genotype columns for two parents, and ANN annotations.

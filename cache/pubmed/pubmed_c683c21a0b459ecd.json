@@ -1,0 +1,105 @@
+{
+  "term": "(\"SPCH1\"[Title/Abstract] OR \"bHLH054\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "41208288",
+    "40771893",
+    "40658716",
+    "32549675",
+    "36438138"
+  ],
+  "records": [
+    {
+      "pmid": "41208288",
+      "title": "SPEECHLESS duplication in grasses expands potential for environmental regulation of stomatal development.",
+      "pubdate": "2026 Jan",
+      "source": "New Phytol",
+      "authors": "Erberich JM, Bennett B, Bergmann DC",
+      "elocationid": "doi: 10.1111/nph.70695",
+      "abstract": "Plants regulate stomatal development and function to acquire atmospheric carbon dioxide for photosynthesis while minimizing water loss. The ancestral basic helix-loop-helix transcription factor (TF) gene that drove stomata production in early land plants diversified to become paralogs SPEECHLESS (SPCH), MUTE, and FAMA. Extant grasses exhibit a particularly interesting set of duplications and losses of SPCH. Using phylogenetic methods, we tracked the history of SPCH duplications. Brachypodium distachyon and Oryza sativa plants bearing mutations in either SPCH1 or SPCH2, and B. distachyon plants with SPCH1 or SPCH2 translational reporters were assayed under different environmental conditions for their effects on stomatal development. We identified the Poaceae-specific rho whole-genome duplication as the origin of SPCH1 and SPCH2 and demonstrated that both paralogs remain under selection. We found paralog-specific divergence in response to two environmental perturbations in both B. distachyon and O. sativa. Plausible molecular mechanisms underpinning paralog divergence and cellular mechanisms driving the stomatal phenotypes are supported by analyses of BdSPCH1 and BdSPCH2 RNA and protein expression and by sequence variation among grasses. These studies suggest ways in which a duplication of a key stomatal regulator enables adaptation and could inform genetic strategies to mitigate anticipated stressors in agronomically important plants.",
+      "mesh_terms": [
+        "Plant Stomata",
+        "Gene Duplication",
+        "Phylogeny",
+        "Plant Proteins",
+        "Poaceae",
+        "Brachypodium",
+        "Gene Expression Regulation, Plant",
+        "Oryza",
+        "Environment",
+        "Mutation",
+        "Phenotype"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40771893",
+      "title": "SPEECHLESS duplication in grasses expands potential for environmental regulation of stomatal development.",
+      "pubdate": "2025 Oct 21",
+      "source": "bioRxiv",
+      "authors": "Erberich JM, Bennett B, Bergmann DC",
+      "elocationid": "pii: 2025.07.29.667563. doi: 10.1101/2025.07.29.667563",
+      "abstract": "Plants regulate stomatal development and function to acquire atmospheric carbon dioxide for photosynthesis while minimizing water loss. The ancestral basic helix-loop-helix transcription factor (TF) gene that drove stomata production in early land plants diversified to become paralogs SPEECHLESS (SPCH), MUTE, and FAMA. Extant grasses exhibit a particularly interesting set of duplications and losses of SPCH. Using phylogenetic methods, we tracked the history of SPCH duplications. Brachypodium distachyon and Oryza sativa plants bearing mutations in either SPCH1 or SPCH2, and B. distachyon plants with SPCH1 or SPCH2 translational reporters were assayed under different environmental conditions for their effects on stomatal development. We identified the Poaceae-specific rho whole genome duplication as the origin of SPCH1 and SPCH2 and demonstrated that both paralogs remain under selection. We found paralog-specific divergence in response to two environmental perturbations in both B. distachyon and O. sativa. Plausible molecular mechanisms underpinning paralog divergence, and cellular mechanisms driving the stomatal phenotypes are supported by analyses of BdSPCH1 and BdSPCH2 RNA and protein expression and by sequence variation among grasses. These studies suggest ways in which a duplication of a key stomatal regulator enables adaptation and could inform genetic strategies to mitigate anticipated stressors in agronomically important plants.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40658716",
+      "title": "The regulatory role of ZmSTOMAGEN1/2 in maize stomatal development is elucidated via gene editing and metabolic profiling.",
+      "pubdate": "2025",
+      "source": "PLoS One",
+      "authors": "Xu JJ, Chen QY, Qin LF, Liu Y, Li YZ, Fan XW",
+      "elocationid": "doi: 10.1371/journal.pone.0328433",
+      "abstract": "Stomatal development is mediated by EPIDERMAL PATTERNING FACTORs (EPFs), a family of secreted peptides including STOMAGEN/EPFL9 in Arabidopsis. To clarify the functional role of STOMAGEN orthologues in maize (Zea mays), we generated a double knockout mutant of ZmSTOMAGEN1 and ZmSTOMAGEN2 using CRISPR/Cas9 system. Comprehensive phenotypic analysis revealed that the zmstomagen1/2 mutant exhibited severe stomatal development defects, including complete absence of stomata between epidermal cells in stomatal lineage files and abnormal stomatal complexes with small lobed cells. These aberrant cells likely arose from failed asymmetric divisions of guard mother cells, ultimately preventing the formation of functional stomatal complexes. A double knockout of ZmSTOMAGEN1/2 reduced the expression of SPEECHLESS1 (SPCH1), MUTE, SCREAM2 (SCRM2), and STOMATAL DENSITY AND DISTRIBUTION1 (SDD1), impairing stomatal initiation and cell fate transition in early stomatal lineage cells. The mutant displayed a lower stomatal density and index, leading to reduced net photosynthetic rate, transpiration rate, and stomatal conductance but increased water-use efficiency (WUE). Compared to the wild-type plants (HiII-A × HiII-B), the zmstomagen1/2 mutant exhibited significant alterations in phytohormone homeostasis. These included brassinosteroid metabolite imbalance (increased typhasterol, decreased castasterone) and differential gibberellin regulation (elevated GA4, reduced GA1). These hormonal perturbations suggest that impaired stomatal morphogenesis in zmstomagen1/2 mutants result from disrupted crosstalk between multiple hormonals signaling networks. Our findings reveal a crucial role for ZmSTOMAGEN1/2 in regulating cell fate decisions within the stomatal lineage and provide a potential strategy for enhancing WUE in maize by manipulating ZmSTOMAGEN1/2 expression.",
+      "mesh_terms": [
+        "Zea mays",
+        "Plant Stomata",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Gene Editing",
+        "Mutation"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32549675",
+      "title": "CRISPR-Cas9 mediated genome editing of drought and salt tolerance (OsDST) gene in indica mega rice cultivar MTU1010.",
+      "pubdate": "2020 Jun",
+      "source": "Physiol Mol Biol Plants",
+      "authors": "Santosh Kumar VV, Verma RK, Yadav SK, Yadav P, Watts A, Rao MV, Chinnusamy V",
+      "elocationid": "doi: 10.1007/s12298-020-00819-w",
+      "abstract": "Development of abiotic stress tolerant rice cultivars is necessary for sustainable rice production under the scenario of global climate change, dwindling fresh water resources and increase in salt affected areas. Several genes from rice have been functionally validated by using EMS mutants and transgenics. Often, many of these desirable alleles are not available indica rice which is mainly cultivated, and where available, introgression of these alleles into elite cultivars is a time and labour intensive process, in addition to the potential introgression of non-desirable genes due to linkage. CRISPR-Cas technology helps development of elite cultivars with desirable alleles by precision gene editing. Hence, this study was carried out to create mutant alleles of drought and salt tolerance (DST) gene by using CRISPR-Cas9 gene editing in indica rice cv. MTU1010. We used two different gRNAs to target regions of DST protein that might be involved in protein-protein interaction and successfully generated different mutant alleles of DST gene. We selected homozygous dst mutant with 366 bp deletion between the two gRNAs for phenotypic analysis. This 366 bp deletion led to the deletion of amino acid residues from 184 to 305 in frame, and hence the mutant was named as dst ∆184-305 . The dst ∆184-305 mutation induced by CRISPR-Cas9 method in DST gene in indica rice cv. MTU1010 phenocopied EMS-induced dst (N69D) mutation reported earlier in japonica cultivar. The dst ∆184-305 mutant produced leaves with broader width and reduced stomatal density, and thus enhanced leaf water retention under dehydration stress. Our study showed that the reduction in stomatal density in loss of function mutants of dst is, at least, in part due to downregulation of stomatal developmental genes SPCH1, MUTE and ICE1. The Cas9-free dst ∆184-305 mutant exhibited moderate level tolerance to osmotic stress and high level of salt stress in seedling stage. Thus, dst mutant alleles generated in this study will be useful for improving drought and salt tolerance and grain yield in indica rice cultivars.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36438138",
+      "title": "Carbon monoxide promotes stomatal initiation by regulating the expression of two EPF genes in Arabidopsis cotyledons.",
+      "pubdate": "2022",
+      "source": "Front Plant Sci",
+      "authors": "Weng X, Zhu L, Yu S, Liu Y, Ru Y, Zhang Z, He Z, Zhou L, Chen X",
+      "elocationid": "doi: 10.3389/fpls.2022.1029703",
+      "abstract": "The gaseous molecule carbon monoxide (CO) can freely pass through the cell membrane and participate in signal transduction in the cell to regulate physiological activities in plants. Here, we report that CO has a positive regulatory role in stomatal development. Exogenous CO donor CORM-2 [Tricarbonyldichlororuthenium (II) dimer] treatment resulted in an increase of stomatal index (SI) on the abaxial epidermis of cotyledons in wild-type, which can be reversed by the addition of the CO biosynthesis inhibitor ZnPPIX [Protoporphyrin IX zinc (II)]. Consistent with this result, mutation of the CO biosynthesis gene HY1 resulted in a decrease of SI in hy1-100 plants, while overexpression of HY1 led to an increase of SI. Further investigation revealed that CO acts upstream of SPCH and YDA in the stomatal development pathway, since the loss of function mutants spch-1 and yda-2 were insensitive to CORM-2. The expression of EPF2 was inhibited by CORM-2 treatment in wild type and is lower in hy1 than in wild-type plants. In contrast, the expression of STOMAGEN was promoted by CORM-2 treatment and is higher in HY1-overexpression lines. Loss of function mutants of both epf2 and stomagen are insensitive to CORM-2 treatment. These results indicated that CO positively regulates stomatal initiation and distribution by modulating the expression of EPF2 and STOMAGEN.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

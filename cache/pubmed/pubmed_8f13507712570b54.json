@@ -1,0 +1,41 @@
+{
+  "term": "(\"Os07g0692600\"[Title/Abstract] OR \"CLSY1\"[Title/Abstract] OR \"OsCLSY1\"[Title/Abstract] OR \"CHR722\"[Title/Abstract] OR \"CLASSY 1\"[Title/Abstract] OR \"chromatin remodeling factor 722\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "33638990"
+  ],
+  "records": [
+    {
+      "pmid": "33638990",
+      "title": "An epigenetic pathway in rice connects genetic variation to anaerobic germination and seedling establishment.",
+      "pubdate": "2021 Jun 11",
+      "source": "Plant Physiol",
+      "authors": "Castano-Duque L, Ghosal S, Quilloy FA, Mitchell-Olds T, Dixit S",
+      "elocationid": "doi: 10.1093/plphys/kiab100",
+      "abstract": "Rice production is shifting from transplanting seedlings to direct sowing of seeds. Following heavy rains, directly sown seeds may need to germinate under anaerobic environments, but most rice (Oryza sativa) genotypes cannot survive these conditions. To identify the genetic architecture of complex traits, we quantified percentage anaerobic germination (AG) in 2,700 (wet-season) and 1,500 (dry-season) sequenced rice genotypes and performed genome-wide association studies (GWAS) using 693,502 single nucleotide polymorphisms. This was followed by post-GWAS analysis with a generalized SNP-to-gene set analysis, meta-analysis, and network analysis. We determined that percentage AG is intermediate-to-high among indica subpopulations, and AG is a polygenic trait associated with transcription factors linked to ethylene responses or genes involved in metabolic processes that are known to be associated with AG. Our post-GWAS analysis identified several genes involved in a wide variety of metabolic processes. We subsequently performed functional analysis focused on the small RNA and methylation pathways. We selected CLASSY 1 (CLSY1), a gene involved in the RNA-directed DNA methylation (RdDm) pathway, for further analyses under AG and found several lines of evidence that CLSY1 influences AG. We propose that the RdDm pathway plays a role in rice responses to water status during germination and seedling establishment developmental stages.",
+      "mesh_terms": [
+        "Anaerobiosis",
+        "Epigenesis, Genetic",
+        "Ethylenes",
+        "Genetic Variation",
+        "Genome-Wide Association Study",
+        "Genotype",
+        "Germination",
+        "Oryza",
+        "Plant Growth Regulators",
+        "Polymorphism, Single Nucleotide",
+        "Seedlings",
+        "Seeds",
+        "Water"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

@@ -1,0 +1,168 @@
+{
+  "term": "(\"Os07g0693800\"[Title/Abstract] OR \"FAD8\"[Title/Abstract] OR \"OsFAD8\"[Title/Abstract] OR \"Osfad8\"[Title/Abstract] OR \"Omega-3 fatty acid desaturase, Acclimation to low-temperature stress, Defense response\"[Title/Abstract] OR \"Similar to Plastid omega-3 fatty acid desaturase (Fragment).\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "33896105",
+    "27835850",
+    "17716996",
+    "16406238",
+    "34132908",
+    "20709682"
+  ],
+  "records": [
+    {
+      "pmid": "33896105",
+      "title": "Acclimation to cold stress reduces injury from low temperature and bispyribac-sodium on rice.",
+      "pubdate": "2021 Sep",
+      "source": "Pest Manag Sci",
+      "authors": "Fd Martini L, Roma-Burgos N, Tseng TM, V Fipke M, A Noldin J, A de Avila L",
+      "elocationid": "doi: 10.1002/ps.6425",
+      "abstract": "BACKGROUND: In subtropical areas, early planting exposes rice seedlings to cold stress, impairing seedling growth and making them more vulnerable to other stresses including herbicide injury. The objectives of this work were: to evaluate the effect of cold stress on bispyribac-sodium selectivity in rice; to determine the mechanisms of cold tolerance in sensitive ('Epagri 109') and tolerant ('IRGA 424') rice cultivars; and to ascertain that cold acclimatization influences bispyribac-sodium selectivity in rice. RESULTS: Prolonged cold stress caused high lipid peroxidation, increased rice injury, and stunted growth. Short-term acclimation with cold stress reduced rice injury with bispyribac-sodium. Total phenols were upregulated in rice exposed to cold stress. Prolonged cold stress increased the superoxide dismutase and catalase activity in IRGA 424. Antioxidant activity was higher in the cold-tolerant than in the cold-sensitive cultivar. Only catalase activity was responsive to bispyribac-sodium. OsRAN2, OsGSTL2, and CYP72A21 were upregulated by cold and herbicide stress in both cultivars. OsGSTL2 was upregulated more in IRGA 424 than in Epagri 109. OsFAD8 was upregulated in cold-sensitive rice exposed to short-duration cold stress but was not responsive to bispyribac-sodium. CONCLUSION: Cold stress reduces bispyribac-sodium selectivity in rice. Short-term acclimation to cold stress reduces the effect of cold stress and enhances bispyribac-sodium selectivity. The tolerance of rice (IRGA 424) to cold stress is due to differential induction of protection genes CYP72A21 and OsGSTL2 associated with herbicide metabolism, together with the accumulation of total phenols and higher activity of antioxidant enzymes.",
+      "mesh_terms": [
+        "Acclimatization",
+        "Benzoates",
+        "Cold Temperature",
+        "Cold-Shock Response",
+        "Oryza",
+        "Pyrimidines",
+        "Seedlings",
+        "Temperature"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "27835850",
+      "title": "Rice mutants deficient in ω-3 fatty acid desaturase (FAD8) fail to acclimate to cold temperatures.",
+      "pubdate": "2016 Dec",
+      "source": "Plant Physiol Biochem",
+      "authors": "Tovuu A, Zulfugarov IS, Wu G, Kang IS, Kim C, Moon BY, An G, Lee CH",
+      "elocationid": "doi: 10.1016/j.plaphy.2016.11.001",
+      "abstract": "To investigate the role of ω-3 fatty acid (FA) desaturase (FAD8) during cold acclimation in higher plants, we characterized three independent T-DNA insertional knock-out mutants of OsFAD8 from rice (Oryza sativa L.). At room temperature (28 °C), osfad8 plants exhibited significant alterations in fatty acid (FA) unsaturation for all four investigated plastidic lipid classes. During a 5-d acclimation period at 4 °C, further changes in FA unsaturation in both wild-type (WT) and mutant plants varied according to the type of lipid. We also monitored the fluidity of the thylakoid membrane using a threshold temperature to represent the change in fluorescence. The values were altered significantly by both FAD8 mutation and cold acclimation, suggesting that factors other than FAD8 are involved in C18 FA unsaturation and fluctuations in membrane fluidity. Similarly, significant changes were noted for both the mutant and WT samples in terms of their FA compositions as well as activities related to photosystem (PS) I, PSII, and photoprotection. This included the development of non-photochemical quenching and increased zeaxanthin accumulation. Despite the relatively small changes in FA composition during cold acclimation, cold-inducible FAD8 knock-out mutants displayed strong differences in photoprotective activities and a further drop in membrane fluidity. The mutants were more sensitive than WT to short-term low-temperature stress that resulted in increased production of reactive oxygen species after 5 d of chilling. Taken together, our findings suggest that FA unsaturation by OsFAD8 is crucial for the acclimation of higher plants to low-temperature stress.",
+      "mesh_terms": [
+        "Acclimatization",
+        "Cold Climate",
+        "Fatty Acid Desaturases",
+        "Fatty Acids, Unsaturated",
+        "Gene Knockout Techniques",
+        "Genes, Plant",
+        "Membrane Fluidity",
+        "Mutation",
+        "Oryza",
+        "Photosystem I Protein Complex",
+        "Photosystem II Protein Complex",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Reactive Oxygen Species"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "17716996",
+      "title": "Disease resistance against Magnaporthe grisea is enhanced in transgenic rice with suppression of omega-3 fatty acid desaturases.",
+      "pubdate": "2007 Sep",
+      "source": "Plant Cell Physiol",
+      "authors": "Yara A, Yaeno T, Hasegawa M, Seto H, Montillet JL, Kusumi K, Seo S, Iba K",
+      "elocationid": "",
+      "abstract": "Linolenic acid (18:3) is the most abundant fatty acid in plant membrane lipids and is a source for various oxidized metabolites, called oxylipins. 18:3 and oxylipins play important roles in the induction of defense responses to pathogen infection and wound stress in Arabidopsis. However, in rice, endogenous roles for 18:3 and oxylipins in disease resistance have not been confirmed. We generated 18:3-deficient transgenic rice plants (F78Ri) with co-suppression of two omega-3 fatty acid desaturases, OsFAD7 and OsFAD8. that synthesize 18:3. The F78Ri plants showed enhanced resistance to the phytopathogenic fungus Magnaporthe grisea. A typical 18:3-derived oxylipin, jasmonic acid (JA), acts as a signaling molecule in defense responses to fungal infection in Arabidopsis. However, in F78Ri plants, the expression of JA-responsive pathogenesis-related genes, PBZ1 and PR1b, was induced after inoculation with M. grisea, although the JA-mediated wound response was suppressed. Furthermore, the application of JA methyl ester had no significant effect on the enhanced resistance in F78Ri plants. Taken together, our results indicate that, although suppression of fatty acid desaturases involves the concerted action of varied oxylipins via diverse metabolic pathways, 18:3 or 18:3-derived oxylipins, except for JA, may contribute to signaling on defense responses of rice to M. grisea infection.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Cyclopentanes",
+        "Fatty Acid Desaturases",
+        "Magnaporthe",
+        "Molecular Sequence Data",
+        "Oryza",
+        "Oxylipins",
+        "Plant Diseases",
+        "Plant Growth Regulators",
+        "Plants, Genetically Modified",
+        "Sequence Alignment",
+        "Signal Transduction",
+        "alpha-Linolenic Acid"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "16406238",
+      "title": "Characterization of a rice (Oryza sativa L.) gene encoding a temperature-dependent chloroplast omega-3 fatty acid desaturase.",
+      "pubdate": "2006 Feb 24",
+      "source": "Biochem Biophys Res Commun",
+      "authors": "Wang J, Ming F, Pittman J, Han Y, Hu J, Guo B, Shen D",
+      "elocationid": "",
+      "abstract": "A cDNA, designated Osfad8, encoding a chloroplast omega-3 fatty acid desaturase responsible for trienoic fatty acid formation, was isolated from the leaves of Oryza sativa L. by RT-PCR. Southern blot hybridization indicated that a small gene family composed of two copies or closely linked genes exists. RNA in situ hybridization showed that the accumulation of Osfad8 mRNA was abundant in leaves but hardly detectable in roots. The Osfad8 transcript level in leaves was much higher at 15 degrees C than at normal temperature (25 degrees C). In situ hybridization also showed particularly prominent expression of Osfad8 in the palisade layer and spongy parenchyma cells of leaves when exposed to 15 degrees C conditions for 5 days and 10 days. Two transgenic lines (8S-52 and 8S-101) harboring the Osfad8 ORF in sense orientation under the control of the CaMV 35S promoter contained increased levels of hexadecatrienoic (16:3) and linolenic (18:3) fatty acids. When exposed to 2 degrees C for 7 days, the damage observed to the control plants was significantly alleviated in the 8S-52 and 8S-101 lines. The amounts of trienoic fatty acids in an Osfad8 antisense line (8A-35) declined 40.2% compared to the control plants. The 8A-35 plants survived after growth at 44 degrees C for 3 days while the control plants died. These data suggest that Osfad8 encodes a temperature-dependent chloroplast omega-3 fatty acid desaturase.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Chloroplasts",
+        "Fatty Acid Desaturases",
+        "Fatty Acids",
+        "Gene Expression Regulation, Enzymologic",
+        "Gene Expression Regulation, Plant",
+        "Molecular Sequence Data",
+        "Molecular Weight",
+        "Oryza",
+        "Plant Leaves",
+        "Plants, Genetically Modified",
+        "Sequence Homology, Amino Acid",
+        "Temperature",
+        "Nicotiana"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34132908",
+      "title": "Identification, pyramid and candidate genes of QTLs for associated traits based on a dense erect panicle rice CSSL-Z749 and five SSSLs, three DSSLs and one TSSL.",
+      "pubdate": "2021 Jun 16",
+      "source": "Rice (N Y)",
+      "authors": "Wang D, Zhou K, Xiang S, Zhang Q, Li R, Li M, Liang P, Farkhanda N, He G, Ling Y",
+      "elocationid": "doi: 10.1186/s12284-021-00496-7",
+      "abstract": "BACKGROUND: Seed-set density is an important agronomic trait in rice. However, its genetic mechanism is complex. Chromosome segment substitution lines (CSSLs) are ideal materials for studying complex traits. RESULTS: A rice CSSL, Z749, with a dense and erect panicle phenotype, was identified among progeny of the recipient parent Nipponbare and the donor parent Xihui 18. Z749 carried seven substitution segments (average length 2.12 Mb). Compared with Nipponbare, Z749 showed significant increases in the numbers of primary (NPB) and secondary branches (NSB), number of spikelets (SPP) and grains per panicle (GPP), seed-set density (SSD), and decrease in panicle length (PL). A secondary F2 population derived from a cross between Nipponbare and Z749 was used to map quantitative trait loci (QTLs) for associated traits. Fifteen QTLs distributed on chromosomes 5, 7, 8, and 10 were detected. The QTL qPL7 might be an allele of OsFAD8 and the remaining 14 QTLs (e.g., qSSD5 and qSSD10 etc.) might be novel. Fourteen QTLs were verified using five single-segment substitution lines (SSSLs). The seed-set density of Z749 was controlled predominantly by one major QTL (qSSD10) and two minor QTLs (qSSD5 and qSSD8). The QTLs qSSD10, qSSD5, and qSSD8 were fine-mapped to intervals of 1.05, 1.46, and 1.53 Mb on chromosomes 10, 5, and 8, respectively. Analysis of QTL additive effects indicated that qSSD5, qSSD8, and qSSD10 from Xihui18 increased seed-set density of Z749 by 14.10, 11.38, and 5.11 spikelets per 10 cm panicle, respectively. Analysis of QTL epistatic effects revealed that pyramiding of qSSD5 and qSSD8, qSSD5 and qSSD10, qSSD8 and qSSD10, and qSSD5, qSSD8 and qSSD10 produced novel genotypes with increased seed-set density. CONCLUSIONS: Inheritance of seed-set density in Z749 was controlled predominantly by one major QTL (qSSD10) and two minor QTLs (qSSD5 and qSSD8). Then, they were fine-mapped to intervals of 1.05, 1.46, and 1.53 Mb on chromosomes 10, 5, 8, respectively. Two MAPK genes (OsMPK9 and OsMPK17) and one gene (candidate gene 6) involved in auxin metabolism might be candidate genes for qSSD5, and OsSAUR32 might be the candidate gene for qSSD8. Pyramiding of qSSD5, qSSD8, and qSSD10 enhanced seed-set density.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "20709682",
+      "title": "[Isolation of OsFAD2, OsFAD6 and FAD family members response to abiotic stresses in Oryza sativa L.].",
+      "pubdate": "2010 Aug",
+      "source": "Yi Chuan",
+      "authors": "Cao YP, Shi JL, Li Z, Ming F",
+      "elocationid": "",
+      "abstract": "Unsaturated fatty acids are synthesized by fatty acid desaturase in plant, which play an important role in plant development and defense to abiotic stresses. The key enzymes for the conversion of oleic into linoleic acid were isolated from rice (Oryza sativa L.) and were designated OsFAD2 and OsFAD6, respectively. The open reading frame (ORF) of OsFAD2 was 1 167 bp in length, which encoded a 388 amino acids sequence with the isoelectric point of 8.17 and molecular mass of 52.24 kDa, the OsFAD2 protein contained a C-terminal ER retrieval motif. The ORF of OsFAD6 was 1 365 bp in length and the predicted OsFAD6 protein has 454 amino acids with an estimated molecular mass of 44.35 kDa and an isoelectric point of 9.24, the predicted OsFAD6 protein possessed a putative N-terminal plastidial signal peptide. Both of them had three his-boxes, which were peculiar to membrane integrated fatty acid desaturase by Clustal X analysis. RT-PCR analysis showed that both genes were expressed in all tissues rice seedlings, with the maximum transcript accumulation in leaves. Among FAD family members of Oryza sativa L., the mRNA abundance of OsFAD2 and OsFAD6 in leaves did not change under cold stress; however, the mRNA abundance of OsFAD7 and OsFAD8 increased in the same condition. It was also found that the expression of FAD family members had diurnal rhythm phenomena. Based on the results of this study, it suggested that diurnal rhythm expression of OsFAD6 and OsFAD7 was related to the change of NADPH abundance.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Circadian Rhythm",
+        "Cloning, Molecular",
+        "Cold Temperature",
+        "Fatty Acid Desaturases",
+        "Light",
+        "Molecular Sequence Data",
+        "Oryza",
+        "Phylogeny",
+        "RNA, Messenger"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "chi"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

@@ -1,0 +1,494 @@
+{
+  "term": "(\"PI-PLC1\"[Title/Abstract] OR \"PLC1\"[Title/Abstract] OR \"C2DP69\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "36253558",
+    "37978426",
+    "21725861",
+    "11340187",
+    "7550376",
+    "39436424",
+    "27999988",
+    "37298461",
+    "16648366",
+    "32668812",
+    "34069987",
+    "34420115",
+    "38679676",
+    "31855816",
+    "14706839",
+    "33915499",
+    "17111096",
+    "15447651"
+  ],
+  "records": [
+    {
+      "pmid": "36253558",
+      "title": "Heterologous expression of the TaPI-PLC1-2B gene enhanced drought and salt tolerance in transgenic rice seedlings.",
+      "pubdate": "2022 Dec",
+      "source": "Heredity (Edinb)",
+      "authors": "Zhao A, Cui C, Li F, Li C, Naveed S, Dong J, Gao X, Rustgi S, Wen S, Yang M",
+      "elocationid": "doi: 10.1038/s41437-022-00566-6",
+      "abstract": "Drought and salt stress are important factors that affect plant growth and development and cause crop yield reductions worldwide. Phospholipase C is a class of enzymes that can hydrolyze phospholipids, and it has been shown to play an important role in plant growth regulation and stress response. We used rice as a model to investigate the function of the wheat TaPI-PLC1-2B gene in salt and drought tolerance. For this purpose, we heterologously expressed the TaPI-PLC1-2B gene in rice and studied the transcriptional differences in transgenic and wide-type rice plants in the presence and absence of drought and salt stress. Our results showed that 2130 and 1759 genes expressed differentially in the TaPI-PLC1-2B overexpression rice line under salt and drought stress, respectively. Gene ontology enrichment results showed that differentially expressed genes (DEGs) were significantly enriched in cellular process, metabolic process, stimulus-response, cell, organelle, catalytic activity, and other functional processes under salt and drought stress. In addition, the Kyoto Encyclopedia of Genes and Genomes pathway analysis showed DEG enrichment in plant-pathogen interaction, phosphoinositol, plant hormones, and other signaling pathways under the two stress treatments. Furthermore, the chromosomal localization of salt and drought stress-responsive DEGs showed a clear distribution pattern on specific rice chromosomes. For instance, the greatest number of drought stress-responsive genes mapped to rice chromosomes 1 and 6. The current analysis has built the basis for future explorations to decipher the TaPI-PLC1-2B-mediated plant stress response mechanism in the relatively challenging wheat system.",
+      "mesh_terms": [
+        "Droughts",
+        "Oryza",
+        "Seedlings",
+        "Salt Tolerance",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Triticum",
+        "Stress, Physiological",
+        "Plants, Genetically Modified"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37978426",
+      "title": "PLC1 mediated Cycloastragenol-induced stomatal movement by regulating the production of NO in Arabidopsis thaliana.",
+      "pubdate": "2023 Nov 17",
+      "source": "BMC Plant Biol",
+      "authors": "Kong J, Chen R, Liu R, Wang W, Wang S, Zhang J, Yang N",
+      "elocationid": "doi: 10.1186/s12870-023-04555-7",
+      "abstract": "BACKGROUND: Astragalus grows mainly in drought areas. Cycloastragenol (CAG) is a tetracyclic triterpenoid allelochemical extracted from traditional Chinese medicine Astragalus root. Phospholipase C (PLC) and Gα-submit of the heterotrimeric G-protein (GPA1) are involved in many biotic or abiotic stresses. Nitric oxide (NO) is a crucial gas signal molecule in plants. RESULTS: In this study, using the seedlings of Arabidopsis thaliana (A. thaliana), the results showed that low concentrations of CAG induced stomatal closure, and high concentrations inhibited stomatal closure. 30 µmol·L-1 CAG significantly increased the relative expression levels of PLC1 and GPA1 and the activities of PLC and GTP hydrolysis. The stomatal aperture of plc1, gpa1, and plc1/gpa1 was higher than that of WT under CAG treatment. CAG increased the fluorescence intensity of NO in guard cells. Exogenous application of c-PTIO to WT significantly induced stomatal aperture under CAG treatment. CAG significantly increased the relative expression levels of NIA1 and NOA1. Mutants of noa1, nia1, and nia2 showed that NO production was mainly from NOA1 and NIA1 by CAG treatment. The fluorescence intensity of NO in guard cells of plc1, gpa1, and plc1/gpa1 was lower than WT, indicating that PLC1 and GPA1 were involved in the NO production in guard cells. There was no significant difference in the gene expression of PLC1 in WT, nia1, and noa1 under CAG treatment. The gene expression levels of NIA1 and NOA1 in plc1, gpa1, and plc1/gpa1 were significantly lower than WT, indicating that PLC1 and GPA1 were positively regulating NO production by regulating the expression of NIA1 and NOA1 under CAG treatment. CONCLUSIONS: These results suggested that the NO accumulation was essential to induce stomatal closure under CAG treatment, and GPA1 and PLC1 acted upstream of NO.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Nitric Oxide",
+        "Signal Transduction",
+        "Plant Stomata",
+        "GTP-Binding Protein alpha Subunits",
+        "Sapogenins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "21725861",
+      "title": "Heterotrimeric Gα subunit from wheat (Triticum aestivum), GA3, interacts with the calcium-binding protein, Clo3, and the phosphoinositide-specific phospholipase C, PI-PLC1.",
+      "pubdate": "2011 Sep",
+      "source": "Plant Mol Biol",
+      "authors": "Khalil HB, Wang Z, Wright JA, Ralevski A, Donayo AO, Gulick PJ",
+      "elocationid": "doi: 10.1007/s11103-011-9801-1",
+      "abstract": "The canonical Gα subunit of the heterotrimeric G protein complex from wheat (Triticum aestivum), GA3, and the calcium-binding protein, Clo3, were revealed to interact both in vivo and in vitro and Clo3 was shown to enhance the GTPase activity of GA3. Clo3 is a member of the caleosin gene family in wheat with a single EF-hand domain and is induced during cold acclimation. Bimolecular Fluorescent Complementation (BiFC) was used to localize the interaction between Clo3 and GA3 to the plasma membrane (PM). Even though heterotrimeric G-protein signaling and Ca²⁺ signaling have both been shown to play a role in the response to environmental stresses in plants, little is known about the interaction between calcium-binding proteins and Gα. The GAP activity of Clo3 towards GA3 suggests it may play a role in the inactivation of GA3 as part of the stress response in plants. GA3 was also shown to interact with the phosphoinositide-specific phospholipase C, PI-PLC1, not only in the PM but also in the endoplasmic reticulum (ER). Surprisingly, Clo3 was also shown to interact with PI-PLC1 in the PM and ER. In vitro analysis of the protein-protein interaction showed that the interaction of Clo3 with GA3 and PI-PLC1 is enhanced by high Ca²⁺ levels. Three-way affinity characterizations with GA3, Clo3 and PI-PLC1 showed the interaction with Clo3 to be competitive, which suggests that Clo3 may play a role in the Ca²⁺-triggered feedback regulation of both GA3 and PI-PLC1. This hypothesis was further supported by the demonstration that Clo3 has GAP activity with GA3.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Binding, Competitive",
+        "Calcium-Binding Proteins",
+        "Cell Membrane",
+        "Endoplasmic Reticulum",
+        "GTP-Binding Protein alpha Subunits",
+        "Molecular Sequence Data",
+        "Phosphoinositide Phospholipase C",
+        "Plant Proteins",
+        "Sequence Alignment",
+        "Signal Transduction",
+        "Substrate Specificity",
+        "Triticum"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "11340187",
+      "title": "Arabidopsis PLC1 is required for secondary responses to abscisic acid signals.",
+      "pubdate": "2001 May",
+      "source": "Plant Cell",
+      "authors": "Sanchez JP, Chua NH",
+      "elocationid": "",
+      "abstract": "The role of inositol 1,4,5-trisphosphate (Ins[1,4,5]P3) in transducing the abscisic acid (ABA) signal during seed germination and in the stress responses of mature plants is poorly understood. We have considered the contributions of the phospholipase C1 (encoded by AtPLC1) and an Ins(1,4,5)P3 5-phosphatase (encoded by AtIP5PII) to ABA signaling by using a modified version of the glucocorticoid-inducible system to regulate transgene expression. In the presence of the dexamethasone (Dex) inducer, transgenic lines expressing the AtPLC1 antisense and AtIP5PII sense transgenes showed no inhibition of germination and growth by ABA, whereas in the absence of the inducer they were sensitive. In the presence of Dex, these lines accumulated lower Ins(1,4,5)P3 levels upon ABA treatment compared with that of the control transgenic lines. RNA gel blot analysis revealed a decrease in the induction of the ABA-responsive genes RD29a, KIN2, and RD22 but not COR47 in the Dex-induced transgenic plants. In transgenic lines expressing the inducible AtPLC1 sense transgene, an increase in AtPLC1 expression was not sufficient to activate the expression of ABA-responsive genes in vegetative tissues. In vitro experiments demonstrated the induced PLC1 expression when extracts were assayed in the presence of calcium, but no increase in Ins(1,4,5)P3 levels in vivo was detected, suggesting that the PLC1 enzyme was latent. Our results indicate that although an increase in PLC1 activity and increased Ins(1,4,5)P3 levels are necessary for maximal gene induction by ABA, overexpression of AtPLC1 itself is not sufficient to trigger the expression of ABA-responsive genes. We propose that AtPLC1 plays a role in secondary ABA responses.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Amino Acid Sequence",
+        "Antisense Elements (Genetics)",
+        "Arabidopsis",
+        "Dexamethasone",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Glucocorticoids",
+        "Inositol 1,4,5-Trisphosphate",
+        "Molecular Sequence Data",
+        "Phosphoric Monoester Hydrolases",
+        "Plant Growth Regulators",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Sequence Homology, Amino Acid",
+        "Signal Transduction",
+        "Transcriptional Activation",
+        "Type C Phospholipases"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "7550376",
+      "title": "Characterization of a plasma membrane-associated phosphoinositide-specific phospholipase C from soybean.",
+      "pubdate": "1995 Sep",
+      "source": "Plant J",
+      "authors": "Shi J, Gonzales RA, Bhattacharyya MK",
+      "elocationid": "",
+      "abstract": "Phosphoinositide-specific phospholipase C (PI-PLC) is a key signal transducing enzyme which generates the second messengers inositol trisphosphate and diacylglycerol in mammalian cells. A cDNA clone (PI-PLC1) encoding a phosphoinositide-specific phospholipase C was isolated from soybean by screening a cDNA expression library using an anti-(plasma membrane) serum. Genomic DNA gel blot analysis suggested that the corresponding gene is a member of a multigene family. The deduced amino acid sequence of the soybean PI-PLC1 isozyme contains the conserved X and Y regions, found in other PI-PLCs. It is closely related to mammalian delta-type PI-PLCs, Dictyostelium discoideum PI-PLC and yeast PI-PLC1 in terms of the arrangement of the conserved region. Unlike mammalian delta-type PI-PLCs and yeast PI-PLC1, the putative Ca(2+)-binding site of the soybean PI-PLC1 is located in the region spanning the X and Y domains, and the N-terminal region is truncated. FLAG epitope-tagged PI-PLC1 fusion protein purified from transgenic tobacco plants showed phosphoinositide-specific phospholipase C activity. Heterologous expression of the soybean PI-PLC1 cDNA in a yeast PI-PLC1 deletion mutant complemented the lethality phenotype of haploid PI-PLC1 disruptants. Immunoblot analysis of the cell fractions prepared from transgenic tobacco plants over-expressing the FLAG epitope-tagged PI-PLC1 fusion protein indicated that the protein encoded by the PI-PLC1 cDNA was localized in the cytosol and plasma membrane.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Animals",
+        "Cell Membrane",
+        "DNA, Complementary",
+        "Gene Library",
+        "Genes, Plant",
+        "Isoenzymes",
+        "Mammals",
+        "Molecular Sequence Data",
+        "Multigene Family",
+        "Phosphatidylinositol Diacylglycerol-Lyase",
+        "Phosphoinositide Phospholipase C",
+        "Phosphoric Diester Hydrolases",
+        "Plants, Genetically Modified",
+        "Plants, Toxic",
+        "Plasmids",
+        "Recombinant Fusion Proteins",
+        "Saccharomyces cerevisiae",
+        "Second Messenger Systems",
+        "Signal Transduction",
+        "Glycine max",
+        "Nicotiana"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39436424",
+      "title": "Development and drought escape response in Arabidopsis thaliana are regulated by AtPLC1 in response to abscisic acid.",
+      "pubdate": "2024 Oct 22",
+      "source": "Planta",
+      "authors": "Wang W, Wang Y, Luo L, Kou J, Zhang L, Yang C, Yang N",
+      "elocationid": "doi: 10.1007/s00425-024-04554-4",
+      "abstract": "AtPLC1 plays a critical role in plant growth, development, and response to drought stress. Phosphoinositide-specific phospholipase C (PI-PLC) hydrolyzes substrates to generate secondary messengers crucial for plant growth, development, and stress responses. Drought escape (DE) response is an adaptive strategy that plants employ under drought conditions. The expression levels of the flower meristem-specific gene APETALA 1 and flowering regulatory genes FLOWERING LOCUS T and SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 were downregulated in plc1, and FLOWERING LOCUS C was upregulated. The flowering time of the plc1flc double mutant was earlier than that of the wild type. Transcriptome analysis revealed that the Gene Ontology of differentially expressed genes (DEGs) was enriched in abscisic acid (ABA) response signaling, and Kyoto Encyclopedia of Genes and Genomes analysis revealed differential gene expression annotated to plant hormone signaling pathways. Our experiments show that AtPLC1 is upregulated by ABA in Arabidopsis. Under ABA induction and water stress, wild-type plants exhibit a DE response, and the DE response in plc1 disappears. Expression levels of ABA signaling pathway transcription factors ABA-responsive element-binding factors 3 (ABF3) and ABF4 were downregulated in plc1. In conclusion, our study suggests that AtPLC1 participates in regulating plant growth and development and participates in the DE response through the regulation of ABA signaling pathway transcription factors ABF3/ABF4. The study enhances our comprehension of the role of AtPLC1 in plant development and drought stress, providing a theoretical foundation for further investigation into DE responses.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Abscisic Acid",
+        "Arabidopsis Proteins",
+        "Droughts",
+        "Gene Expression Regulation, Plant",
+        "Signal Transduction",
+        "Plant Growth Regulators",
+        "Stress, Physiological",
+        "Gene Expression Profiling",
+        "Phosphoinositide Phospholipase C",
+        "Drought Resistance"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "27999988",
+      "title": "Arabidopsis phosphatidylinositol-phospholipase C2 (PLC2) is required for female gametogenesis and embryo development.",
+      "pubdate": "2017 Apr",
+      "source": "Planta",
+      "authors": "Di Fino LM, D'Ambrosio JM, Tejos R, van Wijk R, Lamattina L, Munnik T, Pagnussat GC, Laxalt AM",
+      "elocationid": "doi: 10.1007/s00425-016-2634-z",
+      "abstract": "AtPLC2 is an essential gene in Arabidopsis, since it is required for female gametogenesis and embryo development. AtPLC2 might play a role in cell division during embryo-sac development and early embryogenesis. Phosphoinositide-specific phospholipase C (PI-PLC) plays an important role in signal transduction during plant development and in the response to various biotic- and abiotic stresses. The Arabidopsis PI-PLC gene family is composed of nine members, named PLC1 to PLC9. Here, we report that PLC2 is involved in female gametophyte development and early embryogenesis. Using two Arabidopsis allelic T-DNA insertion lines with different phenotypic penetrations, we observed both female gametophytic defects and aberrant embryos. For the plc2-1 mutant (Ws background), no homozygous plants could be recovered in the offspring from self-pollinated plants. Nonetheless, plc2-1 hemizygous mutants are affected in female gametogenesis, showing embryo sacs arrested at early developmental stages. Allelic hemizygous plc2-2 mutant plants (Col-0 background) present reduced seed set and embryos arrested at the pre-globular stage with abnormal patterns of cell division. A low proportion (0.8%) of plc2-2 homozygous mutants was found to escape lethality and showed morphological defects and disrupted megagametogenesis. PLC2-promoter activity was observed during early megagametogenesis, and after fertilization in the embryo proper. Immunolocalization studies in early stage embryos revealed that PLC2 is restricted to the plasma membrane. Altogether, these results establish a role for PLC2 in both reproductive- and embryo development, presumably by controlling mitosis and/or the formation of cell-division planes.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Blotting, Western",
+        "Gametogenesis, Plant",
+        "Glucuronidase",
+        "Microscopy, Confocal",
+        "Microscopy, Fluorescence",
+        "Ovule",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "Seeds",
+        "Type C Phospholipases"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37298461",
+      "title": "Cloning and Functional Characterization of Cold-Inducible MYB-like 17 Transcription Factor in Rapeseed (Brassica napus L.).",
+      "pubdate": "2023 May 30",
+      "source": "Int J Mol Sci",
+      "authors": "Luo D, Raza A, Cheng Y, Zou X, Lv Y",
+      "elocationid": "doi: 10.3390/ijms24119514",
+      "abstract": "Rapeseed (Brassica napus L.) is an important crop for edible oil, vegetables, and biofuel. Rapeseed growth and development require a minimum temperature of ~1-3 °C. Notably, frost damage occurs during overwintering, posing a serious threat to the productivity and yield of rapeseed. MYB proteins are important transcription factors (TFs) in plants, and have been proven to be involved in the regulation of stress responses. However, the roles of the MYB TFs in rapeseed under cold stress conditions are yet to be fully elucidated. To better understand the molecular mechanisms of one MYB-like 17 gene, BnaMYBL17, in response to low temperature, the present study found that the transcript level of BnaMYBL17 is induced by cold stress. To characterize the gene's function, the 591 bp coding sequence (CDS) from rapeseed was isolated and stably transformed into rapeseed. The further functional analysis revealed significant sensitivity in BnaMYBL17 overexpression lines (BnaMYBL17-OE) after freezing stress, suggesting its involvement in freezing response. A total of 14,298 differentially expressed genes relative to freezing response were found based on transcriptomic analysis of BnaMYBL17-OE. Overall, 1321 candidate target genes were identified based on differential expression, including Phospholipases C1 (PLC1), FCS-like zinc finger 8 (FLZ8), and Kinase on the inside (KOIN). The qPCR results confirmed that the expression levels of certain genes showed fold changes ranging from two to six when compared between BnaMYBL17-OE and WT lines after exposure to freezing stress. Furthermore, verification indicated that BnaMYBL17 affects the promoter of BnaPLC1, BnaFLZ8, and BnaKOIN genes. In summary, the results suggest that BnaMYBL17 acts as a transcriptional repressor in regulating certain genes related to growth and development during freezing stress. These findings provide valuable genetic and theoretical targets for molecular breeding to enhance freezing tolerance in rapeseed.",
+      "mesh_terms": [
+        "Brassica napus",
+        "Transcription Factors",
+        "Brassica rapa",
+        "Gene Expression Regulation, Plant",
+        "Cloning, Molecular"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "16648366",
+      "title": "Petunia phospholipase c1 is involved in pollen tube growth.",
+      "pubdate": "2006 Jun",
+      "source": "Plant Cell",
+      "authors": "Dowd PE, Coursol S, Skirpan AL, Kao TH, Gilroy S",
+      "elocationid": "",
+      "abstract": "Although pollen tube growth is essential for plant fertilization and reproductive success, the regulators of the actin-related growth machinery and the cytosolic Ca2+ gradient thought to determine how these cells elongate remain poorly defined. Phospholipases, their substrates, and their phospholipid turnover products have been proposed as such regulators; however, the relevant phospholipase(s) have not been characterized. Therefore, we cloned cDNA for a pollen-expressed phosphatidylinositol 4,5-bisphosphate (PtdInsP2)-cleaving phospholipase C (PLC) from Petunia inflata, named Pet PLC1. Expressing a catalytically inactive form of Pet PLC1 in pollen tubes caused expansion of the apical Ca2+ gradient, disruption of the organization of the actin cytoskeleton, and delocalization of growth at the tube tip. These phenotypes were suppressed by depolymerizing actin with low concentrations of latrunculin B, suggesting that a critical site of action of Pet PLC1 is in regulating actin structure at the growing tip. A green fluorescent protein (GFP) fusion to Pet PLC1 caused enrichment in regions of the apical plasma membrane not undergoing rapid expansion, whereas a GFP fusion to the PtdInsP2 binding domain of mammalian PLC delta1 caused enrichment in apical regions depleted in PLC. Thus, Pet PLC1 appears to be involved in the machinery that restricts growth to the very apex of the elongating pollen tube, likely through its regulatory action on PtdInsP2 distribution within the cell.",
+      "mesh_terms": [
+        "Actins",
+        "Calcium Signaling",
+        "Cell Membrane",
+        "Gene Expression",
+        "Golgi Apparatus",
+        "Molecular Sequence Data",
+        "Petunia",
+        "Phosphatidylinositol Diacylglycerol-Lyase",
+        "Pollen",
+        "Protein Transport",
+        "Recombinant Fusion Proteins",
+        "Type C Phospholipases"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32668812",
+      "title": "Genome-Wide Identification and Expression Profile Analysis of the Phospholipase C Gene Family in Wheat (Triticum aestivum L.).",
+      "pubdate": "2020 Jul 13",
+      "source": "Plants (Basel)",
+      "authors": "Wang X, Liu Y, Li Z, Gao X, Dong J, Zhang J, Zhang L, Thomashow LS, Weller DM, Yang M",
+      "elocationid": "doi: 10.3390/plants9070885",
+      "abstract": "Phospholipid-hydrolyzing enzymes include members of the phospholipase C (PLC) family that play important roles in regulating plant growth and responding to stress. In the present study, a systematic in silico analysis of the wheat PLC gene family revealed a total of 26 wheat PLC genes (TaPLCs). Phylogenetic and sequence alignment analyses divided the wheat PLC genes into 2 subfamilies, TaPI-PLC (containing the typical X, Y, and C2 domains) and TaNPC (containing a phosphatase domain). TaPLC expression patterns differed among tissues, organs, and under abiotic stress conditions. The transcript levels of 8 TaPLC genes were validated through qPCR analyses. Most of the TaPLC genes were sensitive to salt stress and were up-regulated rapidly, and some were sensitive to low temperatures and drought. Overexpression of TaPI-PLC1-2B significantly improved resistance to salt and drought stress in Arabidopsis, and the primary root of P1-OE was significantly longer than that of the wild type under stress conditions. Our results not only provide comprehensive information for understanding the PLC gene family in wheat, but can also provide a solid foundation for functional characterization of the wheat PLC gene family.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34069987",
+      "title": "MicroRNA Zma-miR528 Versatile Regulation on Target mRNAs during Maize Somatic Embryogenesis.",
+      "pubdate": "2021 May 18",
+      "source": "Int J Mol Sci",
+      "authors": "Luján-Soto E, Juárez-González VT, Reyes JL, Dinkova TD",
+      "elocationid": "doi: 10.3390/ijms22105310",
+      "abstract": "MicroRNAs (miRNAs) are small non-coding RNAs that regulate the accumulation and translation of their target mRNAs through sequence complementarity. miRNAs have emerged as crucial regulators during maize somatic embryogenesis (SE) and plant regeneration. A monocot-specific miRNA, mainly accumulated during maize SE, is zma-miR528. While several targets have been described for this miRNA, the regulation has not been experimentally confirmed for the SE process. Here, we explored the accumulation of zma-miR528 and several predicted targets during embryogenic callus induction, proliferation, and plantlet regeneration using the maize cultivar VS-535. We confirmed the cleavage site for all tested zma-miR528 targets; however, PLC1 showed very low levels of processing. The abundance of zma-miR528 slightly decreased in one month-induced callus compared to the immature embryo (IE) explant tissue. However, it displayed a significant increase in four-month sub-cultured callus, coincident with proliferation establishment. In callus-regenerated plantlets, zma-miR528 greatly decreased to levels below those observed in the initial explant. Three of the target transcripts (MATE, bHLH, and SOD1a) showed an inverse correlation with the miRNA abundance in total RNA samples at all stages. Using polysome fractionation, zma-miR528 was detected in the polysome fraction and exhibited an inverse distribution with the PLC1 target, which was not observed at total RNA. Accordingly, we conclude that zma-miR528 regulates multiple target mRNAs during the SE process by promoting their degradation, translation inhibition or both.",
+      "mesh_terms": [
+        "Gene Expression Regulation, Developmental",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "MicroRNAs",
+        "Models, Biological",
+        "Plant Development",
+        "Polyribosomes",
+        "RNA, Messenger",
+        "RNA, Plant",
+        "Regeneration",
+        "Zea mays"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34420115",
+      "title": "Genome-wide characterization and expression profiling of the Phospholipase C (PLC) gene family in three orchids of economic importance.",
+      "pubdate": "2021 Aug 21",
+      "source": "J Genet Eng Biotechnol",
+      "authors": "Kanchan M, Ramkumar TR, Himani, Sembi JK",
+      "elocationid": "doi: 10.1186/s43141-021-00217-z",
+      "abstract": "BACKGROUND: Phospholipases hydrolyze glycerophospholipids and generate diverse lipid-derived molecules with secondary messenger activity. Out of these, phospholipase C (PLC) specifically cleaves the phospholipids at ester linkages and yields diacylglycerol (DAG) and phosphorylated head groups. PLCs are classified further as phosphatidylinositol-specific PLCs (PI-PLCs) and non-specific PLCs with biased specificity for phosphatidylcholine (NPC/PC-PLC). RESULTS: In the present report, we identified and characterized PLC genes in the genomes of three orchids, Phalaenopsis equestris (seven PePLCs), Dendrobium catenatum (eight DcPLCs), and Apostasia shenzhenica (seven AsPLCs). Multiple sequence alignment analysis confirmed the presence of conserved X and Y catalytic domains, calcium/lipid-binding domain (C2 domain) at the C terminal region, and EF-hand at the N-terminal region in PI-PLC proteins and esterase domain in PC-PLC. Systematic phylogenetic analysis established the relationship of the PLC protein sequences and clustered them into two groups (PI-PLC and PC-PLC) along with those of Arabidopsis thaliana and Oryza sativa. Gene architecture studies showed the presence of nine exons in all PI-PLC genes while the number varied from one to five in PC-PLCs. RNA-seq-based spatio-temporal expression profile for PLC genes was generated, which showed that PePC-PLC1, PePC-PLC2A, DcPC-PLC1A, DcPC-PLC1B, DcPC-PLC2, DcPC-PLC1B, and AsPC-PLC1 had significant expression in all reproductive and vegetative tissues. The expression profile is matched to their upstream cis-regulatory promoter elements, which indicates that PLC genes have a role in various growth and development processes and during stress responses. CONCLUSIONS: The present study unwrapped the opportunity for functional characterization of selected PLC genes in planta for plant improvement.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38679676",
+      "title": "Genetic interaction between TTG2 and AtPLC1 reveals a role for phosphoinositide signaling in a co-regulated suite of Arabidopsis epidermal pathways.",
+      "pubdate": "2024 Apr 28",
+      "source": "Sci Rep",
+      "authors": "Goldberg A, O'Connor P, Gonzalez C, Ouren M, Rivera L, Radde N, Nguyen M, Ponce-Herrera F, Lloyd A, Gonzalez A",
+      "elocationid": "doi: 10.1038/s41598-024-60530-8",
+      "abstract": "The TTG2 transcription factor of Arabidopsis regulates a set of epidermal traits, including the differentiation of leaf trichomes, flavonoid pigment production in cells of the inner testa (or seed coat) layer and mucilage production in specialized cells of the outer testa layer. Despite the fact that TTG2 has been known for over twenty years as an important regulator of multiple developmental pathways, little has been discovered about the downstream mechanisms by which TTG2 co-regulates these epidermal features. In this study, we present evidence of phosphoinositide lipid signaling as a mechanism for the regulation of TTG2-dependent epidermal pathways. Overexpression of the AtPLC1 gene rescues the trichome and seed coat phenotypes of the ttg2-1 mutant plant. Moreover, in the case of seed coat color rescue, AtPLC1 overexpression restored expression of the TTG2 flavonoid pathway target genes, TT12 and TT13/AHA10. Consistent with these observations, a dominant AtPLC1 T-DNA insertion allele (plc1-1D) promotes trichome development in both wild-type and ttg2-3 plants. Also, AtPLC1 promoter:GUS analysis shows expression in trichomes and this expression appears dependent on TTG2. Taken together, the discovery of a genetic interaction between TTG2 and AtPLC1 suggests a role for phosphoinositide signaling in the regulation of trichome development, flavonoid pigment biosynthesis and the differentiation of mucilage-producing cells of the seed coat. This finding provides new avenues for future research at the intersection of the TTG2-dependent developmental pathways and the numerous molecular and cellular phenomena influenced by phospholipid signaling.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Flavonoids",
+        "Gene Expression Regulation, Plant",
+        "Mutation",
+        "Phenotype",
+        "Phosphatidylinositols",
+        "Plant Epidermis",
+        "Seeds",
+        "Signal Transduction",
+        "Transcription Factors",
+        "Trichomes",
+        "Phosphoinositide Phospholipase C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "31855816",
+      "title": "Genome wide characterization of phospholipase A & C families and pattern of lysolipids and diacylglycerol changes under abiotic stresses in Brassica napus L.",
+      "pubdate": "2020 Feb",
+      "source": "Plant Physiol Biochem",
+      "authors": "Iqbal S, Ali U, Fadlalla T, Li Q, Liu H, Lu S, Guo L",
+      "elocationid": "doi: 10.1016/j.plaphy.2019.12.017",
+      "abstract": "Plant phospholipase A (PLA) and C (PLC) families are least explored in terms of structure, diversity and their roles in membrane lipid remodeling under stress conditions. In this study, we performed gene family analysis, determined gene expression in different tissues and monitored transcriptional regulation of patatin-related PLA family and PLC family in oil crop Brassica napus under dehydration, salt, abscisic acid and cold stress. The identified 29 BnapPLA genes and 40 BnaPLC genes shared high similarities with Arabidopsis pPLAs and PLCs, respectively. This study highlighted the expression pattern of BnapPLAs and BnaPLCs in different tissues and their expression in response to abiotic stresses in Brassica napus. The results revealed that several members of BnapPLA3, PI-PLC1/2 and NPC1 were actively regulated by abiotic stresses. Lipid changes at different time points under stress conditions were also measured. Lipid profiling revealed that the level of lysophospholipids and diacylglycerol (DAG) showed a varied pattern of changes under different abiotic stress treatments. The change of lipids correlated with the transcriptional regulation of a few specific members of pPLA and PLC families. Our study suggested that A and C-type phospholipases in Brassica napus may have diverse physiological and regulatory roles in abiotic stress response and tolerance.",
+      "mesh_terms": [
+        "Brassica napus",
+        "Diglycerides",
+        "Genome-Wide Association Study",
+        "Lipid Metabolism",
+        "Phospholipases A",
+        "Plant Proteins",
+        "Stress, Physiological",
+        "Type C Phospholipases"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "14706839",
+      "title": "The Vr-PLC3 gene encodes a putative plasma membrane-localized phosphoinositide-specific phospholipase C whose expression is induced by abiotic stress in mung bean (Vigna radiata L.).",
+      "pubdate": "2004 Jan 2",
+      "source": "FEBS Lett",
+      "authors": "Kim YJ, Kim JE, Lee JH, Lee MH, Jung HW, Bahk YY, Hwang BK, Hwang I, Kim WT",
+      "elocationid": "",
+      "abstract": "Phosphoinositide-specific phospholipase C (PI-PLC) catalyzes the hydrolysis of phosphatidylinositol 4,5-bisphosphate to generate inositol 1,4,5-trisphosphate and diacylglycerol, both of which act as secondary messengers in animal cells. In this report, we identified in Vigna radiata L. (mung bean) three distinct partial cDNAs (pVr-PLC1, pVr-PLC2, and pVr-PLC3), which encode forms of putative PI-PLC. All three Vr-PLC genes were transcriptionally active and displayed unique patterns of expression. The Vr-PLC1 and Vr-PLC2 transcripts were constitutively expressed to varying degrees in every tissue of mung bean plants examined. In contrast, the Vr-PLC3 mRNA level was very low under normal growth conditions and was rapidly induced in an abscisic acid-independent manner under environmental stress conditions (drought and high salinity). An isolated genomic clone, about 8.2 kb in length, showed that Vr-PLC1 and Vr-PLC3 are in tandem array in the mung bean genome. The predicted primary sequence of Vr-PLC3 (M(r)=67.4 kDa) is reminiscent of the delta-isoform of animal enzymes which contain core sequences found in typical PI-PLCs, such as the catalytic domain comprising X and Y motifs, a lipid-binding C2 domain, and the less conserved EF-hand domain. Results of in vivo targeting experiment using a green fluorescent protein (GFP) showed that the GFP-Vr-PLC3 fusion protein was localized primarily to the plasma membrane of the Arabidopsis protoplast. The C2 domain was essential for Vr-PLC3 to be targeted to the plasma membrane. The possible biological functions of stress-responsive Vr-PLC3 in mung bean plants are discussed.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Cell Membrane",
+        "Conserved Sequence",
+        "Fabaceae",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Isoenzymes",
+        "Kinetics",
+        "Mannitol",
+        "Molecular Sequence Data",
+        "Phosphatidylinositol Diacylglycerol-Lyase",
+        "Phosphoinositide Phospholipase C",
+        "Phylogeny",
+        "Plant Structures",
+        "RNA, Messenger",
+        "RNA, Plant",
+        "Sequence Homology, Amino Acid",
+        "Sodium Chloride"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33915499",
+      "title": "Disturbed phospholipid metabolism by three polycyclic aromatic hydrocarbons in Oryza sativa.",
+      "pubdate": "2021 Aug 15",
+      "source": "Environ Pollut",
+      "authors": "Liu S, Liu N, Lu H, Zhu L",
+      "elocationid": "doi: 10.1016/j.envpol.2021.117073",
+      "abstract": "Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous pollutants in soils that can be readily absorbed by crops, affecting growth and development. Phospholipids (PLs) are essential components of cell membrane and can indicate cellular responses to various organic pollutants. However, the detailed molecular mechanism of phospholipid metabolism based regulation employed by crops in response to PAHs stresses remains elusive. This study characterized the accumulation patterns of representative PAHs, namely phenanthrene (PHEN), pyrene (PY), and benzo[a]pyrene (BaP) in rice (Oryza sativa). Crop's responses to PAHs via the regulation of phospholipid metabolism were also explored. PHEN exhibited the highest accumulation in both roots and shoots, followed by PY and BaP, despite PY exhibited much greater phytotoxicity than the other two PAHs. The exposure to 10-500 μg/L PY resulted in downregulations of the phospholipase A2 genes PLA2-3, PLA2-4, and PLA2-6 (to 19% of the control without exposure) and phospholipase C genes PLC-1, PLC-2, and PLC-4 (to 50% of the control), consistent with the changes in phospholipase activity. The contents of typical PLs, including phosphatidylcholine, phosphatidylethanolamine, phosphatidylglycerol, and phosphatidic acid also decreased to a greater extent than those in the PHEN- and BaP-exposed groups. These were the major reasons for the relatively high phytotoxicity of PY, in terms of growth inhibition and cell membrane damage. These findings provide a more comprehensive understanding of crop responses to PAHs and provide insights into risk assessment of soil PAH contamination, which hold potentials in improving food safety and quality worldwide.",
+      "mesh_terms": [
+        "Oryza",
+        "Phospholipids",
+        "Polycyclic Aromatic Hydrocarbons",
+        "Soil",
+        "Soil Pollutants"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "17111096",
+      "title": "Phospholipase C/diacylglycerol kinase-mediated signalling is required for benzothiadiazole-induced oxidative burst and hypersensitive cell death in rice suspension-cultured cells.",
+      "pubdate": "2007",
+      "source": "Protoplasma",
+      "authors": "Chen J, Zhang W, Song F, Zheng Z",
+      "elocationid": "",
+      "abstract": "The involvement of phospholipase C/diacylglycerol kinase (PLC/DGK)-mediated signalling in oxidative burst and hypersensitive cell death was studied in rice suspension-cultured cells treated with benzothiadiazole (BTH) and infected by Xanthomonas oryza pv. oryza (Xoo), the causal agent of rice leaf blight disease. Treatment of rice suspension cells with BTH resulted in a significant oxidative burst, as indicated by accumulation of superoxide anion and H(2)O(2), and hypersensitive cell death, as determined by Evans blue staining. A peak in oxidative burst was detected 3-4 h after BTH treatment and hypersensitive cell death was observed 8 h after treatment. In addition, significant oxidative burst and hypersensitive cell death were detected in BTH-treated suspension cells, but not in untreated control cells, after Xoo infection. Scavengers and antioxidants of active oxygen species, e.g., superoxide dismutase, catalase, N-acetylcysteine, and flavone, reduced significantly the BTH-induced oxidative burst and hypersensitive cell death, indicating that oxidative burst is required for BTH-induced hypersensitive cell death. Expression of the PLC/DGK pathway genes, a diacylglycerol kinase gene, OsDAGK1, and a phosphoinositide-specific phospholipase C gene, OsPI-PLC1, and a defence-related EREBP transcriptional factor gene, OsBIERF3, was activated in rice cells after BTH treatment and in the BTH-treated cells after Xoo infection. Treatment of rice cells with phosphatidic acid, a phospholipid signalling molecule, resulted in the production of oxidative burst and hypersensitive cell death. However, neomycin, a PLC inhibitor, inhibited partially but not completely the production of oxidative burst, hypersensitive cell death, and expression of OsBIERF3 and OsDAGK1 induced by BTH in rice cells. These results suggest that PLC/DGK-mediated signalling plays an important role in BTH-induced oxidative burst, hypersensitive response, and activation of defence response in rice.",
+      "mesh_terms": [
+        "Cell Culture Techniques",
+        "Cell Death",
+        "Cells, Cultured",
+        "Diacylglycerol Kinase",
+        "Gene Expression Regulation, Plant",
+        "Immunity, Innate",
+        "Oryza",
+        "Oxygen Consumption",
+        "Phosphatidic Acids",
+        "Signal Transduction",
+        "Thiadiazoles",
+        "Type C Phospholipases",
+        "Xanthomonas"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "15447651",
+      "title": "Phosphoinositide-specific phospholipase C is involved in cytokinin and gravity responses in the moss Physcomitrella patens.",
+      "pubdate": "2004 Oct",
+      "source": "Plant J",
+      "authors": "Repp A, Mikami K, Mittmann F, Hartmann E",
+      "elocationid": "",
+      "abstract": "The phosphoinositide signalling pathway is important in plant responses to extracellular and intracellular signals. To elucidate the physiological functions of phosphoinositide-specific phopspholipase C, PI-PLC, targeted knockout mutants of PpPLC1, a gene encoding a PI-PLC from the moss Physcomitrella patens, were generated via homologous recombination. Protonemal filaments of the plc1 lines show a dramatic reduction in gametophore formation relative to wild type: this was accompanied by a loss of sensitivity to cytokinin. Moreover, plc1 appeared paler than the wild type, the result of an altered differentiation of chloroplasts and reduced chlorophyll levels compared with wild type filaments. In addition, the protonemal filaments of plc1 have a strongly reduced ability to grow negatively gravitropically in the dark. These effects imply a significant role for PpPLC1 in cytokinin signalling and gravitropism.",
+      "mesh_terms": [
+        "Bryopsida",
+        "Chlorophyll",
+        "Chloroplasts",
+        "Cytokinins",
+        "Gravitropism",
+        "Mutation",
+        "Phosphatidylinositol Diacylglycerol-Lyase",
+        "Phosphoinositide Phospholipase C",
+        "Phototropism"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

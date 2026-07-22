@@ -1,0 +1,25 @@
+{
+  "term": "(\"C3H43\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "19071920"
+  ],
+  "records": [
+    {
+      "pmid": "19071920",
+      "title": "Theoretical study of unimolecular decomposition of allene cations.",
+      "pubdate": "2008 Dec 14",
+      "source": "J Chem Phys",
+      "authors": "Mebel AM, Bandrauk AD",
+      "elocationid": "doi: 10.1063/1.3037204",
+      "abstract": "Ab initio coupled clusters and multireference perturbation theory calculations with geometry optimization at the density functional or complete active space self-consistent-field levels have been carried out to compute ionization energies and to unravel the dissociation mechanism of allene and propyne cations, C(3)H(4)(n+) (n=1-3). The results indicate that the dominant decomposition channel of the monocation is c-C(3)H(3)(+) + H, endothermic by 37.9 kcal/mol and occurring via a barrier of 43.1 kcal/mol, with possible minor contributions from H(2)CCCH(+) + H and HCCCH(+) + H(2). For the dication, the competing reaction channels are predicted to be c-C(3)H(3)(+) + H(+), H(2)CCCH(+) + H(+), and CCCH(+) + H(3)(+), with dissociation energies of -20.5, 8.5, and 3.0 kcal/mol, respectively. The calculations reveal a H(2)-roaming mechanism for the H(3)(+) loss, where a neutral H(2) fragment is formed first, then roams around and abstracts a proton from the remaining molecular fragment before leaving the dication. According to Rice-Ramsperger-Kassel-Marcus calculations of energy-dependent rate constants for individual reaction steps, relative product yields vary with the available internal energy, with c-C(3)H(3)(+) + H(+) being the major product just above the dissociation threshold of 69.6 kcal/mol, in the energy range of 70-75 kcal/mol, and CCCH(+) + H(3)(+) taking over at higher energies. The C(3)H(4)(3+) trication is found to be not very stable, with dissociation thresholds of 18.5 and 3.7 kcal/mol for allene and propyne, respectively. Various products of Coulomb explosion of C(3)H(4)(3+), H(2)CCCH(2+) + H(+), CHCHCH(2+) + H(+), C(2)H(2)(2+) + CH(2)(+), and CCH(2)(2+) + CH(2)(+) are highly exothermic (by 98-185 kcal/mol). The tetracation of C(3)H(4) is concluded to be unstable and therefore no more than three electrons can be removed from this molecule before it falls apart. The theoretical results are compared to experimental observations of Coulomb explosions of allene and propyne.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

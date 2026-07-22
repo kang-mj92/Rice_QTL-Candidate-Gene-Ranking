@@ -1,0 +1,74 @@
+{
+  "term": "(\"TPP6\"[Title/Abstract] OR \"TPP5\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "41653591",
+    "28516354",
+    "40657406"
+  ],
+  "records": [
+    {
+      "pmid": "41653591",
+      "title": "Transcriptomic plasticity through alternative splicing shapes salt stress responses in Korean sorghum.",
+      "pubdate": "2026 Mar",
+      "source": "Plant Physiol Biochem",
+      "authors": "Lee H, Kang Y, Kim C",
+      "elocationid": "doi: 10.1016/j.plaphy.2026.111060",
+      "abstract": "Sorghum (Sorghum bicolor L.) is a climate-resilient C4 crop that is widely cultivated in arid and saline-prone environments. Soil salinity is a major abiotic stress that adversely affects plant growth and productivity by inducing osmotic, ionic, and oxidative stress. Plants have evolved various molecular mechanisms to mitigate salt stress, including alternative splicing (AS), a post-transcriptional regulatory process that generates diverse transcript isoforms. Among AS event types, intron retention (IR) is the most prevalent in plants under abiotic stress conditions. In this study, we conducted a transcriptome analysis of three sorghum cultivars-Sodamchal, Nampungchal, and Hwanggeumchal-subjected to varying salt stress conditions over different time periods. Our findings revealed that intron retention accounted for more than 70 % of AS events across all comparisons. Importantly, several of these intron retention events were associated with salt stress-responsive genes, which support the notion that intron retention may function as a regulatory mechanism contributing to salt stress tolerance. Notably, in Hwanggeumchal and Nampungchal, the trehalose-phosphate phosphatase 6 (TPP6) gene and ATP-binding cassette (ABC) transporter G family member 42 gene exhibited AS-mediated expression changes, suggesting a potential link in salt tolerance. Under normal conditions, IR led to the expression of alternative isoforms that do not increase trehalose levels or ABC transporter function, whereas salt stress promoted normal splicing, which restored the functional biosynthesis pathways of both trehalose and ABC transporter. Given the established roles of trehalose and ABC transporters in stabilizing cellular structures, mitigating osmotic stress, and maintaining ion homeostasis, our results suggest that AS-mediated regulation of these pathways contributes to sorghum's adaptive response to salinity stress. These findings provide new insights into the molecular basis of sorghum's salt tolerance and highlight the importance of AS as a regulatory mechanism for improving stress resilience in crops.",
+      "mesh_terms": [
+        "Alternative Splicing",
+        "Sorghum",
+        "Transcriptome",
+        "Salt Stress",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Introns",
+        "Salt Tolerance"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "28516354",
+      "title": "Characterization, partitioning, and potential ecological risk quantification of trace elements in coal fly ash.",
+      "pubdate": "2017 Jun",
+      "source": "Environ Sci Pollut Res Int",
+      "authors": "Usmani Z, Kumar V",
+      "elocationid": "doi: 10.1007/s11356-017-9171-6",
+      "abstract": "Coal-based thermal power plants are the major source of power generation in India. Combustion of coal gives rise to by-products such as fly ash (FA) in huge quantities. The current study focuses on physico-chemical and mineralogical characterization and risk evaluation of FA, generated from five thermal power plants (TPPs) of India. The coal, and corresponding FA and bottom ash (BA) were further analyzed for trace elements in order to observe the enrichment and partitioning behavior of elements. The environmental risk assessment of trace elements in FA was performed in accordance with geoaccumulation index (I geo) and potential ecological risk index (PERI). The results demonstrated that FA was enriched predominantly in SiO2, Al2O3, and Fe2O3 along with small concentrations of CaO and MgO. The mineral phases identified in FA were quartz, mullite, hematite, and magnetite. Elemental characterization indicated that the metals were more enriched in FA as compared to coal and BA. The concentrations of trace elements, Cr, Pb, Hg, and As in FA (TPPs), varied from 12.59-24.28, 22.68-43.19, <0.0001-2.29, and 0.08-3.39 mg/kg, respectively. Maximum enrichment ratio (ER) was observed for Pb (5.21) in TPP3 FA. Hg in TPP1 showed the highest partition ratio (PR) value. I geo values for metals were mostly below zero. The PERI values indicated moderate risk from TPP4 FA and low risk from TPP1, TPP2, TPP3, and TPP5 FA to the environment, according to the threshold values provided.",
+      "mesh_terms": [
+        "Air Pollutants",
+        "Coal",
+        "Coal Ash",
+        "Ecology",
+        "Ferric Compounds",
+        "India",
+        "Risk Assessment",
+        "Silicon Dioxide",
+        "Trace Elements"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40657406",
+      "title": "GWAS and haplotype analysis reveal the intricate interplay of hormones in rice seed germination under hypoxic conditions.",
+      "pubdate": "2025 Aug",
+      "source": "3 Biotech",
+      "authors": "Vijay Kumar Reddy C, Panda S, Travis AJ, Norton GJ, Kumar S, Annamalai A, Price AH",
+      "elocationid": "doi: 10.1007/s13205-025-04422-2",
+      "abstract": "UNLABELLED: Genome-wide association mapping of the BAAP panel revealed 14 QTLs significantly associated with anaerobic germination tolerance (AGT), distributed across eight chromosomes. Among these, chromosome 11 emerged as a key region, harbouring two prominent QTL hotspots qAG11.1 and qAG11.2 indicating its major contribution to AGT in direct-seeded rice under flooded conditions. Candidate gene analysis revealed strong associations with key regulators of hormonal and metabolic pathways. Notably, ethylene biosynthesis and signalling genes-OsACO (LOC_Os09g39720, LOC_Os06g37590), CTR1 (LOC_Os09g39320), and ERS1 (LOC_Os03g49500) were linked to enhanced coleoptile elongation under hypoxia. EMF2B (LOC_Os09g13630), involved in ABA-mediated dormancy regulation, and KO1 (LOC_Os06g37330), a critical enzyme in GA biosynthesis, contributed to early seedling vigour. SLR1 (LOC_Os03g49990), a GA signalling repressor, was functionally linked to growth regulation under anaerobic stress. Carbohydrate mobilization genes β-amylase (LOC_Os09g39570) and TPP6 (LOC_Os08g31630) were also strongly associated with AGT performance. Haplotype analysis identified favourable alleles across multiple loci, with genotypes such as ARC 14940 and Boro Black combining superior haplotypes and exhibiting higher germination rates and shoot elongation. These findings provide a robust genetic framework and valuable markers for accelerating AGT breeding in rice through haplotype-based selection. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s13205-025-04422-2.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

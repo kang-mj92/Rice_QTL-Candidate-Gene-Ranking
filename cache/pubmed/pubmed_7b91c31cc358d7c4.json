@@ -1,0 +1,8 @@
+{
+  "term": "(\"Os07g0695100\"[Title/Abstract] OR \"HD2\"[Title/Abstract] OR \"Hd2\"[Title/Abstract] OR \"OsPRR37\"[Title/Abstract] OR \"Heading date 2\"[Title/Abstract] OR \"Heading date 2, PSEUDO-RESPONSE REGULATOR 37, pseudo-response regulator 4, Days to heading 7, CCT domain-containing gene 28, \"grain number, plant height and heading date 7.1\", Early heading7-2\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [],
+  "records": [],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

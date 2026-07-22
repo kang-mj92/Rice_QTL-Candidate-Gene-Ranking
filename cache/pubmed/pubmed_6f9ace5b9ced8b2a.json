@@ -1,0 +1,505 @@
+{
+  "term": "(\"Sultr1\"[Title/Abstract] OR \"Sul1\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "32079303",
+    "11432417",
+    "18400935",
+    "18761637",
+    "26581950",
+    "15208340",
+    "33423475",
+    "15718229",
+    "12692311",
+    "35638569",
+    "40388589",
+    "30974830",
+    "29653401",
+    "31010206",
+    "32688787",
+    "15047883",
+    "25566284",
+    "38492364",
+    "24308460",
+    "22738972"
+  ],
+  "records": [
+    {
+      "pmid": "32079303",
+      "title": "Advances in Plant Sulfur Research.",
+      "pubdate": "2020 Feb 17",
+      "source": "Plants (Basel)",
+      "authors": "Bouranis DL, Malagoli M, Avice JC, Bloem E",
+      "elocationid": "doi: 10.3390/plants9020256",
+      "abstract": "As an essential nutrient required for plant growth and development, sulfur (S) deficiency in productive systems limits yield and quality. This special issue hosts a collection of original research articles, mainly based on contributions from the 11th International Plant Sulfur Workshop held on 16-20 September 2018 in Conegliano, Italy, focusing on the following topics: (1) The germinative and post-germinative behaviour of Brassica napus seeds when severe S limitation is applied to the parent plants; (2) the independence of S deficiency from the mRNA degradation initiation enzyme PARN in Arabidopsis; (3) the glucosinolate distribution in the aerial parts of sel1-10, a disruption mutant of the sulfate transporter SULTR1;2, in mature Arabidopsis thaliana plants; (4) the accumulation of S-methylcysteine as its γ-glutamyl dipeptide in Phaseolus vulgaris; and (5) the role of ferric iron chelation-strategy components in the leaves and roots of maize, have provided new insights into the effect of S availability on plant functionality. Moreover, the role of S deficiency in root system functionality has been highlighted, focusing on (6) the contribution of root hair development to sulfate uptake in Arabidopsis, and (7) the modulation of lateral root development by the CLE-CLAVATA1 signaling pathway under S deficiency. The role of S in plants grown under drought conditions has been investigated in more detail focusing (8) on the relationship between S-induced stomata closure and the canonical ABA signal transduction machinery. Furthermore, (9) the assessment of S deficiency under field conditions by single measurements of sulfur, chloride, and phosphorus in mature leaves, (10) the effect of fertilizers enriched with elemental S on durum wheat yield, and (11,12) the impact of elemental S on the rhizospheric bacteria of durum wheat contributed to enhance the scientific knowledge on S nutrition under field conditions.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Editorial"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "11432417",
+      "title": "Resistance to trimethoprim and sulfonamides.",
+      "pubdate": "2001 May-Aug",
+      "source": "Vet Res",
+      "authors": "Sköld O",
+      "elocationid": "",
+      "abstract": "Sulfonamides and trimethoprim have been used for many decades as efficient and inexpensive antibacterial agents for animals and man. Resistance to both has, however, spread extensively and rapidly. This is mainly due to the horizontal spread of resistance genes, expressing drug-insensitive variants of the target enzymes dihydropteroate synthase and dihydrofolate reductase, for sulfonamide and trimethoprim, respectively. Two genes, sul1 and sul2, mediated by transposons and plasmids, and expressing dihydropteroate synthases highly resistant to sulfonamide, have been found. For trimethoprim, almost twenty phylogenetically different resistance genes, expressing druginsensitive dihydrofolate reductases have been characterized. They are efficiently spread as cassettes in integrons, and on transposons and plasmids. One particular gene, dfr9, seems to have originally been selected in the intestine of swine, where it was found in Escherichia coli, on large plasmids in a disabled transposon, Tn5393, originally found in the plant pathogen Erwinia amylovora. There are also many examples of chromosomal resistance to sulfonamides and trimethoprim, with different degrees of complexity, from simple base changes in the target genes to transformational and recombinational exchanges of whole genes or parts of genes, forming mosaic gene patterns. Furthermore, the trade-off, seen in laboratory experiments selecting resistance mutants, showing drug-resistant but also less efficient (increased Kms) target enzymes, seems to be adjusted for by compensatory mutations in clinically isolated drug-resistant pathogens. This means that susceptibility will not return after suspending the use of sulfonamide and trimethoprim.",
+      "mesh_terms": [
+        "Animals",
+        "Chromosomes",
+        "Drug Resistance, Microbial",
+        "Gene Transfer, Horizontal",
+        "Humans",
+        "Models, Chemical",
+        "Plasmids",
+        "Restriction Mapping",
+        "Sulfonamides",
+        "Trimethoprim",
+        "Trimethoprim Resistance"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "18400935",
+      "title": "Differential regulation of the expression of two high-affinity sulfate transporters, SULTR1.1 and SULTR1.2, in Arabidopsis.",
+      "pubdate": "2008 Jun",
+      "source": "Plant Physiol",
+      "authors": "Rouached H, Wirtz M, Alary R, Hell R, Arpat AB, Davidian JC, Fourcroy P, Berthomieu P",
+      "elocationid": "doi: 10.1104/pp.108.118612",
+      "abstract": "The molecular mechanisms regulating the initial uptake of inorganic sulfate in plants are still largely unknown. The current model for the regulation of sulfate uptake and assimilation attributes positive and negative regulatory roles to O-acetyl-serine (O-acetyl-Ser) and glutathione, respectively. This model seems to suffer from exceptions and it has not yet been clearly validated whether intracellular O-acetyl-Ser and glutathione levels have impacts on regulation. The transcript level of the two high-affinity sulfate transporters SULTR1.1 and SULTR1.2 responsible for sulfate uptake from the soil solution was compared to the intracellular contents of O-acetyl-Ser, glutathione, and sulfate in roots of plants submitted to a wide diversity of experimental conditions. SULTR1.1 and SULTR1.2 were differentially expressed and neither of the genes was regulated in accordance with the current model. The SULTR1.1 transcript level was mainly altered in response to the sulfur-related treatments. Split-root experiments show that the expression of SULTR1.1 is locally regulated in response to sulfate starvation. In contrast, accumulation of SULTR1.2 transcripts appeared to be mainly related to metabolic demand and is controlled by photoperiod. On the basis of the new molecular insights provided in this study, we suggest that the expression of the two transporters depends on different regulatory networks. We hypothesize that interplay between SULTR1.1 and SULTR1.2 transporters could be an important mechanism to regulate sulfate content in the roots.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Glutathione",
+        "Plant Roots",
+        "Reverse Transcriptase Polymerase Chain Reaction"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "18761637",
+      "title": "Unequal functional redundancy between the two Arabidopsis thaliana high-affinity sulphate transporters SULTR1;1 and SULTR1;2.",
+      "pubdate": "2008",
+      "source": "New Phytol",
+      "authors": "Barberon M, Berthomieu P, Clairotte M, Shibagaki N, Davidian JC, Gosti F",
+      "elocationid": "doi: 10.1111/j.1469-8137.2008.02604.x",
+      "abstract": "* In Arabidopsis, SULTR1;1 and SULTR1;2 are two genes proposed to be involved in high-affinity sulphate uptake from the soil solution. We address here the specific issue of their functional redundancy for the uptake of sulphate and for the accumulation of its toxic analogue selenate with regard to plant growth and selenate tolerance. * Using the complete set of genotypes, including the wild-type, each one of the single sultr1;1 and sultr1;2 mutants and the resulting double sultr1;1-sultr1;2 mutant, we performed a detailed phenotypic analysis of root length, shoot biomass, sulphate uptake, sulphate and selenate accumulation and selenate tolerance. * The results all ordered the four different genotypes according to the same functional hierarchy. Wild-type and sultr1;1 mutant plants displayed similar phenotypes. By contrast, sultr1;1-sultr1;2 double-mutant plants showed the most extreme phenotype and the sultr1;2 mutant displayed intermediate performances. Additionally, the degree of selenate tolerance was directly related to the seedling selenate content according to a single sigmoid regression curve common to all the genotypes. * The SULTR1;1 and SULTR1;2 genes display unequal functional redundancy, which leaves open for SULTR1;1 the possibility of displaying an additional function besides its role in sulphate membrane transport.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Biological Transport",
+        "Genes, Plant",
+        "Genotype",
+        "Membrane Transport Proteins",
+        "Multigene Family",
+        "Mutation",
+        "Phenotype",
+        "Plant Roots",
+        "Saccharomyces cerevisiae",
+        "Selenic Acid",
+        "Selenium Compounds",
+        "Sulfates"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26581950",
+      "title": "Glutathione homeostasis and Cd tolerance in the Arabidopsis sultr1;1-sultr1;2 double mutant with limiting sulfate supply.",
+      "pubdate": "2016 Feb",
+      "source": "Plant Cell Rep",
+      "authors": "Liu X, Wu FH, Li JX, Chen J, Wang GH, Wang WH, Hu WJ, Gao LJ, Wang ZL, Chen JH",
+      "elocationid": "doi: 10.1007/s00299-015-1892-8",
+      "abstract": "Cadmium sensitivity in sultr1;1 - sultr1;2 double mutant with limiting sulfate supply is attributed to the decreased glutathione content that affected oxidative defense but not phytochelatins' synthesis. In plants, glutathione (GSH) homeostasis plays pivotal role in cadmium (Cd) detoxification. GSH is synthesized by sulfur (S) assimilation pathway. Many studies have tried to investigate the role of GSH homeostasis on Cd tolerance using mutants; however, most of them have focused on the last few steps of S assimilation. Until now, mutant evidence that explored the relationship between GSH homeostasis on Cd tolerance and S absorption is rare. To further reveal the role of GSH homeostasis on Cd stress, the wild-type and a sultr1;1-sultr1;2 double mutant which had a defect in two distinct high-affinity sulfate transporters were used in this study. Growth parameters, biochemical or zymological indexes and S assimilation-related genes' expression were compared between the mutant and wild-type Arabidopsis plants. It was found that the mutations of SULTR1;1 and SULTR1;2 did not affect Cd accumulation. Compared to the wild-type, the double mutant was more sensitive to Cd under limited sulfate supply and suffered from stronger oxidative damage. More importantly, under the same condition, lower capacity of S assimilation resulted in decreased GSH content in mutant. Faced to the limited GSH accumulation, mutant seedlings consumed a large majority of GSH in pool for the synthesis of phytochelatins rather than participating in the antioxidative defense. Therefore, homeostasis of GSH, imbalance between antioxidative defense and severe oxidative damage led to hypersensitivity of double mutant to Cd under limited sulfate supply.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Cadmium",
+        "Gene Expression Regulation, Plant",
+        "Glutathione",
+        "Sulfur"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "15208340",
+      "title": "Regulation of high-affinity sulphate transporters in plants: towards systematic analysis of sulphur signalling and regulation.",
+      "pubdate": "2004 Aug",
+      "source": "J Exp Bot",
+      "authors": "Maruyama-Nakashita A, Nakamura Y, Yamaya T, Takahashi H",
+      "elocationid": "",
+      "abstract": "Plants require the function of plasma membrane-bound sulphate transporters for the initial uptake of inorganic sulphate. Part of this fundamental process is the energy-dependent proton/sulphate co-transport systems that are located in the surface cell layers of roots. During sulphur limitation, plants are able to activate the expression of sulphate transporters that facilitate the uptake of sulphate in roots. SULTR1;1 and SULTR1;2 are suggested to be the essential components of the sulphate uptake system in Arabidopsis roots. The physiological importance of SULTR1;1 and SULTR1;2 is supported by characteristics that can cope with sulphur deficiency: they were (i) functional high-affinity sulphate transporters; (ii) induced by sulphur limitation at the mRNA levels; and (iii) predominantly localized in the root hairs, epidermis, and cortex. The expression of high-affinity sulphate transporters was primarily regulated by sulphur in a promoter-dependent manner. Aside from the sulphur-specific regulation, the induction of SULTR1;1 and SULTR1;2 high-affinity sulphate transporters by sulphur limitation was dependent on the supply of carbon and nitrogen. In this review, the application of SULTR promoter-GFP systems for the analysis of regulatory pathways of sulphate acquisition in plants is described.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carbon",
+        "Gene Expression Regulation, Plant",
+        "Membrane Transport Proteins",
+        "Nitrogen",
+        "Plant Roots",
+        "Plants",
+        "Signal Transduction",
+        "Sulfate Transporters",
+        "Sulfur"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33423475",
+      "title": "High-Affinity Sulfate Transporter Sultr1;2 Is a Major Transporter for Cr(VI) Uptake in Plants.",
+      "pubdate": "2021 Feb 2",
+      "source": "Environ Sci Technol",
+      "authors": "Xu ZR, Cai ML, Chen SH, Huang XY, Zhao FJ, Wang P",
+      "elocationid": "doi: 10.1021/acs.est.0c04384",
+      "abstract": "Chromate (Cr[VI]) is a highly phytotoxic contaminant that is ubiquitous in soils. However, how Cr(VI) is taken up by plant roots remains largely unknown. Here, we show that the high-affinity sulfate transporter Sultr1;2 is responsible for Cr(VI) uptake by the roots of Arabidopsis thaliana. Sultr1;2 showed a much higher transport activity for Cr(VI) than Sultr1;1 when expressed in yeast cells. Knockdown of Sultr1;2 expression in Arabidopsis markedly reduced the Cr(VI) uptake rate, whereas knockout of Sultr1;1 had no or little effect. A double-knockout mutant (DKO) of the two genes lost the ability of Cr(VI) uptake almost completely. The Sultr1;2 knockdown mutant or DKO plants displayed higher resistance to Cr(VI) under normal sulfate conditions as a consequence of the lower tissue Cr accumulation. Overexpression of Sultr1;2 substantially increased Cr(VI) uptake with shoot Cr concentration being 1.6-2.0 times higher than that in the wild-type. These results indicate that Sultr1;2 is a major transporter responsible for Cr(VI) uptake in Arabidopsis, while Sultr1;1 plays a negligible role. Taken together, our study has identified a major transporter for Cr(VI) uptake in plants, providing potential strategies for engineering plants with low Cr accumulation and consequently enhanced Cr(VI) resistance and also plants with enhanced accumulation of Cr for the purpose of phytoremediation.",
+      "mesh_terms": [
+        "Arabidopsis Proteins",
+        "Chromium",
+        "Gene Expression Regulation, Plant",
+        "Plant Roots",
+        "Sulfate Transporters",
+        "Sulfur"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "15718229",
+      "title": "Structural and functional analysis of the C-terminal STAS (sulfate transporter and anti-sigma antagonist) domain of the Arabidopsis thaliana sulfate transporter SULTR1.2.",
+      "pubdate": "2005 Apr 22",
+      "source": "J Biol Chem",
+      "authors": "Rouached H, Berthomieu P, El Kassis E, Cathala N, Catherinot V, Labesse G, Davidian JC, Fourcroy P",
+      "elocationid": "",
+      "abstract": "The C-terminal region of sulfate transporters from plants and animals belonging to the SLC26 family members shares a weak but significant similarity with the Bacillus sp. anti-anti-sigma protein SpoIIAA, thus defining the STAS domain (sulfate transporter and anti-sigma antagonist). The present study is a structure/function analysis of the STAS domain of SULTR1.2, an Arabidopsis thaliana sulfate transporter. A three-dimensional model of the SULTR1.2 STAS domain was built which indicated that it shares the SpoIIAA folds. Moreover, the phosphorylation site, which is necessary for SpoIIAA activity, is conserved in the SULTR1.2 STAS domain. The model was used to direct mutagenesis studies using a yeast mutant defective for sulfate transport. Truncation of the whole SULTR1.2 STAS domain resulted in the loss of sulfate transport function. Analyses of small deletions and mutations showed that the C-terminal tail of the SULTR1.2 STAS domain and particularly two cysteine residues plays an important role in sulfate transport by SULTR1.2. All the substitutions made at the putative phosphorylation site Thr-587 led to a complete loss of the sulfate transport function of SULTR1.2. The reduction or suppression of sulfate transport of the SULTR1.2 mutants in yeast was not due to an incorrect targeting to the plasma membrane. Both our three-dimensional modeling and mutational analyses strengthen the hypothesis that the SULTR1.2 STAS domain is involved in protein-protein interactions that could control sulfate transport.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Anion Transport Proteins",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Computational Biology",
+        "Molecular Sequence Data",
+        "Mutagenesis, Site-Directed",
+        "Mutation",
+        "Protein Structure, Tertiary",
+        "Recombinant Fusion Proteins",
+        "Threonine"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "12692311",
+      "title": "Phloem-localizing sulfate transporter, Sultr1;3, mediates re-distribution of sulfur from source to sink organs in Arabidopsis.",
+      "pubdate": "2003 Apr",
+      "source": "Plant Physiol",
+      "authors": "Yoshimoto N, Inoue E, Saito K, Yamaya T, Takahashi H",
+      "elocationid": "",
+      "abstract": "For the effective recycling of nutrients, vascular plants transport pooled inorganic ions and metabolites through the sieve tube. A novel sulfate transporter gene, Sultr1;3, was identified as an essential member contributing to this process for redistribution of sulfur source in Arabidopsis. Sultr1;3 belonged to the family of high-affinity sulfate transporters, and was able to complement the yeast sulfate transporter mutant. The fusion protein of Sultr1;3 and green fluorescent protein was expressed by the Sultr1;3 promoter in transgenic plants, which revealed phloem-specific expression of Sultr1;3 in Arabidopsis. Sultr1;3-green fluorescent protein was found in the sieve element-companion cell complexes of the phloem in cotyledons and roots. Limitation of external sulfate caused accumulation of Sultr1;3 mRNA both in leaves and roots. Movement of (35)S-labeled sulfate from cotyledons to the sink organs was restricted in the T-DNA insertion mutant of Sultr1;3. These results provide evidence that Sultr1;3 transporter plays an important role in loading of sulfate to the sieve tube, initiating the source-to-sink translocation of sulfur nutrient in Arabidopsis.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Anion Transport Proteins",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Biological Transport, Active",
+        "Carrier Proteins",
+        "Gene Expression Regulation, Plant",
+        "Molecular Sequence Data",
+        "Organ Specificity",
+        "Phylogeny",
+        "Plant Structures",
+        "Plants, Genetically Modified",
+        "Sulfur"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35638569",
+      "title": "Critical review of antibiotic resistance genes in the atmosphere.",
+      "pubdate": "2022 Jun 22",
+      "source": "Environ Sci Process Impacts",
+      "authors": "Kormos D, Lin K, Pruden A, Marr LC",
+      "elocationid": "doi: 10.1039/d2em00091a",
+      "abstract": "We conducted a critical review to establish what is known about the sources, characteristics, and dissemination of ARGs in the atmosphere. We identified 52 papers that reported direct measurements of bacterial ARGs in air samples and met other inclusion criteria. The settings of the studies fell into the following categories: urban, rural, hospital, industrial, wastewater treatment plants (WWTPs), composting and landfill sites, and indoor environments. Certain genes were commonly studied and generally abundant: sul1, intI1, β-lactam ARGs, and tetracycline ARGs. Abundances of total ARGs varied by season and setting, with air in urban areas having higher ARG abundance than rural areas during the summer and vice versa during the winter. There was greater consistency in the types and abundances of ARGs throughout the seasons in urban areas. Human activity within indoor environments was also linked to increased ARG content (abundance, diversity, and concentration) in the air. Several studies found that human exposure to ARGs through inhalation was comparable to exposure through drinking water or ingesting soil. Detection of ARGs in air is a developing field, and differences in sampling and analysis methods reflect the many possible approaches to studying ARGs in air and make direct comparisons between studies difficult. Methodologies need to be standardized to facilitate identification of the dominant ARGs in the air, determine their major sources, and quantify the role of atmospheric transport in dissemination of ARGs in the environment. With such knowledge we can develop better policies and guidelines to limit the spread of antimicrobial resistance.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Atmosphere",
+        "Bacteria",
+        "Drug Resistance, Microbial",
+        "Genes, Bacterial",
+        "Humans",
+        "Wastewater"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40388589",
+      "title": "Sultr1;2-Mediated Recruitment of Selenium-Oxidizing Bacteria Promotes Plant Selenium Uptake.",
+      "pubdate": "2025 Jun 4",
+      "source": "J Agric Food Chem",
+      "authors": "Lei Z, Wang H, Zhang H, Liu W, He Z, Wang Z, Zhang H, Wang Y, Tang Y, Hu C",
+      "elocationid": "doi: 10.1021/acs.jafc.5c01540",
+      "abstract": "Plants can shape their root microbiome to promote growth and selenium uptake. Here, we used metagenomics, 16S high-throughput sequencing, and liquid chromatography-mass spectrometry (LC-MS) metabolomics assays to investigate the role of Sultr1;2, which is the major selenium transporter gene, in recruiting microbial communities to regulate soil selenium bioavailability and plant selenium uptake. Results shows that the overexpression of Sultr1;2 in tomato significantly enriched Methylobacterium genus. The isolated strains of Methylobacterium possess multiple plant-growth-promoting functions and selenium oxidation capability and inoculation with these strains increases soil selenium availability. The upregulated metabolites of Sultr1;2-overexpressing tomato were significantly enriched in the arginine and proline metabolism pathway. The key upregulated metabolites significantly improved the growth rate and selenium-oxidizing ability of Methylobacterium strains, and the combined addition of key upregulated metabolites and synthetic microbial community significantly increased soil selenium bioavailability and plant selenium uptake. This study provides insights into leveraging plant genetic engineering to identify key functional microbial communities for sustainable selenium-rich agricultural development.",
+      "mesh_terms": [
+        "Selenium",
+        "Solanum lycopersicum",
+        "Oxidation-Reduction",
+        "Soil Microbiology",
+        "Methylobacterium",
+        "Bacterial Proteins",
+        "Plant Roots",
+        "Soil",
+        "Microbiota"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "30974830",
+      "title": "Glucosinolate Distribution in the Aerial Parts of sel1-10, a Disruption Mutant of the Sulfate Transporter SULTR1;2, in Mature Arabidopsis thaliana Plants.",
+      "pubdate": "2019 Apr 10",
+      "source": "Plants (Basel)",
+      "authors": "Morikawa-Ichinose T, Kim SJ, Allahham A, Kawaguchi R, Maruyama-Nakashita A",
+      "elocationid": "doi: 10.3390/plants8040095",
+      "abstract": "Plants take up sulfur (S), an essential element for all organisms, as sulfate, which is mainly attributed to the function of SULTR1;2 in Arabidopsis. A disruption mutant of SULTR1;2, sel1-10, has been characterized with phenotypes similar to plants grown under sulfur deficiency (-S). Although the effects of -S on S metabolism were well investigated in seedlings, no studies have been performed on mature Arabidopsis plants. To study further the effects of -S on S metabolism, we analyzed the accumulation and distribution of S-containing compounds in different parts of mature sel1-10 and of the wild-type (WT) plants grown under long-day conditions. While the levels of sulfate, cysteine, and glutathione were almost similar between sel1-10 and WT, levels of glucosinolates (GSLs) differed between them depending on the parts of the plant. GSLs levels in the leaves and stems were generally lower in sel1-10 than those in WT. However, sel1-10 seeds maintained similar levels of aliphatic GSLs to those in WT plants. GSL accumulation in reproductive tissues is likely to be prioritized even when sulfate supply is limited in sel1-10 for its role in S storage and plant defense.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "29653401",
+      "title": "Antibiotics and antibiotic resistance genes in global lakes: A review and meta-analysis.",
+      "pubdate": "2018 Jul",
+      "source": "Environ Int",
+      "authors": "Yang Y, Song W, Lin H, Wang W, Du L, Xing W",
+      "elocationid": "doi: 10.1016/j.envint.2018.04.011",
+      "abstract": "Lakes are an important source of freshwater, containing nearly 90% of the liquid surface fresh water worldwide. Long retention times in lakes mean pollutants from discharges slowly circulate around the lakes and may lead to high ecological risk for ecosystem and human health. In recent decades, antibiotics and antibiotic resistance genes (ARGs) have been regarded as emerging pollutants. The occurrence and distribution of antibiotics and ARGs in global freshwater lakes are summarized to show the pollution level of antibiotics and ARGs and to identify some of the potential risks to ecosystem and human health. Fifty-seven antibiotics were reported at least once in the studied lakes. Our meta-analysis shows that sulfamethoxazole, sulfamerazine, sulfameter, tetracycline, oxytetracycline, erythromycin, and roxithromycin were found at high concentrations in both lake water and lake sediment. There is no significant difference in the concentration of sulfonamides in lake water from China and that from other countries worldwide; however, there was a significant difference in quinolones. Erythromycin had the lowest predicted hazardous concentration for 5% of the species (HC5) and the highest ecological risk in lakes. There was no significant difference in the concentration of sulfonamide resistance genes (sul1 and sul2) in lake water and river water. There is surprisingly limited research on the role of aquatic biota in propagation of ARGs in freshwater lakes. As an environment that is susceptible to cumulative build-up of pollutants, lakes provide an important environment to study the fate of antibiotics and transport of ARGs with a broad range of niches including bacterial community, aquatic plants and animals.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bacteria",
+        "Drug Resistance, Microbial",
+        "Genes, Bacterial",
+        "Geologic Sediments",
+        "Lakes"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "31010206",
+      "title": "Contribution of Root Hair Development to Sulfate Uptake in Arabidopsis.",
+      "pubdate": "2019 Apr 19",
+      "source": "Plants (Basel)",
+      "authors": "Kimura Y, Ushiwatari T, Suyama A, Tominaga-Wada R, Wada T, Maruyama-Nakashita A",
+      "elocationid": "doi: 10.3390/plants8040106",
+      "abstract": "Root hairs often contribute to nutrient uptake from environments, but the contribution varies among nutrients. In Arabidopsis, two high-affinity sulfate transporters, SULTR1;1 and SULTR1;2, are responsible for sulfate uptake by roots. Their increased expression under sulfur deficiency (-S) stimulates sulfate uptake. Inspired by the higher and lower expression, respectively, of SULTR1;1 in mutants with more (werwolf [wer]) and fewer (caprice [cpc]) root hairs, we examined the contribution of root hairs to sulfate uptake. Sulfate uptake rates were similar among plant lines under both sulfur sufficiency (+S) and -S. Under -S, the expression of SULTR1;1 and SULTR1;2 was negatively correlated with the number of root hairs. These results suggest that both -S-induced SULTR expression and sulfate uptake rates were independent of the number of root hairs. In addition, we observed (1) a negative correlation between primary root lengths and number of root hairs and (2) a greater number of root hairs under -S than under +S. These observations suggested that under both +S and -S, sulfate uptake was influenced by the root biomass rather than the number of root hairs.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32688787",
+      "title": "Regulation of sulfate uptake, expression of the sulfate transporters Sultr1;1 and Sultr1;2, and APS reductase in Chinese cabbage (Brassica pekinensis) as affected by atmospheric H(2)S nutrition and sulfate deprivation.",
+      "pubdate": "2008 Jun",
+      "source": "Funct Plant Biol",
+      "authors": "Koralewska A, Stuiver CEE, Posthumus FS, Kopriva S, Hawkesford MJ, De Kok LJ",
+      "elocationid": "doi: 10.1071/FP07283",
+      "abstract": "The activity and expression of sulfate transporters and adenosine 5'-phosphosulfate (APS) reductase (APR) in plants are modulated by the plant sulfur status and the demand for growth. To elucidate regulatory mechanisms in Chinese cabbage [Brassica pekinensis (Lour.) Rupr.], the interactions between atmospheric H2S and sulfate nutrition and the impact on the activity and expression of the Group 1 sulfate transporters and APR were studied. At an ample sulfate supply, H2S exposure of Chinese cabbage resulted in a partial decrease of the sulfate uptake capacity, and at concentrations ≥0.25 μL L-1 a decreased expression of Sultr1;2 in the root and APR in the root and shoot. Upon sulfate deprivation there was a more than 3-fold increase in the sulfate uptake capacity of the root, accompanied by an induced expression of Sultr1;1 and an enhanced expression of Sultr1;2 in the root, along with an induction of Sultr1;2 in the shoot. The enhanced sulfate uptake capacity, the expression of the sulfate transporters in the root and the altered shoot-to-root partitioning appearing during sulfate deprivation were not alleviated upon H2S exposure and not rapidly affected by sulfate re-supply. Expression of APR was strongly enhanced in the root and shoot of sulfate-deprived plants and decreased again upon H2S exposure and sulfate re-supply. The significance of shoot-to-root interaction and sulfate and thiols as regulating signals in the activity and expression of Sultr1;1 and 1;2 is evaluated.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "15047883",
+      "title": "Induction of SULTR1;1 sulfate transporter in Arabidopsis roots involves protein phosphorylation/dephosphorylation circuit for transcriptional regulation.",
+      "pubdate": "2004 Mar",
+      "source": "Plant Cell Physiol",
+      "authors": "Maruyama-Nakashita A, Nakamura Y, Watanabe-Takahashi A, Yamaya T, Takahashi H",
+      "elocationid": "",
+      "abstract": "SULTR1;1 high-affinity sulfate transporter is highly regulated by sulfur deficiency (-S) in the epidermis and cortex of Arabidopsis roots. The regulatory mechanism of SULTR1;1 expression was studied using inhibitors for transcription, translation, protein phosphorylation and dephosphorylation. The induction of SULTR1;1 mRNA during -S was blocked by the addition of actinomycin D in the medium, suggesting that SULTR1;1 is transcriptionally regulated. Cycloheximide repressed the -S induction of SULTR1;1, but enhanced the basal mRNA level of SULTR1;1 under sulfur replete (+S) condition. In addition, the induction of SULTR1;1 by -S was significantly blocked by okadaic acid (OKA) and calyculin A (CalyA). Regulation of SULTR1;1 was further confirmed in transgenic plants expressing green fluorescent protein (GFP) under the control of SULTR1;1 promoter. Accumulation of GFP during -S was dependent to SULTR1;1 promoter, and the effects of OKA and CalyA were reproducible in the SULTR1;1 promoter-GFP plants. These results suggested that the up-regulation of SULTR1;1 by -S requires protein phosphatase as an upstream regulatory factor.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carrier Proteins",
+        "Cycloheximide",
+        "Dactinomycin",
+        "Gene Expression Regulation, Plant",
+        "Green Fluorescent Proteins",
+        "Luminescent Proteins",
+        "Marine Toxins",
+        "Membrane Transport Proteins",
+        "Okadaic Acid",
+        "Oxazoles",
+        "Phosphorylation",
+        "Plant Roots",
+        "Plants, Genetically Modified",
+        "Promoter Regions, Genetic",
+        "RNA, Messenger",
+        "Recombinant Fusion Proteins",
+        "Sulfate Transporters",
+        "Sulfur"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "25566284",
+      "title": "Transceptors at the boundary of nutrient transporters and receptors: a new role for Arabidopsis SULTR1;2 in sulfur sensing.",
+      "pubdate": "2014",
+      "source": "Front Plant Sci",
+      "authors": "Zheng ZL, Zhang B, Leustek T",
+      "elocationid": "doi: 10.3389/fpls.2014.00710",
+      "abstract": "Plants have evolved a sophisticated mechanism to sense the extracellular sulfur (S) status so that sulfate transport and S assimilation/metabolism can be coordinated. Genetic, biochemical, and molecular studies in Arabidopsis over the past 10 years have started to shed some light on the regulatory mechanism of the S response. Key advances in transcriptional regulation (SLIM1, MYB, and miR395), involvement of hormones (auxin, cytokinin, and abscisic acid) and identification of putative sensors (OASTL and SULTR1;2) are highlighted here. Although our current view of S nutrient sensing and signaling remains fragmented, it is anticipated that through further studies a sensing and signaling network will be revealed in the near future.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38492364",
+      "title": "Isolation of Saccharomycopsis species from plant material.",
+      "pubdate": "2024 Jun",
+      "source": "Microbiol Res",
+      "authors": "Dost C, Michling F, Kaimenyi D, Rij M, Wendland J",
+      "elocationid": "doi: 10.1016/j.micres.2024.127691",
+      "abstract": "Saccharomycopsis species are natural organic sulphur auxotrophs. Their genomes do not encode genes for the uptake and assimilation of sulphate and thus these species cannot grow on media lacking e.g. methionine. Due to the similarity between sulphate and selenate, uptake and assimilation of selenate occurs through the same pathway starting from sulphate transporters encoded by the homologs of the SUL1 and SUL2 genes in S. cerevisiae. Lack of these transporters renders Saccharomycopsis species resistant to selenate levels that are toxic to other microorganisms. We used this feature to enrich environmental samples for Saccharomycopsis species. This led to the isolation of S. schoenii, S. lassenensis and a hitherto undescribed Saccharomycopsis species with limited by-catch of other yeasts, mainly belonging to Metschnikowia and Hanseniaspora. We performed growth and predation assays to characterize the potential of these new isolates as predacious yeasts. Most Saccharomycopsis species are temperature sensitive and cannot grow at 37°C; with the exception of S. lassenensis strains. Predation assays with S. schoenii and S. cerevisiae as prey indicated that predation was enhanced at 20°C compared to 30°C. We crossed an American isolate of S. schoenii with our German isolate using marker directed breeding. Viable progeny indicated that both strains are interfertile and belong to the same biological species. S. lassenensis is heterothallic, while S. schoenii and the new Saccharomycopsis isolate, for which we suggest the name S. geisenheimensis sp. nov., are homothallic.",
+      "mesh_terms": [
+        "Saccharomycopsis",
+        "Saccharomyces cerevisiae",
+        "Selenic Acid",
+        "Biological Transport",
+        "Sulfates",
+        "Sulfate Transporters",
+        "Saccharomyces cerevisiae Proteins",
+        "Anion Transport Proteins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "24308460",
+      "title": "Aberrant gene expression in the Arabidopsis SULTR1;2 mutants suggests a possible regulatory role for this sulfate transporter in response to sulfur nutrient status.",
+      "pubdate": "2014 Jan",
+      "source": "Plant J",
+      "authors": "Zhang B, Pasini R, Dan H, Joshi N, Zhao Y, Leustek T, Zheng ZL",
+      "elocationid": "doi: 10.1111/tpj.12376",
+      "abstract": "Sulfur is required for the biosynthesis of cysteine, methionine and numerous other metabolites, and thus is critical for cellular metabolism and various growth and developmental processes. Plants are able to sense their physiological state with respect to sulfur availability, but the sensor remains to be identified. Here we report the isolation and characterization of two novel allelic mutants of Arabidopsis thaliana, sel1-15 and sel1-16, which show increased expression of a sulfur deficiency-activated gene β-glucosidase 28 (BGLU28). The mutants, which represent two different missense alleles of SULTR1;2, which encodes a high-affinity sulfate transporter, are defective in sulfate transport and as a result have a lower cellular sulfate level. However, when treated with a very high dose of sulfate, sel1-15 and sel1-16 accumulated similar amounts of internal sulfate and its metabolite glutathione (GSH) to wild-type, but showed higher expression of BGLU28 and other sulfur deficiency-activated genes than wild-type. Reduced sensitivity to inhibition of gene expression was also observed in the sel1 mutants when fed with the sulfate metabolites Cys and GSH. In addition, a SULTR1;2 knockout allele also exhibits reduced inhibition in response to sulfate, Cys and GSH, consistent with the phenotype of sel1-15 and sel1-16. Taken together, the genetic evidence suggests that, in addition to its known function as a high-affinity sulfate transporter, SULTR1;2 may have a regulatory role in response to sulfur nutrient status. The possibility that SULTR1;2 may function as a sensor of sulfur status or a component of a sulfur sensory mechanism is discussed.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Anion Transport Proteins",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Cysteine",
+        "Gene Expression Regulation, Plant",
+        "Glutathione",
+        "Molecular Sequence Data",
+        "Mutation",
+        "Sequence Homology, Amino Acid",
+        "Sulfur"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "22738972",
+      "title": "Mechanisms of the selenium tolerance of the Arabidopsis thaliana knockout mutant of sulfate transporter SULTR1;2.",
+      "pubdate": "2012",
+      "source": "Biosci Biotechnol Biochem",
+      "authors": "Ohno M, Uraji M, Shimoishi Y, Mori IC, Nakamura Y, Murata Y",
+      "elocationid": "",
+      "abstract": "We investigated the mechanism of selenium (Se) tolerance using an Arabidopsis thaliana knockout mutant of a sulfate transporter, sultr1;2. Se stress inhibited plant growth, decreased chlorophyll contents, and increased protein oxidation and lipid peroxidation in the wild type, whereas the sultr1;2 mutation mitigated damage of these forms, indicating that sultr1;2 is more tolerant of Se than the wild type is. The accumulation of symplastic Se was suppressed in sultr1;2 as compared to the wild type, and the chemical speciation of Se in the mutant was different from that in the wild type. Regardless of Se stress, the activities of ascorbate peroxidase, catalase, and peroxidase in the mutant were higher than in the wild type, while the activity of superoxide dismutase in the mutant was the same as in the wild type. These results suggest that the sultr1;2 mutation confers Se tolerance on Arabidopsis by decreasing symplastic Se and maintaining antioxidant enzyme activities.",
+      "mesh_terms": [
+        "Adaptation, Physiological",
+        "Anion Transport Proteins",
+        "Antioxidants",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Ascorbate Peroxidases",
+        "Catalase",
+        "Gene Knockout Techniques",
+        "Lipid Peroxidation",
+        "Mutation",
+        "Oxidative Stress",
+        "Peroxidases",
+        "Plant Roots",
+        "Plants, Genetically Modified",
+        "Salt Tolerance",
+        "Selenic Acid",
+        "Selenium",
+        "Selenium Compounds",
+        "Stress, Physiological",
+        "Superoxide Dismutase"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

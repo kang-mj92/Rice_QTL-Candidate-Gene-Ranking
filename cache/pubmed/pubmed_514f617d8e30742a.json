@@ -1,0 +1,111 @@
+{
+  "term": "(\"Os06g0526600\"[Title/Abstract] OR \"OsABP\"[Title/Abstract] OR \"OsRH31\"[Title/Abstract] OR \"ATP-binding protein, DEAD-box helicase ATP-binding protein, OsABP helicase, DEAD-box ATP-dependent RNA helicase 31, RNA helicase 31\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "22899052",
+    "23043463",
+    "23733055"
+  ],
+  "records": [
+    {
+      "pmid": "22899052",
+      "title": "A new DEAD-box helicase ATP-binding protein (OsABP) from rice is responsive to abiotic stress.",
+      "pubdate": "2012 Sep 1",
+      "source": "Plant Signal Behav",
+      "authors": "Macovei A, Vaid N, Tula S, Tuteja N",
+      "elocationid": "doi: 10.4161/psb.21343",
+      "abstract": "The DEAD-box RNA helicase family comprise enzymes that participate in every aspect of RNA metabolism, associated with a diverse range of cellular functions including response to abiotic stress. In the present study, we report on the identification of a new DEAD-box helicase ATP-binding protein (OsABP) from rice which is upregulated in response e to multiple abiotic stress treatments  including NaCl, dehydration, ABA, blue and red light. It possesses an ORF of 2772 nt, encoding a protein of 923 aa, which contains the DEAD and helicase C-terminal domains, along with the nine conserved motifs specific to DEAD-box helicases. The in silico putative interaction with other proteins showed that OsABP interacts with proteins involved in RNA metabolism, signal transduction or stress response. These results imply that OsABP might perform important functions in the cellular response to specific abiotic stress.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Adaptation, Physiological",
+        "DEAD-box RNA Helicases",
+        "Droughts",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Light",
+        "Open Reading Frames",
+        "Oryza",
+        "Plant Proteins",
+        "RNA",
+        "Salt Tolerance",
+        "Signal Transduction",
+        "Sodium Chloride",
+        "Stress, Physiological",
+        "Up-Regulation"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "23043463",
+      "title": "microRNAs targeting DEAD-box helicases are involved in salinity stress response in rice (Oryza sativa L.).",
+      "pubdate": "2012 Oct 8",
+      "source": "BMC Plant Biol",
+      "authors": "Macovei A, Tuteja N",
+      "elocationid": "doi: 10.1186/1471-2229-12-183",
+      "abstract": "BACKGROUND: Rice (Oryza sativa L.), one of the most important food crop in the world, is considered to be a salt-sensitive crop. Excess levels of salt adversely affect all the major metabolic activities, including cell wall damage, cytoplasmic lysis and genomic stability. In order to cope with salt stress, plants have evolved high degrees of developmental plasticity, including adaptation via cascades of molecular networks and changes in gene expression profiles. Posttranscriptional regulation, through the activity of microRNAs, also plays an important role in the plant response to salinity conditions. MicroRNAs are small endogenous RNAs that modulate gene expression and are involved in the most essential physiological processes, including plant development and adaptation to environmental changes. RESULTS: In the present study, we investigated the expression profiles of osa-MIR414, osa-MIR408 and osa-MIR164e along with their targeted genes, under salinity stress conditions in wild type and transgenic rice plants ectopically expressing the PDH45 (Pea DNA Helicase) gene. The present miRNAs were predicted to target the OsABP (ATP-Binding Protein), OsDSHCT (DOB1/SK12/helY-like DEAD-box Helicase) and OsDBH (DEAD-Box Helicase) genes, included in the DEAD-box helicase family. An in silico characterization of the proteins was performed and the miRNAs predicted targets were validated by RLM-5'RACE. The qRT-PCR analysis showed that the OsABP, OsDBH and OsDSHCT genes were up-regulated in response to 100 and 200 mM NaCl treatments. The present study also highlighted an increased accumulation of the gene transcripts in wild type plants, with the exception of the OsABP mRNA which showed the highest level (15.1-fold change compared to control) in the transgenic plants treated with 200 mM NaCl. Salinity treatments also affected the expression of osa-MIR414, osa-MIR164e and osa-MIR408, found to be significantly down-regulated, although the changes in miRNA expression were limited. CONCLUSIONS: Osa-MIR414, osa-MIR164e and osa-MIR408 were experimentally validated for the first time in plants as targeting the OsABP, OsDBH and OsDSHCT genes. Our data showed that that the genes were up-regulated and the miRNAs were down-regulated in relation to salt stress. The negative correlation between the miRNAs and their targets was proven.",
+      "mesh_terms": [
+        "Base Sequence",
+        "Chlorophyll",
+        "Conserved Sequence",
+        "DEAD-box RNA Helicases",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "MicroRNAs",
+        "Molecular Sequence Data",
+        "Oryza",
+        "Plant Proteins",
+        "Proline",
+        "Protein Structure, Tertiary",
+        "Reproducibility of Results",
+        "Salinity",
+        "Sodium Chloride",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "23733055",
+      "title": "Different expression of miRNAs targeting helicases in rice in response to low and high dose rate γ-ray treatments.",
+      "pubdate": "2013 Aug",
+      "source": "Plant Signal Behav",
+      "authors": "Macovei A, Tuteja N",
+      "elocationid": "doi: 10.4161/psb.25128",
+      "abstract": "Ionizing radiation currently represents an important tool to generate genetic variability that does not exist in nature, especially in plants. Even so, the radiological protection still represents a subject of regulatory concern. In plants, few reports dealing with the effects of γ-rays, in terms of dose rate (rate of energy deposition) and total dose (energy absorbed per unit mass), are available. In addition, plants are known to be more radioresistant than animals. The use of ionizing radiations for studying various aspects of transcription regulation may help elucidate some of the unanswered questions regarding DNA repair in plants. Under these premises, microRNAs have emerged as molecules involved in gene regulation in response to various environmental conditions as well as in other aspects of plant development. Currently, no report on the changes in microRNAs expression patterns in response to γ-ray treatments exists in plants, even if this subject is extensively studies in human cells. The present study deals with the expression profiles of three miRNAs, namely osa-miR414, osa-miR164e and osa-miR408 and their targeted helicase genes (OsABP, OsDBH and OsDSHCT) in response to different doses of γ-rays delivered both at low and high dose rates. The irradiated rice seeds were grown both in the presence of water and 100 mM NaCl solution. DNA damage and reactive species accumulation were registered, but no dose- or time-dependent expression was observed in response to these treatments.",
+      "mesh_terms": [
+        "Comet Assay",
+        "Computer Simulation",
+        "DNA Damage",
+        "DNA Helicases",
+        "Dose-Response Relationship, Radiation",
+        "Gamma Rays",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Humans",
+        "Hydrogen Peroxide",
+        "MicroRNAs",
+        "Oryza",
+        "Salinity",
+        "Seedlings",
+        "Sodium Chloride",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

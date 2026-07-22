@@ -1,0 +1,8 @@
+{
+  "term": "(\"DLN198\"[Title/Abstract] OR \"PHD30\"[Title/Abstract] OR \"RING82\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [],
+  "records": [],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

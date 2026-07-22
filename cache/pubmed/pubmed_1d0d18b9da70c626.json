@@ -1,0 +1,31 @@
+{
+  "term": "(\"Os06g0526100\"[Title/Abstract] OR \"BHLH54\"[Title/Abstract] OR \"OsSPCH1\"[Title/Abstract] OR \"OsbHLH054\"[Title/Abstract] OR \"BASIC HELIX-LOOP-HELIX PROTEIN 54\"[Title/Abstract] OR \"SPEECHLESS 1\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "32924751"
+  ],
+  "records": [
+    {
+      "pmid": "32924751",
+      "title": "Overexpression of Arabidopsis ICE1 enhances yield and multiple abiotic stress tolerance in indica rice.",
+      "pubdate": "2020 Nov 1",
+      "source": "Plant Signal Behav",
+      "authors": "Verma RK, Kumar VVS, Yadav SK, Kumar TS, Rao MV, Chinnusamy V",
+      "elocationid": "doi: 10.1080/15592324.2020.1814547",
+      "abstract": "ICE1 (Inducer of CBF Expression 1), a MYC-type bHLH transcription factor, is a regulator of cold tolerance in Arabidopsis. Indica rice, which occupies the major rice cultivated area, is highly sensitive to cold stress. Hence in this study, Arabidopsis ICE1 (AtICE1) was overexpressed in indica rice to analyze its role in reproductive stage cold and other abiotic stress tolerance to indica rice. AtICE1 was overexpressed by using stress inducible AtRD29A promoter in mega rice cv. MTU1010. Under cold stress conditions, AtICE1 overexpression lines showed lower accumulation of MDA and H2O2, higher membrane stability, and thus higher seedling survival rate than the WT plants. Expression levels of OsDREB1A, OsMYB3R2, and OsTPP1 were significantly higher in transgenics as compared with WT under cold stress conditions. AtICE1 transgenic rice plants produced 44-60% higher grain yield as compared with WT plants under control conditions in three independent experiments. Of the three AtICE1 overexpression lines, two lines produced significantly higher grain yield as compared with WT plants after recovery from cold, salt and drought stresses. AtICE1 overexpression lines showed significantly higher stomatal density and conductance under non-stress conditions. qRT-PCR analysis showed that expression levels of stomatal pathway genes viz., OsSPCH1, OsSPCH2, OsSCR1, OsSCRM1, OsSCRM2 and OsMUTE were significantly higher in AtICE1 transgenics as compared with WT plants. The components of water use viz., stomatal conductance, photosynthesis, and instantaneous WUE were higher in transgenics as compared with WT plants. The results showed that AtICE1 confers multiple stress tolerance to indica rice, and the role of ICE1 in stress tolerance and stomatal development is conserved across species.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Cold Temperature",
+        "Oryza",
+        "Plant Stomata"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

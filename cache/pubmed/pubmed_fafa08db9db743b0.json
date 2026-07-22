@@ -1,0 +1,8 @@
+{
+  "term": "(\"Os08g0409500\"[Title/Abstract] OR \"VQ33\"[Title/Abstract] OR \"OsVQ33\"[Title/Abstract] OR \"VQ MOTIF-CONTAINING PROTEIN 33\"[Title/Abstract] OR \"VQ motif-containing protein 33, valine-glutamine protein 33\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [],
+  "records": [],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

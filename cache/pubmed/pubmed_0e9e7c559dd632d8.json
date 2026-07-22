@@ -1,0 +1,32 @@
+{
+  "term": "(\"Os06g0527100\"[Title/Abstract] OR \"CNGC12\"[Title/Abstract] OR \"OsCNGC2\"[Title/Abstract] OR \"OsCNGC12\"[Title/Abstract] OR \"Cyclic nucleotide-gated ion channel 2\"[Title/Abstract] OR \"CYCLIC NUCLEOTIDE GATED CHANNEL 12\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "37574927"
+  ],
+  "records": [
+    {
+      "pmid": "37574927",
+      "title": "The herbicide bensulfuron-methyl inhibits rice seedling development by blocking calcium ion flux in the OsCNGC12 channel.",
+      "pubdate": "2023 Dec",
+      "source": "Plant J",
+      "authors": "Guo Y, Xu X, Lin J, Li H, Guo W, Wan S, Chen Z, Xu H, Lin F",
+      "elocationid": "doi: 10.1111/tpj.16418",
+      "abstract": "Identification of translocator protein-related genes involved in bensulfuron-methyl (BSM) uptake and transport in rice could facilitate the development of herbicide-tolerant cultivars by inactivating them. This study found that the OsCNGC12 mutants not only reduced BSM uptake but also compromised the Ca2 ⁺ efflux caused by BSM in the roots, regulating dynamic equilibrium of Ca2 ⁺ inside the cell and conferring non-target-site tolerance to BSM.",
+      "mesh_terms": [
+        "Herbicides",
+        "Seedlings",
+        "Oryza",
+        "Calcium",
+        "Sulfonylurea Compounds"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

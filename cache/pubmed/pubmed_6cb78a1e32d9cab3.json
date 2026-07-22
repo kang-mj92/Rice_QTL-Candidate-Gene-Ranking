@@ -1,0 +1,145 @@
+{
+  "term": "(\"EnS-89\"[Title/Abstract] OR \"PYL13\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "24165892",
+    "24706923",
+    "26174552",
+    "24189045",
+    "29784797"
+  ],
+  "records": [
+    {
+      "pmid": "24165892",
+      "title": "Molecular basis for the selective and ABA-independent inhibition of PP2CA by PYL13.",
+      "pubdate": "2013 Dec",
+      "source": "Cell Res",
+      "authors": "Li W, Wang L, Sheng X, Yan C, Zhou R, Hang J, Yin P, Yan N",
+      "elocationid": "doi: 10.1038/cr.2013.143",
+      "abstract": "PYR1/PYL/RCAR family proteins (PYLs) are well-characterized abscisic acid (ABA) receptors. Among the 14 PYL members in Arabidopsis thaliana, PYL13 is ABA irresponsive and its function has remained elusive. Here, we show that PYL13 selectively inhibits the phosphatase activity of PP2CA independent of ABA. The crystal structure of PYL13-PP2CA complex, which was determined at 2.4 Å resolution, elucidates the molecular basis for the specific recognition between PP2CA and PYL13. In addition to the canonical interactions between PYLs and PP2Cs, an extra interface is identified involving an element in the vicinity of a previously uncharacterized CCCH zinc-finger (ZF) motif in PP2CA. Sequence blast identified another 56 ZF-containing PP2Cs, all of which are from plants. The structure also reveals the molecular determinants for the ABA irresponsiveness of PYL13. Finally, biochemical analysis suggests that PYL13 may hetero-oligomerize with PYL10. These two PYLs antagonize each other in their respective ABA-independent inhibitions of PP2Cs. The biochemical and structural studies provide important insights into the function of PYL13 in the stress response of plant and set up a foundation for future biotechnological applications of PYL13.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Amino Acid Sequence",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Crystallography, X-Ray",
+        "Molecular Sequence Data",
+        "Phosphoprotein Phosphatases",
+        "Protein Binding",
+        "Protein Structure, Tertiary",
+        "Sequence Alignment",
+        "Sequence Homology, Amino Acid",
+        "Zinc Fingers"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "24706923",
+      "title": "Abscisic acid sensor RCAR7/PYL13, specific regulator of protein phosphatase coreceptors.",
+      "pubdate": "2014 Apr 15",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": "Fuchs S, Tischer SV, Wunschel C, Christmann A, Grill E",
+      "elocationid": "doi: 10.1073/pnas.1322085111",
+      "abstract": "The plant hormone abscisic acid (ABA) acts both as a developmental signal and as an integrator of environmental cues such as drought and cold. ABA perception recruits an ABA-binding regulatory component [regulatory component of ABA receptor (RCAR)/PYR1/PYL] and an associated protein phosphatase 2C (PP2C). Phytohormone binding inactivates the phosphatase activity of the coreceptor, permitting phosphorelay of the ABA signal via downstream protein kinases. RCARs and PP2C coreceptors are represented by small protein families comprising 14 and 9 members in Arabidopsis, respectively. The specificity of the RCAR-PP2C interaction and the constraints contributing to specific combinations are poorly understood. In this contribution, we analyzed RCAR7/PYL13, which is characterized by three variant amino acid residues in the conserved ABA-binding pocket. RCAR7 regulated the phosphatase activity of the PP2Cs ABI1, ABI2, and PP2CA in vitro at nanomolar ABA levels; however, it was unable to regulate the structurally related hypersensitive to ABA 1 (HAB1). Site-directed mutagenesis of HAB1 established ABA-dependent regulation by RCAR7. Conversion of the noncanonical amino acid residues of RCAR7 into the consensus ABA-binding pocket did not perceptibly change receptor function. Ectopic expression of RCAR7 in Arabidopsis resulted in ABA hypersensitivity affecting gene regulation, seed germination, and stomatal closure. The RCAR7 loss-of-function mutant revealed no changes in ABA responses, similar to the RCAR9 knockout line, whereas the combined deficiency of RCAR7 and RCAR9 resulted in ABA-insensitive seed germination. The study shows a role of RCAR7 in early plant development, proves its ABA receptor function, and identifies structural constraints of RCAR7-PP2C interaction.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "DNA Primers",
+        "Escherichia coli",
+        "Gene Expression Regulation, Plant",
+        "Mutagenesis, Site-Directed",
+        "Phosphoprotein Phosphatases",
+        "Plant Growth Regulators",
+        "Protoplasts",
+        "Reverse Transcriptase Polymerase Chain Reaction"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26174552",
+      "title": "The selectivity of 6-nor-ABA and 7'-nor-ABA for abscisic acid receptor subtypes.",
+      "pubdate": "2015 Sep 1",
+      "source": "Bioorg Med Chem Lett",
+      "authors": "Takeuchi J, Ohnishi T, Okamoto M, Todoroki Y",
+      "elocationid": "doi: 10.1016/j.bmcl.2015.06.088",
+      "abstract": "Abscisic acid (ABA), a plant hormone, is involved in many plant development processes and environmental stress responses that are regulated by a Pyrabactin Resistant 1 (PYR)/Pyrabactin Resistant-Like (PYL)/Regulatory Component of ABA Receptor (RCAR) receptor protein-mediated signal transduction pathway. In Arabidopsis thaliana, PYL proteins constitute a 14-member family comprising two distinct subclasses: dimeric receptors (PYR1 and PYL1-PYL3) and monomeric receptors (PYL4-PYL13). The individual contributions of PYL subclasses/subtypes with specific physiological actions are still poorly understood; consequently, the development of PYL subclass/subtype-selective agonists should be useful to reveal the different functions of these receptors. In this study, we focused on the ABA analogs 6-nor-ABA and 7'-nor-ABA, which were expected to function as monomeric receptor-selective agonists on the basis of crystal structures of PYL-ABA complexes and sequence alignments of PYL subtypes. In a protein phosphatase 2C (PP2C) assay, the agonist activities of both analogs were lower than those of ABA toward all tested PYL proteins, regardless of subclass/subtype. Nevertheless, we found that 6-nor-ABA acts as a selective agonist at the physiological level: it induced stomatal closure but did not inhibit seed germination and root growth. On the basis of observed inhibitory activity against PP2C among different PYL subtypes, this biological effect of 6-nor-ABA may be attributed to the activity of that agonist on PYL5 and/or PYL6.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Models, Molecular",
+        "Plant Roots"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "24189045",
+      "title": "The unique mode of action of a divergent member of the ABA-receptor protein family in ABA and stress signaling.",
+      "pubdate": "2013 Dec",
+      "source": "Cell Res",
+      "authors": "Zhao Y, Chan Z, Xing L, Liu X, Hou YJ, Chinnusamy V, Wang P, Duan C, Zhu JK",
+      "elocationid": "doi: 10.1038/cr.2013.149",
+      "abstract": "Proteins in the PYR/PYL/RCAR family (PYLs) are known as receptors for the phytohormone ABA. Upon ABA binding, PYL adopts a conformation that allows it to interact with and inhibit clade A protein phosphatase 2Cs (PP2Cs), which are known as the co-receptors for ABA. Inhibition of the PP2Cs then leads to the activation of the SnRK2 family protein kinases that phosphorylate and activate downstream effectors in ABA response pathways. The PYL family has 14 members in Arabidopsis, 13 of which have been demonstrated to function as ABA receptors. The function of PYL13, a divergent member of the family, has been enigmatic. We report here that PYL13 differs from the other PYLs in three key residues that affect ABA perception, and mutations in these three residues can convert PYL13 into a partially functional ABA receptor. Transgenic plants overexpressing PYL13 show increased ABA sensitivity in seed germination and postgermination seedling establishment as well as decreased stomatal conductance, increased water-use efficiency, accelerated stress-responsive gene expression, and enhanced drought resistance. pyl13 mutant plants are less sensitive to ABA inhibition of postgermination seedling establishment. PYL13 interacts with and inhibits some members of clade A PP2Cs (PP2CA in particular) in an ABA-independent manner. PYL13 also interacts with the other PYLs and antagonizes their function as ABA receptors. Our results show that PYL13 is not an ABA receptor but can modulate the ABA pathway by interacting with and inhibiting both the PYL receptors and the PP2C co-receptors.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Droughts",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Phosphoprotein Phosphatases",
+        "Protein Binding",
+        "Signal Transduction",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "29784797",
+      "title": "Mutations in a subfamily of abscisic acid receptor genes promote rice growth and productivity.",
+      "pubdate": "2018 Jun 5",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": "Miao C, Xiao L, Hua K, Zou C, Zhao Y, Bressan RA, Zhu JK",
+      "elocationid": "doi: 10.1073/pnas.1804774115",
+      "abstract": "Abscisic acid (ABA) is a key phytohormone that controls plant growth and stress responses. It is sensed by the pyrabactin resistance 1 (PYR1)/PYR1-like (PYL)/regulatory components of the ABA receptor (RCAR) family of proteins. Here, we utilized CRISPR/Cas9 technology to edit group I (PYL1-PYL6 and PYL12) and group II (PYL7-PYL11 and PYL13) PYL genes in rice. Characterization of the combinatorial mutants suggested that genes in group I have more important roles in stomatal movement, seed dormancy, and growth regulation than those in group II. Among all of the single pyl mutants, only pyl1 and pyl12 exhibited significant defects in seed dormancy. Interestingly, high-order group I mutants, but not any group II mutants, displayed enhanced growth. Among group I mutants, pyl1/4/6 exhibited the best growth and improved grain productivity in natural paddy field conditions, while maintaining nearly normal seed dormancy. Our results suggest that a subfamily of rice PYLs has evolved to have particularly important roles in regulating plant growth and reveal a genetic strategy to improve rice productivity.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carrier Proteins",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Intracellular Signaling Peptides and Proteins",
+        "Membrane Transport Proteins",
+        "Mutation",
+        "Oryza",
+        "Plant Growth Regulators",
+        "Signal Transduction"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

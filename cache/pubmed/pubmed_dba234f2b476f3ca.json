@@ -1,0 +1,469 @@
+{
+  "term": "(\"Os08g0410500\"[Title/Abstract] OR \"PTR\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "38834685",
+    "35573660",
+    "38769168",
+    "35581907",
+    "37840837",
+    "39134161",
+    "30466149",
+    "41139465",
+    "19154200",
+    "25332358",
+    "37312745",
+    "37007504",
+    "23977227",
+    "35448798",
+    "42218265",
+    "35504974",
+    "38434305",
+    "32867594",
+    "32375632",
+    "20487558"
+  ],
+  "records": [
+    {
+      "pmid": "38834685",
+      "title": "The unconventional resistance protein PTR recognizes the Magnaporthe oryzae effector AVR-Pita in an allele-specific manner.",
+      "pubdate": "2024 Jun",
+      "source": "Nat Plants",
+      "authors": "Xiao G, Laksanavilat N, Cesari S, Lambou K, Baudin M, Jalilian A, Telebanco-Yanoria MJ, Chalvon V, Meusnier I, Fournier E",
+      "elocationid": "doi: 10.1038/s41477-024-01694-z",
+      "abstract": "Blast disease caused by the fungus Magnaporthe oryzae is one of the most devastating rice diseases. Disease resistance genes such as Pi-ta or Pi-ta2 are critical in protecting rice production from blast. Published work reports that Pi-ta codes for a nucleotide-binding and leucine-rich repeat domain protein (NLR) that recognizes the fungal protease-like effector AVR-Pita by direct binding. However, this model was challenged by the recent discovery that Pi-ta2 resistance, which also relies on AVR-Pita detection, is conferred by the unconventional resistance gene Ptr, which codes for a membrane protein with a cytoplasmic armadillo repeat domain. Here, using NLR Pi-ta and Ptr RNAi knockdown and CRISPR/Cas9 knockout mutant rice lines, we found that AVR-Pita recognition relies solely on Ptr and that the NLR Pi-ta has no role in it, indicating that it is not the Pi-ta resistance gene. Different alleles of Ptr confer different recognition specificities. The A allele of Ptr (PtrA) detects all natural sequence variants of the effector and confers Pi-ta2 resistance, while the B allele of Ptr (PtrB) recognizes a restricted set of AVR-Pita alleles and, thereby, confers Pi-ta resistance. Analysis of the natural diversity in AVR-Pita and of mutant and transgenic strains identified one specific polymorphism in the effector sequence that controls escape from PtrB-mediated resistance. Taken together, our work establishes that the M. oryzae effector AVR-Pita is detected in an allele-specific manner by the unconventional rice resistance protein Ptr and that the NLR Pi-ta has no function in Pi-ta resistance and the recognition of AVR-Pita.",
+      "mesh_terms": [
+        "Oryza",
+        "Plant Proteins",
+        "Alleles",
+        "Plant Diseases",
+        "Disease Resistance",
+        "Fungal Proteins",
+        "Ascomycota",
+        "Magnaporthe"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35573660",
+      "title": "Agronomic and Environmental Determinants of Direct Seeded Rice in South Asia.",
+      "pubdate": "2023",
+      "source": "Circ Econ Sustain",
+      "authors": "Chaudhary A, Venkatramanan V, Kumar Mishra A, Sharma S",
+      "elocationid": "doi: 10.1007/s43615-022-00173-x",
+      "abstract": "Rice (Oryza sativa L.) is the staple food of more than 50% of the world's population. Manual puddled transplanted rice (PTR) system is still the predominant method of rice establishment. However, due to declining water tables, increasing water scarcity, water, labor- and energy-intensive nature of PTR, high labor wages, adverse effects of puddling on soil health and succeeding crops, and high methane emissions, this production system is becoming less profitable. These factors trigger the need for an alternative crop establishment method. The direct-seeded rice (DSR) technique is gaining popularity because of its low input demand compared to PTR. It is done by sowing pre-germinated seeds in puddled soil (wet-DSR), standing water (water seeding), or dry seeding on a prepared seedbed (dry-DSR). DSR requires less water and labor (12-35%), reduces methane emissions (10-90%), improves soil physical properties, involves less drudgery and production cost (US$9-125 per hectare), and gives comparable yields. Upgraded short-duration and high-yielding varieties and efficient nutrient, weed, and resource management techniques encouraged the farmers to switch to DSR culture. However, several constraints are associated with this shift: more weeds, the emergence of weedy rice, herbicide resistance, nitrous oxide emissions, nutrient disorders, primarily N and micro-nutrients, and an increase in soil-borne pathogens lodging etc. These issues can be overcome if proper weed, water, and fertilizer management strategies are adopted. Techniques like stale bed technique, mulching, crop rotation, Sesbania co-culture, seed priming, pre-emergence and post-emergence spray, and a systematic weed monitoring program will help reduce weeds. Chemical to biotechnological methods like herbicide-resistant rice varieties and more competitive allelopathic varieties will be required for sustainable rice production. In addition, strategies like nitrification inhibitors and deep urea placement can be used to reduce N2O emissions. Developing site and soil-specific integrated packages will help in the broader adoption of DSR and reduce the environmental footprint of PTR. The present paper aims to identify the gaps and develop the best-bet agronomic practices and develop an integrated package of technologies for DSR, keeping in mind the advantages and constraints associated with DSR, and suggest some prospects. Eco-friendly, cost-effective DSR package offers sustainable rice production systems with fewer resources and low emissions.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38769168",
+      "title": "Genome-wide association analysis uncovers rice blast resistance alleles of Ptr and Pia.",
+      "pubdate": "2024 May 20",
+      "source": "Commun Biol",
+      "authors": "Greenwood JR, Lacorte-Apostol V, Kroj T, Padilla J, Telebanco-Yanoria MJ, Glaus AN, Roulin A, Padilla A, Zhou B, Keller B",
+      "elocationid": "doi: 10.1038/s42003-024-06244-z",
+      "abstract": "A critical step to maximize the usefulness of genome-wide association studies (GWAS) in plant breeding is the identification and validation of candidate genes underlying genetic associations. This is of particular importance in disease resistance breeding where allelic variants of resistance genes often confer resistance to distinct populations, or races, of a pathogen. Here, we perform a genome-wide association analysis of rice blast resistance in 500 genetically diverse rice accessions. To facilitate candidate gene identification, we produce de-novo genome assemblies of ten rice accessions with various rice blast resistance associations. These genome assemblies facilitate the identification and functional validation of novel alleles of the rice blast resistance genes Ptr and Pia. We uncover an allelic series for the unusual Ptr rice blast resistance gene, and additional alleles of the Pia resistance genes RGA4 and RGA5. By linking these associations to three thousand rice genomes we provide a useful tool to inform future rice blast breeding efforts. Our work shows that GWAS in combination with whole-genome sequencing is a powerful tool for gene cloning and to facilitate selection of specific resistance alleles for plant breeding.",
+      "mesh_terms": [
+        "Oryza",
+        "Genome-Wide Association Study",
+        "Disease Resistance",
+        "Plant Diseases",
+        "Alleles",
+        "Plant Proteins",
+        "Genome, Plant",
+        "Genes, Plant",
+        "Plant Breeding"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35581907",
+      "title": "Surveillance of Rice Blast Resistance Effectiveness and Emerging Virulent Isolates in Taiwan.",
+      "pubdate": "2022 Dec",
+      "source": "Plant Dis",
+      "authors": "Syauqi J, Chen RK, Cheng AH, Wu YF, Chung CL, Lin CC, Chou HP, Wu HY, Jian JY, Liao CT",
+      "elocationid": "doi: 10.1094/PDIS-12-21-2806-RE",
+      "abstract": "Rice blast caused by Magnaporthe oryzae is a dangerous threat to rice production and food security worldwide. Breeding and proper deployment of resistant varieties are effective and environmentally friendly strategies to manage this notorious disease. However, a highly dynamic and quickly evolved rice blast pathogen population in the field has made disease control with resistance germplasms more challenging. Therefore, continued monitoring of pathogen dynamics and application of effective resistance varieties are critical tasks to prolong or sustain field resistance. Here, we report a team project that involved evaluation of rice blast resistance genes and surveillance of M. oryzae field populations in Taiwan. A set of International Rice Research Institute-bred blast-resistant lines (IRBLs) carrying single blast resistance genes was utilized to monitor the field effectiveness of rice blast resistance. Resistance genes such as Ptr (formerly Pita2) and Pi9 exhibited the best and most durable resistance against the rice blast fungus population in Taiwan. Interestingly, line IRBLb-B harboring the Pib gene with good field protection has recently shown susceptible lesions in some locations. To dissect the genotypic features of virulent isolates against the Pib resistance gene, M. oryzae isolates were collected and analyzed. Screening of the AvrPib locus revealed that the majority of field isolates still maintained the wild-type AvrPib status but eight virulent genotypes were found. Pot3 insertion appeared to be a major way to disrupt the AvrPib avirulence function. Interestingly, a novel AvrPib double-allele genotype among virulent isolates was first identified. Pot2 repetitive element-based polymerase chain reaction (rep-PCR) fingerprinting analysis indicated that mutation events may occur independently among different lineages in different geographic locations of Taiwan. This study provides our surveillance experience of rice blast disease and serves as the foundation to sustain rice production.",
+      "mesh_terms": [
+        "Magnaporthe",
+        "Plant Diseases",
+        "Oryza",
+        "Taiwan",
+        "Plant Breeding"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37840837",
+      "title": "Crop establishment and diversification strategies for intensification of rice-based cropping systems in rice-fallow areas in Odisha.",
+      "pubdate": "2023 Oct 15",
+      "source": "Field Crops Res",
+      "authors": "Peramaiyan P, Srivastava AK, Kumar V, Seelan LP, Banik NC, Khandai S, Parida N, Kumar V, Das A, Pattnaik S",
+      "elocationid": "doi: 10.1016/j.fcr.2023.109078",
+      "abstract": "CONTEXT OR PROBLEM: In the Indian state of Odisha, rice-based system productivity is poor due to: (i) low rice yield in the monsoon (wet) season (2-4 t ha-1 compared to 6-8 t ha-1 in Punjab or Haryana); and (ii) limited cropping during the post-monsoon (dry) season (59% of the wet season rice area is left fallow in the dry season). OBJECTIVE: Our study identifies strategies for increasing rice-based system productivity through: (i) alternative crop establishment methods in the wet season (Dry-Direct Seeded Rice or DSR, and mechanical puddled transplanted rice or PTR-M) to traditional methods such as broadcasting followed by post-emergence tillage (locally known as beushening) and manual random puddled transplanted rice (PTR-R); (ii) to identify rice-fallow areas suitable for pulse and oilseed cultivation in the dry season; and (iii) to evaluate the performance of short-duration pulses (green gram, Vigna radiata; black gram, Vigna mungo), and oilseeds (Brassica rapa var. toria, Helianthus annuus) in rice-fallow areas in the dry season. METHODS: On-farm experiments were conducted between 2017 and 2019 in three districts of Odisha (Bhadrak, Cuttack and Mayurbhanj) to evaluate DSR compared to beushening and PTR-R; and PTR-M compared to PTR-R and manual line puddled transplanted rice (PTR-L) in the wet season. The data from Landsat-8 Operational Land Imager (OLI) and Sentinel-1satellite sensors was used to identify rice-fallow areas, and the daily SMAP (Soil Moisture Active Passive) L-band soil moisture was used for mapping suitable rice-fallow areas for growing pulses and oilseeds. Short duration crops were evaluated in suitable rice-fallow areas. RESULTS: In the wet season, DSR (range -4 to + 53%) had a significant effect on rice yield over beushening. Similarly, PTR-M consistently increased rice yield by 16-26% over PTR-R, and by 5-23% over PTR-L. In the dry season, pulse crops (green gram and black gram) performed well compared to Indian mustard under rainfed cultivation. However, under irrigated conditions, dry-season rice yield was more productive than the rice equivalent yield of green gram, black gram and sunflower. We found that 1.03 M ha (i.e., ∼50%) of total rice-fallow areas of 2.1 M ha were suitable for growing short duration green gram and black gram in the dry season. CONCLUSIONS: We conclude that system productivity and cropping intensity can be increased by adoption of DSR and PTR-M in the wet season, and growing of green gram and black gram in the dry season. IMPLICATIONS: Odisha state can potentially produce an additional 0.67 million tonnes pulses if suitable rice-fallow areas are brought under green gram and black gram cultivation in the dry the season.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39134161",
+      "title": "Genomic and transcriptomic analyses of the elite rice variety Huizhan provide insight into disease resistance and heat tolerance.",
+      "pubdate": "2024 Sep",
+      "source": "Genomics",
+      "authors": "Yang W, Yang Z, Yang L, Li Z, Zhang Z, Wei T, Huang R, Li G",
+      "elocationid": "doi: 10.1016/j.ygeno.2024.110915",
+      "abstract": "The indica rice variety Huizhan shows elite traits of disease resistance and heat tolerance. However, the underlying genetic basis of these traits is not fully understood due to limited genomic resources. Here, we used Nanopore long-read and next-generation sequencing technologies to generate a chromosome-scale genome assembly of Huizhan. Comparative genomics analysis uncovered a large chromosomal inversion and expanded gene families that are associated with plant growth, development and stress responses. Functional rice blast resistance genes, including Pi2, Pib and Ptr, and bacterial blight resistance gene Xa27, contribute to disease resistance of Huizhan. Furthermore, integrated genomics and transcriptomics analyses showed that OsHIRP1, OsbZIP60, the SOD gene family, and various transcription factors are involved in heat tolerance of Huizhan. The high-quality genome assembly and comparative genomics results presented in this study facilitate the use of Huizhan as an elite parental line in developing rice varieties adapted to disease pressure and climate challenges.",
+      "mesh_terms": [
+        "Oryza",
+        "Disease Resistance",
+        "Thermotolerance",
+        "Transcriptome",
+        "Plant Diseases",
+        "Genome, Plant",
+        "Plant Proteins",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Genomics"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "30466149",
+      "title": "NRT1.1B improves selenium concentrations in rice grains by facilitating selenomethinone translocation.",
+      "pubdate": "2019 Jun",
+      "source": "Plant Biotechnol J",
+      "authors": "Zhang L, Hu B, Deng K, Gao X, Sun G, Zhang Z, Li P, Wang W, Li H, Zhang Z",
+      "elocationid": "doi: 10.1111/pbi.13037",
+      "abstract": "Selenium (Se) is an essential trace element for humans and other animals, yet approximately one billion people worldwide suffer from Se deficiency. Rice is a staple food for over half of the world's population that is a major dietary source of Se. In paddy soils, rice roots mainly take up selenite. Se speciation analysis indicated that most of the selenite absorbed by rice is predominantly transformed into selenomethinone (SeMet) and retained in roots. However, the mechanism by which SeMet is transported in plants remains largely unknown. In this study, SeMet uptake was found to be an energy-dependent symport process involving H+ transport, with neutral amino acids strongly inhibiting SeMet uptake. We further revealed that NRT1.1B, a member of rice peptide transporter (PTR) family which plays an important role in nitrate uptake and transport in rice, displays SeMet transport activity in yeast and Xenopus oocyte. The uptake rate of SeMet in the roots and its accumulation rate in the shoots of nrt1.1b mutant were significantly repressed. Conversely, the overexpression of NRT1.1B in rice significantly promoted SeMet translocation from roots to shoots, resulting in increased Se concentrations in shoots and rice grains. With vascular-specific expression of NRT1.1B, the grain Se concentration was 1.83-fold higher than that of wild type. These results strongly demonstrate that NRT1.1B holds great potential for the improvement of Se concentrations in grains by facilitating SeMet translocation, and the findings provide novel insight into breeding of Se-enriched rice varieties.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Biological Transport",
+        "Oryza",
+        "Plant Proteins",
+        "Plant Roots",
+        "Seeds",
+        "Selenium",
+        "Soil"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41139465",
+      "title": "Plant nitrate transport family NPF and its regulatory mechanism of protein modification.",
+      "pubdate": "2025 Oct 20",
+      "source": "Yi Chuan",
+      "authors": "Kou YC, Xie YN, Yuan YH, Shan XY, Zhang X",
+      "elocationid": "doi: 10.16288/j.yczz.24-327",
+      "abstract": "Nitrogen is an indispensable macronutrient for plant growth, and nitrate is the main source of nitrogen for plants. The relationship between supply and demand of nitrate has a decisive impact on plant development. The NRT1/PTR family (nitrate transporter 1/peptide transporter family, NPF) is a major nitrate transporter family, playing a key role in nitrate uptake. In plant research, this type of protein can regulate its function through post-translational modification, thereby regulating nitrate sense, uptake, and plant development. NRT1.1 (NPF6.3/CHL1), a key member of the NPF family, functions both as a nitrate transporter and a nitrate sensor. In this review, we elucidate the role of NPF nitrate transporter proteins in regulating nitrate uptake and utilization in Arabidopsis thaliana, Oryza sativa, and Zea mays, and summarize the effects of post-translational modification on nitrate transport and plant development. Finally, the prospect of related research in trees is discussed, in order to provide scientific basis and technical support for improving nitrogen fertilizer utilization efficiency, enhancing plant resistance to adverse conditions, and protecting ecological environment.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Nitrates",
+        "Plant Proteins",
+        "Protein Processing, Post-Translational",
+        "Nitrate Transporters",
+        "Plants",
+        "Biological Transport",
+        "Arabidopsis",
+        "Membrane Transport Proteins",
+        "Oryza"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "19154200",
+      "title": "Short panicle1 encodes a putative PTR family transporter and determines rice panicle size.",
+      "pubdate": "2009 May",
+      "source": "Plant J",
+      "authors": "Li S, Qian Q, Fu Z, Zeng D, Meng X, Kyozuka J, Maekawa M, Zhu X, Zhang J, Li J",
+      "elocationid": "doi: 10.1111/j.1365-313X.2009.03799.x",
+      "abstract": "The architecture of the rice inflorescence, which is determined mainly by the number and length of primary and secondary inflorescence branches, is of importance in both agronomy and developmental biology. The position and number of primary branches are established during the phase transition from vegetative to reproductive growth, and several of the genes identified as participating in this process do so by regulating the meristemic activities of inflorescence. However, little is known about the molecular mechanism that controls inflorescence branch elongation. Here, we report on a novel rice mutant, short panicle1 (sp1), which is defective in rice panicle elongation, and thus leads to the short-panicle phenotype. Gene cloning and characterization indicate that SP1 encodes a putative transporter that belongs to the peptide transporter (PTR) family. This conclusion is based on the findings that SP1 contains a conserved PTR2 domain consisting of 12 transmembrane domains, and that the SP1-GFP fusion protein is localized in the plasma membrane. The SP1 gene is highly expressed in the phloem of the branches of young panicles, which is consistent with the predicted function of SP1 and the sp1 phenotype. Phylogenetic analysis implies that SP1 might be a nitrate transporter. However, neither nitrate transporter activity nor any other compounds transported by known PTR proteins could be detected in either a Xenopus oocyte or yeast system, in our study, suggesting that SP1 may need other component(s) to be able to function as a transporter, or that it transports unknown substrates in the monocotyledonous rice plant.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Base Sequence",
+        "Cloning, Molecular",
+        "Flowers",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Genetic Complementation Test",
+        "Membrane Transport Proteins",
+        "Molecular Sequence Data",
+        "Mutation",
+        "Oryza",
+        "Phenotype",
+        "Phylogeny",
+        "Plant Proteins",
+        "RNA, Plant"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "25332358",
+      "title": "Rice nitrate transporter OsNPF2.4 functions in low-affinity acquisition and long-distance transport.",
+      "pubdate": "2015 Jan",
+      "source": "J Exp Bot",
+      "authors": "Xia X, Fan X, Wei J, Feng H, Qu H, Xie D, Miller AJ, Xu G",
+      "elocationid": "doi: 10.1093/jxb/eru425",
+      "abstract": "Plant proteins belonging to the NPF (formerly NRT1/PTR) family are well represented in every genome and function in transporting a wide variety of substrates. In this study, we showed that rice OsNPF2.4 is located in the plasma membrane and is expressed mainly in the epidermis, xylem parenchyma, and phloem companion cells. Functional analysis in oocytes showed that OsNPF2.4 is a pH-dependent, low-affinity NO₃⁻ transporter. Short-term (¹⁵NO₃⁻) influx rate, long-term NO₃⁻ acquisition by root, and upward transfer from root to shoot were decreased by disruption of OsNPF2.4 and increased by OsNPF2.4 overexpression under high NO₃⁻ supply. Moreover, the redistribution of NO₃⁻ in the mutants in comparison with the wild type from the oldest leaf to other organs, particularly to N-starved roots, was dramatically changed. Knockout of OsNPF2.4 decreased rice growth and potassium (K) concentration in xylem sap, root, culm, and sheath, but increased the shoot:root ratio of tissue K under higher NO₃⁻. We conclude that OsNPF2.4 functions in acquisition and long-distance transport of NO₃⁻ , and that altering its expression has an indirect effect on K recycling between the root and shoot.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Gene Expression Regulation, Plant",
+        "Nitrate Transporters",
+        "Nitrates",
+        "Oryza",
+        "Plant Roots",
+        "Potassium"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37312745",
+      "title": "BPB1 regulates rice (Oryza sative L.) panicle length and panicle branch development by promoting lignin and inhibiting cellulose accumulation.",
+      "pubdate": "2023 May",
+      "source": "Mol Breed",
+      "authors": "Li F, Wang K, Zhang X, Han P, Liu Y, Zhang J, Peng T, Li J, Zhao Y, Sun H",
+      "elocationid": "doi: 10.1007/s11032-023-01389-x",
+      "abstract": "UNLABELLED: Panicle structure is one of the most important agronomic traits directly related to rice yield. This study identified a rice mutant basal primary branch 1 (bpb1), which exhibited a phenotype of reduced panicle length and arrested basal primary branch development. In addition, lignin content was found to be increased while cellulose content was decreased in bpb1 young panicles. Map-based cloning methods characterized the gene BPB1, which encodes a peptide transporter (PTR) family transporter. Phylogenetic tree analysis showed that the BPB1 family is highly conserved in plants, especially the PTR2 domain. It is worth noting that BPB1 is divided into two categories based on monocotyledonous and dicotyledonous plants. Transcriptome analysis showed that BPB1 mutation can promote lignin synthesis and inhibit cellulose synthesis, starch and sucrose metabolism, cell cycle, expression of various plant hormones, and some star genes, thereby inhibiting rice panicle length, resulting in basal primary branch development stagnant phenotypes. In this study, BPB1 provides new insights into the molecular mechanism of rice panicle structure regulation by BPB1 by regulating lignin and cellulose content and several transcriptional metabolic pathways. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s11032-023-01389-x.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37007504",
+      "title": "Influence of tillage and residue management practices on productivity, sustainability, and soil biological properties of rice-barley cropping systems in indo-gangetic plain of India.",
+      "pubdate": "2023",
+      "source": "Front Microbiol",
+      "authors": "Chandra P, Khippal AK, Prajapat K, Barman A, Singh G, Rai AK, Ahlawat OP, Verma RPS, Kumari K, Singh G",
+      "elocationid": "doi: 10.3389/fmicb.2023.1130397",
+      "abstract": "INTRODUCTION: Conservation agriculture is a sustainable system of farming that safeguard and conserves natural resources besides enhancing crop production. The biological properties of soil are the most sensitive indicator to assess the short term impact of management practices such as tillage and residue incorporation. METHODS: Nine treatments of tillage and residue management practices [Reduced till direct seeded rice-zero till barley (RTDSR-ZTB); RTDSR-ZTB-green gram residue (Gg); Zero till direct seeded rice-zero till barley-zero till green gram (ZTDSR-ZTB-ZTGg); RTDSR-ZTB + rice residue at 4 t ha 1 (RTDSR-ZTBRR4); RTDSR-ZTBRR6; un-puddled transplanted rice (UPTR)-ZTB-Gg; UPTR-ZTBRR4; UPTR-ZTBRR6, and puddled transplanted rice (PTR)-RTB] executed under fixed plot for five years on crop productivity and soil biological properties under rice-barley production system. RESULTS: The shifting in either RTDSR or ZTDSR resulted in yield penalty in rice compared to PTR. The PTR recorded highest pooled grain yield of 3.61 ha-1. The rice grain yield reduced about 10.6% under DSR as compared to PTR. The ZTB along with residue treatments exhibited significantly higher grain yield over ZTB, and the RTDSR-ZTBRR6 registered highest pooled grain yield of barley. The system productivity (12.45 t ha-1) and sustainable yield index (0.87) were highest under UPTR-ZTBRR6. Biological parameters including microbial biomass carbon, soil respiration, microbial enzymes (Alkaline phosphatase, nitrate reductase and peroxidase), fluorescein diacetate hydrolysis, ergosterol, glomalin related soil proteins, microbial population (bacteria, fungi and actinobacteria) were found to be significantly (p < 0.05) effected by different nutrient management practices. Based on the PCA analysis, Fluorescein diacetate hydrolysis, microbial biomass carbon, soil respiration, nitrate reductase and fungi population were the important soil biological parameters indicating soil quality and productivity in present experiment. The results concluded that UPTR-ZTBRR6 was a more suitable practice for maintaining system productivity and soil biological health. DISCUSSION: The understanding of the impact of different tillage and residue management practices on productivity, soil biological properties and soil quality index under rice-barley cropping system will help in determining the combination of best conservation agriculture practices for improved soil quality and sustainable production.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "23977227",
+      "title": "The nitrate transporter (NRT) gene family in poplar.",
+      "pubdate": "2013",
+      "source": "PLoS One",
+      "authors": "Bai H, Euring D, Volmer K, Janz D, Polle A",
+      "elocationid": "doi: 10.1371/journal.pone.0072126",
+      "abstract": "Nitrate is an important nutrient required for plant growth. It also acts as a signal regulating plant development. Nitrate is actively taken up and transported by nitrate transporters (NRT), which form a large family with many members and distinct functions. In contrast to Arabidopsis and rice there is little information about the NRT family in woody plants such as Populus. In this study, a comprehensive analysis of the Populus NRT family was performed. Sixty-eight PtNRT1/PTR, 6 PtNRT2, and 5 PtNRT3 genes were identified in the P. trichocarpa genome. Phylogenetic analysis confirmed that the genes of the NRT family are divided into three clades: NRT1/PTR with four subclades, NRT2, and NRT3. Topological analysis indicated that all members of PtNRT1/PTR and PtNRT2 have 8 to 12 trans-membrane domains, whereas the PtNRT3 proteins have no or up to two trans-membrane domains. Four PtNRT3 members were predicted as secreted proteins. Microarray analyses revealed tissue-specific expression patterns of PtNRT genes with distinct clusters of NRTs for roots, for the elongation zone of the apical stem segment and the developing xylem and a further cluster for leaves, bark and wood. A comparison of different poplar species (P. trichocarpa, P. tremula, P. euphratica, P. fremontii x P. angustifolia, and P. x canescens) showed that the tissue-specific patterns of the NRT genes varied to some extent with species. Bioinformatic analysis of putative cis-regulatory elements in the promoter regions of PtNRT family retrieved motifs suggesting the regulation of the NRT genes by N metabolism, by energy and carbon metabolism, and by phytohormones and stress. Multivariate analysis suggested that the combination and abundance of motifs in distinct promoters may lead to tissue-specificity. Our genome wide analysis of the PtNRT genes provides a valuable basis for functional analysis towards understanding the role of nitrate transporters for tree growth.",
+      "mesh_terms": [
+        "Anion Transport Proteins",
+        "Cluster Analysis",
+        "Gene Expression Regulation, Plant",
+        "Multigene Family",
+        "Nitrate Transporters",
+        "Organ Specificity",
+        "Phylogeny",
+        "Plant Bark",
+        "Plant Leaves",
+        "Plant Proteins",
+        "Plant Roots",
+        "Populus",
+        "Promoter Regions, Genetic",
+        "Transcriptome",
+        "Wood"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35448798",
+      "title": "Weed Management and Crop Establishment Methods in Rice (Oryza sativa L.) Influence the Soil Microbial and Enzymatic Activity in Sub-Tropical Environment.",
+      "pubdate": "2022 Apr 14",
+      "source": "Plants (Basel)",
+      "authors": "Pattanayak S, Jena S, Das P, Maitra S, Shankar T, Praharaj S, Mishra P, Mohanty S, Pradhan M, Swain DK",
+      "elocationid": "doi: 10.3390/plants11081071",
+      "abstract": "Weed management has become the most important and inevitable aspect of crop management for achieving a higher rice yield. Nowadays, chemical herbicide application has become a popular practice for managing weeds in different rice cultures. However, herbicide application can have qualitative and quantitative impacts on soil microorganisms and soil enzymes, particularly in the case of new herbicide molecules and their indiscriminate use for a longer period. Further, different rice establishment methods also play a significant role in soil microbial population dynamics as well as soil biological properties. Keeping these in view, a field experiment was conducted at the Agronomy Main Research Farm, Orissa University of Agriculture and Technology (OUAT), India, during the kharif season of 2016 and 2017, on the impact of crop establishment methods and weed management practices on soil microbial and enzymatic status. The field experiment was laid out in a split-plot design with three replications with four crop establishment methods in the main plot, viz., M1, Direct Seeded Rice (DSR); M2, Wet Seeded Rice (WSR); M3,Unpuddled Transplanted Rice (NPTR); M4, Puddled Transplanted Rice (PTR), and six weed management practices in the sub-plot, viz., W1, Weedy check; W2, Bensulfuron methyl 0.6% + Pretilachlor 6% (pre-emergence (PE)) 0.660 kg ha-1 + Hand weeding (HW) at 30 days after sowing/transplanting (days after sowing/transplanting (DAS/T)); W3, Bensulfuron methyl 0.6% + Pretilachlor 6% (PE) 0.495 kg ha-1 + HW at 30 DAS/T; W4, Bensulfuron methyl 0.6% + Pretilachlor 6% (PE) 0.495 kg ha-1 + Bispyribac-Sodium (post-emergence(POE)) 0.025 kg ha-1 at 15 DAS/T; W5, Cono weeding (CW) at 15 DAS/T + hand weeding 30 DAS/T, and W6, Brown manuring/Green manuring. The initial decline in the microbial population was observed due to herbicide application in NPTR and PTR up to 7 DAS/T and then it increased up to 28 DAS/T. There was a reduction in soil microbial and enzymatic status after the application of herbicides Bensulfuron methyl 0.6% + Pretilachlor 6% (PE) and Bispyribac-Sodium (POE) that again followed an upward graph with crop age. Significant variation in enzymatic activity and the microbial count was also observed among treatments involving crop establishment methods. The study revealed that improved microbial population and enzyme activity were noted in unpuddled transplanted rice under organic weed management due to favorable conditions, and chemical weed control initially affected microbial population and activities.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "42218265",
+      "title": "Soil health and economic evaluations of direct seeded rice through metabolomic and biochemical fingerprinting.",
+      "pubdate": "2026 May 30",
+      "source": "Sci Rep",
+      "authors": "Kaur P, Gill JS, Chander M, Vig AP, Kaur S, Singh R",
+      "elocationid": "doi: 10.1038/s41598-026-55509-6",
+      "abstract": "The present study was conducted for three consecutive cropping seasons from 2020-2022 in Amritsar of Punjab with the objective to analyze the soil health and economic impact of direct seeded rice (DSR) technology over puddled transplanted rice (PTR). It was recorded high number of average earthworm count in the soil sample of DSR fields (Mean value 124.6) as compared to PTR fields (Mean value 68). The soil health was also improved through DSR technique as various physical parameters i.e. porosity, bulk density & water holding capacity observed better in DSR fields over PTR technique. The soil samples of DSR fields also showed high amount of NPK (N: 219, P: 816, K, 101.4) and mineral content (Mg: 1298, Ca: 1336, Zn: 4.85, Mn: 87.5, Cu: 8.51 & Fe; 9.92) as compared to PTR fields. It was also observed that soil sample of DSR field showed improved carbon composition (HAs, FPA, GRSPs, WSOC, HWSOC, EE) & soil enzymatic activity (DHA, ALK, ACP & PMN) as compared to PTR soil sample. The various reproductive, photosynthetic, and yield parameters of rice crops was observed improved in DSR over the PTR. The HPLC-MS based fingerprinting showed up-regulation of amino acid and phenolics in rice grains grown through DSR technique over the PTR. The cost of field preparation and tillage was reduced by 62.15% in DSR over PTR. The DSR technology resulted into yield improvement by 3.44-18.21% as compared to transplanted rice. A net profit of 13.91-31.62% was calculated in DSR over PTR technique.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35504974",
+      "title": "Tillage, green manure and residue retention improves aggregate-associated phosphorus fractions under rice-wheat cropping.",
+      "pubdate": "2022 May 3",
+      "source": "Sci Rep",
+      "authors": "Sharma S, Kaur S, Parkash Choudhary O, Singh M, Al-Huqail AA, Ali HM, Kumar R, Siddiqui MH",
+      "elocationid": "doi: 10.1038/s41598-022-11106-x",
+      "abstract": "The sustainability of the rice-wheat system is threatened due to the deterioration of soil health and emergence of new challenges of climate change caused by low nutrient use efficiency and large scale burning of crop residues. The conservation agriculture based on tillage intensity, crop residue retention and raising green manuring (GM) crops during the intervening period between wheat harvest and rice establishment offers opportunities for restoration of phosphorus (P) dynamics and stimulate phosphatase activities within the macro-and micro-aggregates. Phosphorus and phosphatase activities in the soil aggregates affected by different residue management practices remain poorly understood. Thus, soil samples were obtained after a five-year field experiment to identify the effect of tillage, green manure and residue management on aggregate-associated phosphorus fractions. Four main plot treatments in rice included combination of wheat straw and GM were conventional till puddled transplanted rice (PTR) with no wheat straw (PTRW0), PTR with 25% wheat stubbles retained (PTRW25), PTR without wheat straw and GM (PTRW0 + GM), and PTR with wheat stubbles and GM (PTRW25 + GM). Three sub-plots treatments in the successive wheat crop were conventional tillage (CT) with rice straw removed (CTWR0), zero tillage (ZT) with rice straw removed (ZTWR0) and ZT with rice straw retained as surface mulch (ZTWR100). Results of the present study revealed significantly higher phosphorus fractions (HCl-P, NaHCO3-Pi and NaOH-Po) in treatment PTRW25 + GM and ZTWR100 compared with PTRW0/CTWR0 within both macro- and micro-aggregates. The total phosphorus (P), available P, alkaline phosphatase and phytin-P were significantly higher under ZTWR100 than CTWR0. The principal component analysis identified NaOH-Po, NaHCO3-Pi and HCl-P as the dominant and reliable indicators for evaluating P transformation within aggregates under conservation agriculture-based practices.",
+      "mesh_terms": [
+        "Manure",
+        "Oryza",
+        "Phosphoric Monoester Hydrolases",
+        "Phosphorus",
+        "Sodium Hydroxide",
+        "Soil",
+        "Triticum"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38434305",
+      "title": "Empirical evidence for economic viability of direct seeded rice in peninsular India: An action-based research.",
+      "pubdate": "2024 Mar 15",
+      "source": "Heliyon",
+      "authors": "Dey S, Abbhishek K, Saraswathibatla S, Singh PK, Bommaraboyina PR, Raj A, Kaliki H, Choubey AK, Rongali HB, Upamaka A",
+      "elocationid": "doi: 10.1016/j.heliyon.2024.e26754",
+      "abstract": "PURPOSE: This study identified critical constraints in technology adoption for Direct Seeded Rice (DSR) compared with puddled transplanted rice (PTR) practices. We present the impact of DSR technology adoption on paddy yield, income generation, and cost incurred on various farm operations. Furthermore, the study investigates whether a dry DSR practice provides more economic and production benefits than a wet DSR. METHODOLOGY: We used a multi-stage sampling (from state to district-to-village-to-farmers) and conducted a face-to-face questionnaire survey to collect primary farm-level data. We collected 669 farm and household-level data and analyzed the impact of DSR and dry DSR adoption over PTR and wet DSR, respectively. Initially, the study employed probit regression analysis to identify the DSR adoption determinants. Subsequently, using the Propensity Score Matching approach, the study measures the impact of DSR adoption over PTR in terms of yield, income, and cost management. Finally, using the PSM approach, the study estimated the impact of dry DSR adoption over wet DSR. FINDINGS: Probit estimates suggest that variables like education, membership in farmers' organizations, farm experience, institutional credit, crop insurance, off-farm income, and smartphone and television ownership positively regulate DSR adoption. The impact assessment analysis reveals that the adoption of DSR over PTR results in marginal yield improvement. However, the cost of irrigation, land preparation, and fertilization is significantly lower in DSR, resulting in an additional income of ₹5192/acre for DSR adopters. Moreover, a comparative analysis between dry DSR and wet DSR indicates that farmers can achieve ₹2467/acre by adopting dry DSR. PRACTICAL IMPLICATIONS: Our research findings designate the necessity for implementing policies and strategies to promote the adoption of DSR among non-adopters. Besides economic benefits, adopting the DSR method can yield environmental benefits, improve soil health, mitigate soil erosion, and decrease water use.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32867594",
+      "title": "The expression patterns and putative function of nitrate transporter 2.5 in plants.",
+      "pubdate": "2020 Dec 1",
+      "source": "Plant Signal Behav",
+      "authors": "Liu R, Jia T, Cui B, Song J",
+      "elocationid": "doi: 10.1080/15592324.2020.1815980",
+      "abstract": "Nitrate transporter 2.5 (NRT2.5) was originally characterized as the transporter for nitrogen (N) limitation. In Arabidopsis, NRT2.5 is expressed mainly under extremely low NO3- and N starvation conditions, and this must work in conjunction with NAR2.1. NRT2.5 is expressed both in the roots and leaves in Arabidopsis, poplars, tea trees and cassava. This is also expressed in the seeds of Arabidopsis and wheat. In wheat, NRT2.5 is expressed in the embryo and shell and plays a role in the accumulation of NO3- in the seeds. In maize, this is also expressed in silk, cobs and tassel husk leaves. In rice, OsNRT2.5 (also known as OsNRT2.3a) may help the species to remove NO3- from the roots to shoots. In addition, NRT2.5 may interact with TGA3, MYC1, LBD37, LBD38, TaNAC2 and other transcription factors and participate in the transmission of NO3- signals. The present review summarizes the functions of NRT2.5 in different plant species, which may help plant breeders and molecular biologists to improve crop yield. Abbreviations: NRT, Nitrate transporter; NUE, nitrogen use efficiency; PTR, peptide transporter; NPF, nitrate peptide transporter family; CLC, chloride channel; LAC1/SLAH, slow anion channel-associated 1 homolog 3; LATS, low-affinity transporter systems; HATS, high-affinity transport systems; NNP, nitrate-nitrite-porter; MFS, major facilitator superfamily.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Anion Transport Proteins",
+        "Gene Expression Regulation, Plant",
+        "Nitrate Transporters",
+        "Nitrates",
+        "Phylogeny",
+        "Plants",
+        "Salinity"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32375632",
+      "title": "Genome-wide identification of the peptide transporter family in rice and analysis of the PTR expression modulation in two near-isogenic lines with different nitrogen use efficiency.",
+      "pubdate": "2020 May 6",
+      "source": "BMC Plant Biol",
+      "authors": "Yang X, Xia X, Zeng Y, Nong B, Zhang Z, Wu Y, Tian Q, Zeng W, Gao J, Zhou W",
+      "elocationid": "doi: 10.1186/s12870-020-02419-y",
+      "abstract": "BACKGROUND: Nitrogen (N) is a major nutrient element for crop growth. In plants, the members of the peptide transporter (PTR) gene family may involve in nitrate uptake and transport. Here, we identified PTR gene family in rice and analyzed their expression profile in near-isogenic lines. RESULTS: We identified 96, 85 and 78 PTR genes in Nipponbare, R498 and Oryza glaberrima, and the phylogenetic trees were similar in Asian cultivated rice and African cultivated rice. The number of PTR genes was higher in peanut (125) and soybean (127). The 521 PTR genes in rice, maize, sorghum, peanut, soybean and Arabidopsis could be classified into 4 groups, and their distribution was different between monocots and dicots. In Nipponbare genome, the 25 PTR genes were distributed in 5 segmental duplication regions on chromosome 1, 2, 3, 4, 5, 7, 8, 9, and 10. The PTR genes in rice have 0-11 introns and 1-12 exons, and 16 of them have the NPF (NRT1/PTR family) domain. The results of RNA-seq showed that the number of differentially expressed genes (DEGs) between NIL15 and NIL19 at three stages were 928, 1467, and 1586, respectively. Under low N conditions, the number of differentially expressed PTR genes increased significantly. The RNA-seq data was analyzed using WGCNA to predict the potential interaction between genes. We classified the genes with similar expression pattern into one module, and obtained 25 target modules. Among these modules, three modules may be involved in rice N uptake and utilization, especially the brown module, in which hub genes were annotated as protein kinase that may regulate rice N metabolism. CONCLUSIONS: In this study, we comprehensively analyzed the PTR gene family in rice. 96 PTR genes were identified in Nippobare genome and 25 of them were located on five large segmental duplication regions. The Ka/Ks ratio indicated that many PTR genes had undergone positive selection. The RNA-seq results showed that many PTR genes were involved in rice nitrogen use efficiency (NUE), and protein kinases might play an important role in this process. These results provide a fundamental basis to improve the rice NUE via molecular breeding.",
+      "mesh_terms": [
+        "Chromosome Mapping",
+        "Chromosomes, Plant",
+        "Gene Duplication",
+        "Gene Regulatory Networks",
+        "Genome, Plant",
+        "Genome-Wide Association Study",
+        "Membrane Transport Proteins",
+        "Nitrogen",
+        "Oryza",
+        "Phylogeny",
+        "Plant Proteins",
+        "Transcriptome"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "20487558",
+      "title": "Genomic survey, characterization and expression profile analysis of the peptide transporter family in rice (Oryza sativa L.).",
+      "pubdate": "2010 May 20",
+      "source": "BMC Plant Biol",
+      "authors": "Zhao X, Huang J, Yu H, Wang L, Xie W",
+      "elocationid": "doi: 10.1186/1471-2229-10-92",
+      "abstract": "BACKGROUND: Peptide transporter (PTR) family whose member can transport di-/tripeptides and nitrate is important for plant growth and development. Although the rice (Oryza sativa L.) genome has been sequenced for a few years, a genomic survey, characterization and expression profile analysis of the PTR family in this species has not been reported. RESULTS: In this study, we report a comprehensive identification, characterization, phylogenetic and evolutionary analysis of 84 PTR family members in rice (OsPTR) as well as their whole-life expression patterns. Chromosomal distribution and sequence analysis indicate that nearly 70% of OsPTR members are involved in the tandem and segmental duplication events. It suggests that genome duplication might be a major mechanism for expansion of this family. Highly conserved motifs were identified in most of the OsPTR members. Meanwhile, expression profile of OsPTR genes has been analyzed by using Affymetrix rice microarray and real-time PCR in two elite hybrid rice parents, Minghui 63 and Zhenshan 97. Seven genes are found to exhibit either preferential or tissue-specific expression during different development stages of rice. Under phytohormone (NAA, GA3 and KT) and light/dark treatments, 14 and 17 OsPTR genes are differentially expressed respectively. Ka/Ks analysis of the paralogous OsPTR genes indicates that purifying selection plays an important role in function maintenance of this family. CONCLUSION: These investigations add to our understanding of the importance of OsPTR family members and provide useful reference for selecting candidate genes for functional validation studies of this family in rice.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Chromosomes, Plant",
+        "Cluster Analysis",
+        "Darkness",
+        "Gene Duplication",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Developmental",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Genome, Plant",
+        "Membrane Transport Proteins",
+        "Molecular Sequence Data",
+        "Multigene Family",
+        "Oligonucleotide Array Sequence Analysis",
+        "Oryza",
+        "Phylogeny",
+        "Plant Growth Regulators",
+        "Seedlings",
+        "Sequence Alignment",
+        "Sequence Homology, Nucleic Acid"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

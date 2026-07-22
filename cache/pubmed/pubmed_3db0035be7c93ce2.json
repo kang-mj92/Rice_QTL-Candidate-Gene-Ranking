@@ -1,0 +1,193 @@
+{
+  "term": "(\"Os06g0531000\"[Title/Abstract] OR \"BG11\"[Title/Abstract] OR \"OsBG11\"[Title/Abstract] OR \"BETA-1, 3-GLUCANASE 11\"[Title/Abstract] OR \"beta-1, 3-glucanase 11\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "39579189",
+    "39447360",
+    "18830164",
+    "41562344",
+    "39964594",
+    "23765374",
+    "12597026"
+  ],
+  "records": [
+    {
+      "pmid": "39579189",
+      "title": "Phycoremediation of rice bran oil processing wastewater and biodiesel production using green microalgae, Scenedesmus obliquus: a green approach to environmental protection and remediation.",
+      "pubdate": "2024 Dec",
+      "source": "Environ Sci Pollut Res Int",
+      "authors": "Roy HP, Eldiehy KSH, Deka D",
+      "elocationid": "doi: 10.1007/s11356-024-35599-3",
+      "abstract": "The current study investigated the enhancement of biomass in S. obliquus, using rice bran oil processing (RBOP) wastewater in different RBOP wastewater concentrations, while also aiming to produce biofuel and treat the wastewater simultaneously. The strain was grown in Blue Green-11 (BG11) media as well as RBOP wastewater at different wastewater concentrations with distilled water at 10%, 25%, 50%, 75%, and 100% under controlled experimental settings. The study findings demonstrated a notable enhancement in the characteristics of RBOP wastewater during a 16-day growth period. The 75% RBOP wastewater concentration demonstrated superior efficacy as a growth medium for producing biomass as well as lipids, among other wastewater concentrations. Accordingly, physicochemical parameters and heavy metal percent of the RBOP wastewater were assessed. The collected biomass was employed in the production of biodiesel, and the fatty acid methyl esters (FAME) were measured, along with an assessment of its characteristics. Physicochemical analysis indicated that S. obliquus was able to effectively decrease levels of nitrate, phosphate, sulfur, and chemical oxygen demand (COD) in RBOP wastewater. The heavy metal reduction percentages for iron (Fe), zinc (Zn), nickel (Ni), copper (Cu), and arsenic (As) were 69.43%, 72.94%, 72.99%, 90.49%, and 91.5%, respectively, following treatment with S. obliquus. FTIR indicated the existence of various functional groups (including alcohol, carboxylic acid) on the surface of the microalgal biomass. The FAME profile of S. obliquus exhibited a moderate level of saturated and unsaturated fatty acid content. S. obliquus demonstrated significant phycoremediation capabilities and potential for lipid production. This study has indicated that S. obliquus is a potential candidate for the treatment of wastewater.",
+      "mesh_terms": [
+        "Wastewater",
+        "Microalgae",
+        "Biofuels",
+        "Scenedesmus",
+        "Rice Bran Oil",
+        "Biodegradation, Environmental",
+        "Metals, Heavy",
+        "Biomass",
+        "Waste Disposal, Fluid"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39447360",
+      "title": "Adaptation of Chlorella vulgaris immobilization on rice straw with liquid manure to create a sustainable feedstock for biogas production and potential feed applications.",
+      "pubdate": "2024 Nov",
+      "source": "J Environ Manage",
+      "authors": "Sobhi M, Elsamahy T, Zhang Y, Zakaria E, Ren S, Gaballah MS, Zhu F, Hu X, Cui Y, Huo S",
+      "elocationid": "doi: 10.1016/j.jenvman.2024.123050",
+      "abstract": "Rice straw (RS) is a widely available agricultural residue with significant potential for biogas production and feed applications; however, its poor digestibility and nutritional value limit its utilization. This study explores an innovative approach to enhance the digestibility and nutritional value of RS by cultivating Chlorella vulgaris through immobilization technology on RS, using liquid manure (LM) as an alternative to the traditional BG11 medium. The results showed an increase in chlorophyll a (Chl a) after 12 days for both the BG11 medium and LM-based treatments, from 0.13 to 0.34 and 0.24 mg Chl a/g product (DM), respectively. Additionally, the immobilized microalgal biomass increased to 284.18 and 170.14 mg algal biomass/g product (DM), respectively. Soaking under microaerobic conditions during cultivation led to the partial degradation of RS. This, combined with the formed microalgal biofilm, contributed to an improved digestibility of the dry matter, reaching 69.1% and 65.9% for the final products based on the BG11 medium and LM mediums, respectively, compared to 52.1% for the raw RS. Furthermore, the crude protein and lipids contents were significantly improved with the potential for applications in feed, reaching 21.4% and 4.1% for the BG11 medium-based product, while they were observed to be 12.8% and 3.0%, respectively, for the LM-based product. Additionally, carbon-to-nitrogen ratio was significantly reduced compared to the raw RS. The higher digestibility and improved nutritional value contributed to increased biogas production, reaching 129.3 and 118.7 mL/g (TS) for the products based on the traditional medium and LM medium, respectively, compared to 86.7 mL/g (TS) for the raw RS. The immobilization mechanism and biofilm development could be attributed to the roughness of the RS and extracellular polymer substances. This study demonstrates that integrating C. vulgaris cultivation on RS with LM as a nutrient source not only enhances the digestibility and nutritional value of RS but also offers a sustainable waste management solution with potential applications in biogas production and animal feed.",
+      "mesh_terms": [
+        "Chlorella vulgaris",
+        "Biofuels",
+        "Manure",
+        "Oryza",
+        "Biomass",
+        "Microalgae"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "18830164",
+      "title": "Characterization of hydrocortisone biometabolites and 18S rRNA gene in Chlamydomonas reinhardtii cultures.",
+      "pubdate": "2008 Oct 31",
+      "source": "Molecules",
+      "authors": "Ghasemi Y, Rasoul-Amini S, Morowvat MH, Raee MJ, Ghoshoon MB, Nouri F, Negintaji N, Parvizi R, Mosavi-Azam SB",
+      "elocationid": "",
+      "abstract": "A unicellular microalga, Chlamydomonas reinhardtii, was isolated from rice paddy-field soil and water samples and used in the biotransformation of hydrocortisone (1). This strain has not been previously tested for steroid bioconversion. Fermentation was carried out in BG-11 medium supplemented with 0.05% substrate at 25 degrees C for 14 days of incubation. The products obtained were chromatographically purified and characterized using spectroscopic methods. 11b,17 beta-Dihydroxyandrost-4-en-3-one (2), 11 beta-hydroxyandrost-4-en-3,17-dione (3), 11 beta,17 alpha,20 beta,21-tetrahydroxypregn-4-en-3-one (4) and prednisolone (5) were the main products of the bioconversion. The observed bioreaction features were the side chain degradation of the substrate to give compounds 2 and 3 and the 20-ketone reduction and 1,2-dehydrogenation affording compounds 4 and 5, respectively. A time course study showed the accumulation of product 2 from the second day of the fermentation and of compounds 3, 4 and 5 from the third day. All the metabolites reached their maximum concentration in seven days. Microalgal 18S rRNA gene was also amplified by PCR. PCR products were sequenced to confirm their authenticity as 18S rRNA gene of microalgae. The result of PCR blasted with other sequenced microalgae in NCBI showed 100% homology to the 18S small subunit rRNA of two Chlamydomonas reinhardtii spp.",
+      "mesh_terms": [
+        "Androstenes",
+        "Animals",
+        "Biotransformation",
+        "Chlamydomonas reinhardtii",
+        "Chromatography",
+        "Fermentation",
+        "Hydrocortisone",
+        "Kinetics",
+        "Prednisolone",
+        "Pregnenes",
+        "RNA, Algal",
+        "RNA, Ribosomal, 18S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41562344",
+      "title": "Assessment of Physiological Traits in Cyanobacteria Isolated From Rice Agroecosystems for Biofertilizer Applications.",
+      "pubdate": "2026 Jan",
+      "source": "J Basic Microbiol",
+      "authors": "Singh A, Saxena K, Kumar D",
+      "elocationid": "doi: 10.1002/jobm.70138",
+      "abstract": "Cyanobacteria are photosynthetic prokaryotes recognized for their varying pigment composition and capacity to adapt to different ecological situations. Even though they are significant, there aren't many studies comparing native cyanobacterial strains in terms of their ability to be used as biofertilizers. This study comparatively evaluated the physiological characteristics of seven cyanobacterial strains (Nostoc sp., Anabaena sp., Westiellopsis sp., Oscillatoria sp., Tolypothrix sp., Calothrix sp., and Phormidium sp.) isolated from paddy fields in different regions of Uttar Pradesh (Meerut, Muzaffarnagar, and Haridwar regions). The examined parameters included photosynthetic pigments- chlorophyll, carotenoids, phycobiliproteins-Phycocyanin (PC), Phycoerythrin (PE), and Allophycocyanin (APC), Total Soluble Protein (TSP), and carbohydrates. Cultures were cultivated in BG-11 medium, and samples were analyzed at 7th, 14th, 21st, and 28th days of incubation for examination via spectrophotometer. The findings indicated substantial interstrain differences. Anabaena sp. demonstrated the highest levels of chlorophyll, carotenoids, proteins, and carbohydrates on Day 14, while Tolypothrix sp. had the greatest concentrations of APC and PE. The strain-specific variations underscore the metabolic diversity of paddy field cyanobacteria. This thorough comparison of physiological data sheds light on the adaptation mechanisms of cyanobacteria and their potential uses as natural biofertilizers and in biotechnological applications.",
+      "mesh_terms": [
+        "Cyanobacteria",
+        "Oryza",
+        "Chlorophyll",
+        "Carotenoids",
+        "Phycocyanin",
+        "Phycobiliproteins",
+        "Photosynthesis",
+        "Phycoerythrin",
+        "Pigments, Biological",
+        "India",
+        "Bacterial Proteins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39964594",
+      "title": "Plastics aplenty in paddy lands: incidence of microplastics in Indian rice fields and ecotoxicity on paddy field phytoplankton.",
+      "pubdate": "2025 Feb 18",
+      "source": "Environ Monit Assess",
+      "authors": "Amaneesh C, Kim HS, Ramanan R",
+      "elocationid": "doi: 10.1007/s10661-025-13737-9",
+      "abstract": "Occurrence of microplastics (MP) in natural paddy fields and its impact are less studied. This study reports the abundance of MP in two paddy fields of Kerala, India, cultivating rice crops, 'Pokkali' and 'Uma' crops, which are vital to Kerala's food security and climate resilience. Fourier transform infrared spectroscopy (FTIR) analyses confirmed the presence of polyethylene (PE) and polypropylene (PP) fragments as major MP in the surface water of paddy fields during vegetative (transplantation) and ripening (near harvesting) phases. MP density in the vegetative phase of 'Pokkali' (1370 ± 468.51 fragments/m3) and 'Uma' (1110 ± 304.96 fragments/m3) was thrice more than the ripening phase concentrations (400 ± 196.85 and 370 ± 57.00 fragments/m3, respectively). Subsequently, ecotoxicity of MP and plastic leachates (PL) on phytoplankton that are naturally found in rice fields was examined. Microalga, Chlorococcum sp., and cyanobacterium, Synechococcus sp., were grown in modified BG11 and BG11 media, respectively, and tested with paddy field concentrations for PE-MP and PE-PL. MP bestowed a significant hormetic effect on the specific growth rate of the microalga (121% of the control) whereas the cyanobacterial growth was negatively impacted (70% of the control). Both phytoplankton exhibited a similar response when exposed to PL, but results were neither dose-dependent nor significant. Further, increased catalase activity and compromised superoxide dismutase machinery in the cyanobacterium corroborated the toxic impact on growth (p ≤ 0.05), which indicates reactive oxygen species (ROS) generation in MP-treated groups. ROS generation indicates oxidative stress following MP exposure in the studied phytoplankton perhaps through surface contact or by leaching of toxic intermediates into the medium. The distinctive responses of paddy field phytoplankton to MP and PL stress suggest that MP pollution may enrich certain resilient species over others leading to a possible change in phytoplankton community structure. Pollution load indices suggest that even environmental concentrations of MP and PL may affect the rice productivity as paddy field phytoplankton play a significant role in sustaining and enhancing crop health. Therefore, the presence of MP at alarming concentrations in the paddy fields signifies the emergence of a global environmental and food security concern.",
+      "mesh_terms": [
+        "Microplastics",
+        "Oryza",
+        "India",
+        "Water Pollutants, Chemical",
+        "Environmental Monitoring",
+        "Phytoplankton",
+        "Agriculture",
+        "Plastics"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "23765374",
+      "title": "Auxin producing non-heterocystous Cyanobacteria and their impact on the growth and endogenous auxin homeostasis of wheat.",
+      "pubdate": "2013 Dec",
+      "source": "J Basic Microbiol",
+      "authors": "Mazhar S, Cohen JD, Hasnain S",
+      "elocationid": "doi: 10.1002/jobm.201100563",
+      "abstract": "Four non-heterocystous cyanobacterial strains isolated from rhizosphere and soil surface mat of rice, wheat, and maize were identified by 16S rRNA gene sequencing and evaluated for auxin production as well as growth promotion of wheat. Isolated strains produced a diverse amount of auxin in BG11 media supplemented with different concentrations of L-tryptophan. The amount of auxin detected with colorimetric methods was higher as compared to GC-MS analysis. Auxin production by cyanobacterial strains in BG 11 medium supplemented with 250 µg ml(-1) L-tryptophan ranged from 0.20 to 1.63 µg ml(-1) IAA as revealed by gas chromatography and mass spectrometric (GC-MS) analysis. In a hydroponic growth system, the vegetative growth of wheat was stimulated appreciably by inoculation with cyanobacterial strains. The endogenous auxin content of wheat was significantly correlated with the exogenous auxin production of the cyanobacterial strains. It was observed that cyanobacterial strains produced more endogenous and exogenous auxin in the presence of a plant, showing that plants might be releasing some signals responsible for higher auxin production by cyanobacterial cultures. It was concluded that the auxin producing potential of cyanobacterial strains can be exploited for the promotion of wheat growth.",
+      "mesh_terms": [
+        "Cyanobacteria",
+        "Homeostasis",
+        "Indoleacetic Acids",
+        "RNA, Bacterial",
+        "RNA, Ribosomal, 16S",
+        "Rhizosphere",
+        "Soil Microbiology",
+        "Triticum"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "12597026",
+      "title": "Pigment analysis and ammonia excretion in herbicide tolerant cyanobacteria.",
+      "pubdate": "2002 Aug",
+      "source": "Indian J Exp Biol",
+      "authors": "Selvakumar G, Gopalaswamy G, Kannaiyan S",
+      "elocationid": "",
+      "abstract": "Isolation of cyanobacteria was attempted from herbicide applied rice soils. The predominant genera were Westiellopsis followed by Anabaena, Nostoc and Oscillatoria. The herbicide tolerance was further tested by growing the cyanobacterial cultures in BG-11 medium supplemented with varying concentrations of the commonly used rice herbicide, viz butachlor under in vitro condition. The chlorophyll-a, phycobiliproteins and ammonia excretion were assessed at periodic intervals. Westiellopsis showed the maximum tolerance followed by Anabaena, Nostoc and Oscillatoria.",
+      "mesh_terms": [
+        "Acetanilides",
+        "Ammonia",
+        "Chlorophyll",
+        "Chlorophyll A",
+        "Cyanobacteria",
+        "Drug Resistance, Microbial",
+        "Herbicides",
+        "Light-Harvesting Protein Complexes",
+        "Oryza",
+        "Phycocyanin",
+        "Phycoerythrin",
+        "Proteins",
+        "Soil Microbiology"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

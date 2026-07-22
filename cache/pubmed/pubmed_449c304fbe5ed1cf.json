@@ -1,0 +1,8 @@
+{
+  "term": "(\"Os06g0542600\"[Title/Abstract] OR \"OsFbox312\"[Title/Abstract] OR \"OsFBX476\"[Title/Abstract] OR \"FBX476\"[Title/Abstract] OR \"F-box protein 312, F-box-type E3 ubiquitin ligase X476\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [],
+  "records": [],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

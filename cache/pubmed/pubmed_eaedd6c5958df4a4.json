@@ -1,0 +1,552 @@
+{
+  "term": "(\"Os06g0526400\"[Title/Abstract] OR \"PYL\"[Title/Abstract] OR \"RCAR7\"[Title/Abstract] OR \"OsPYL\"[Title/Abstract] OR \"Similar to AT-rich element binding factor 3.\"[Title/Abstract] OR \"PYRABACTIN RESISTANCE 1 LIKE/REGULATORY COMPONENTS OF ABA RECEPTOR 7\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "30941543",
+    "35047239",
+    "26362328",
+    "32545174",
+    "28827170",
+    "24474809",
+    "31405333",
+    "32998689",
+    "22071266",
+    "36675223",
+    "31913304",
+    "26831097",
+    "26300907",
+    "38237440",
+    "32568332",
+    "26272249",
+    "33401385",
+    "40750053",
+    "31541388",
+    "28000033"
+  ],
+  "records": [
+    {
+      "pmid": "30941543",
+      "title": "Structural determinants for pyrabactin recognition in ABA receptors in Oryza sativa.",
+      "pubdate": "2019 Jun",
+      "source": "Plant Mol Biol",
+      "authors": "Han S, Lee Y, Park EJ, Min MK, Lee Y, Kim TH, Kim BG, Lee S",
+      "elocationid": "doi: 10.1007/s11103-019-00862-6",
+      "abstract": "We determined the structure of OsPYL/RCAR3:OsPP2C50 complex with pyrabactin. Our results suggest that a less-conserved phenylalanine of OsPYL/RCAR subfamily I is one of considerations of ABA agonist development for Oryza sativa. Pyrabactin is a synthetic chemical mimicking abscisic acid (ABA), a naturally occurring phytohormone orchestrating abiotic stress responses. ABA and pyrabactin share the same pocket in the ABA receptors but pyrabactin modulates ABA signaling differently, exhibiting both agonistic and antagonistic effects. To explore structural determinants of differential functionality of pyrabactin, we determined the crystal structure of OsPYL/RCAR3:pyrabactin:OsPP2C50, the first rice ABA receptor:co-receptor complex structure with a synthetic ABA mimicry. The water-mediated interaction between the wedging Trp-259 of OsPP2C50 and pyrabactin is lost, undermining the structural integrity of the ABA receptor:co-receptor. The loss of the interaction of the wedging tryptophan of OsPP2C with pyrabactin appears to contribute to the weaker functionality of pyrabactin. Pyrabactin in the OsPYL/RCAR3:OsPP2C50 complex adopts a conformation different from that in ABA receptors from Arabidopsis. Phe125, specific to the subfamily I of OsPYL/RCARs in the ABA binding pocket, appears to be the culprit for the differential conformation of pyrabactin. Although the gate closure essential for the integrity of ABA receptor:co-receptor is preserved in the presence of pyrabactin, Phe125 apparently restricts accessibility of pyrabactin, leading to decreased affinity for OsPYL/RCAR3 evidenced by phosphatase assay. However, Phe125 does not affect conformation and accessibility of ABA. Yeast two-hybrid, germination and gene transcription analyses in rice also support that pyrabactin imposes a weak effect on the control of ABA signaling. Taken together, our results suggest that phenylalanine substitution of OsPYL/RCARs subfamily I may be one of considerations for ABA synthetic agonist development.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Crystallography, X-Ray",
+        "Germination",
+        "Models, Molecular",
+        "Naphthalenes",
+        "Oryza",
+        "Phosphoprotein Phosphatases",
+        "Plant Growth Regulators",
+        "Plant Proteins",
+        "Protein Conformation",
+        "Seeds",
+        "Signal Transduction",
+        "Stress, Physiological",
+        "Sulfonamides"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35047239",
+      "title": "Genome-wide identification and expression analysis of the cucumber PYL gene family.",
+      "pubdate": "2022",
+      "source": "PeerJ",
+      "authors": "Zhang Z, Luo S, Liu Z, Wan Z, Gao X, Qiao Y, Yu J, Zhang G",
+      "elocationid": "doi: 10.7717/peerj.12786",
+      "abstract": "Abscisic acid (ABA) is a very important hormone in plants. It regulates growth and development of plants and plays an important role in biotic and abiotic stresses. The Pyrabactin resistance 1-like (PYR/PYL) proteins play a central role in ABA signal transduction pathways. The working system of PYL genes in cucumber, an important economical vegetable (Cucumis sativus L.), has not been fully studied yet. Through bioinformatics, a total of 14 individual PYL genes were identified in Chinese long '9930' cucumber. Fourteen PYL genes were distributed on six chromosomes of cucumber, and their encoded proteins predicted to be distributed in cytoplasm and nucleus. Based on the phylogenetic analysis, the PYL genes of cucumber, Arabidopsis, rice, apple, Brachypodium distachyon and soybeancould be classified into three groups. Genetic structures and conserved domains analysis revealed that CsPYL genes in the same group have similar exons and conserved domains. By predicting cis-elements in the promoters, we found that all CsPYL members contained hormone and stress-related elements. Additionally, the expression patterns of CsPYL genes were specific in tissues. Finally, we further examined the expression of 14 CsPYL genes under ABA, PEG, salt stress. The qRT-PCR results showed that most PYL gene expression levels were up-regulated. Furthermore, with different treatments about 3h, the relative expression of PYL8 was up-regulated and more than 20 times higher than 0h. It indicated that this gene may play an important role in abiotic stress.",
+      "mesh_terms": [
+        "Cucumis sativus",
+        "Plant Proteins",
+        "Phylogeny",
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Hormones"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26362328",
+      "title": "Characterization and Functional Analysis of Pyrabactin Resistance-Like Abscisic Acid Receptor Family in Rice.",
+      "pubdate": "2015 Dec",
+      "source": "Rice (N Y)",
+      "authors": "Tian X, Wang Z, Li X, Lv T, Liu H, Wang L, Niu H, Bu Q",
+      "elocationid": "doi: 10.1186/s12284-015-0061-6",
+      "abstract": "BACKGROUND: Abscisic acid (ABA) plays crucial roles in regulating plant growth and development, especially in responding to abiotic stress. The pyrabactin resistance-like (PYL) abscisic acid receptor family has been identified and widely characterized in Arabidopsis. However, PYL families in rice were largely unknown. In the present study, 10 out of 13 PYL orthologs in rice (OsPYL) were isolated and investigated. RESULTS: Quantitative reverse transcription-polymerase chain reaction (qRT-PCR) analysis showed that expression of OsPYL genes is tissue-specific and display differential response to ABA treatment, implying their functional diversity. The interaction between 10 OsPYL members and 5 protein phosphatase 2C in rice (OsPP2C) members was investigated in yeast two-hybrid and tobacco transient expression assays, and an overall interaction map was generated, which was suggestive of the diversity and complexity of ABA-sensing signaling in rice. To study the biological function of OsPYLs, two OsPYL genes (OsPYL3 and OsPYL9) were overexpressed in rice. Phenotypic analysis of OsPYL3 and OsPYL9 transgenic rice showed that OsPYLs positively regulated the ABA response during the seed germination. More importantly, the overexpression of OsPYL3 and OsPYL9 substantially improved drought and cold stress tolerance in rice. CONCLUSION: Taken together, we comprehensively uncovered the properties of OsPYLs, which may be good candidates for the improvement of abiotic stress tolerance in rice.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32545174",
+      "title": "Ectopic Expression of OsPYL/RCAR7, an ABA Receptor Having Low Signaling Activity, Improves Drought Tolerance without Growth Defects in Rice.",
+      "pubdate": "2020 Jun 11",
+      "source": "Int J Mol Sci",
+      "authors": "Bhatnagar N, Kim R, Han S, Song J, Lee GS, Lee S, Min MK, Kim BG",
+      "elocationid": "doi: 10.3390/ijms21114163",
+      "abstract": "Overexpression of abscisic acid (ABA) receptors has been reported to enhance drought tolerance, but also to cause stunted growth and decreased crop yield. Here, we constructed transgenic rice for all monomeric ABA receptors and observed that only transgenic rice over-expressing OsPYL/RCAR7 showed similar phenotype with wild type, without total yield loss when grown under normal growth condition in a paddy field. Even though transgenic rice over-expressing OsPYL/RCAR7 showed neither an ABA-sensitivity nor an osmotic stress tolerance in plate assay, it showed drought tolerance. We investigated the ABA-dependent interaction with OsPP2CAs and ABA signaling induction by OsPYL/RCAR7. In yeast two hybrid assay, OsPYL/RCAR7 required critically higher ABA concentrations to interact with OsPP2CAs than other ABA receptors, and co-immunoprecipitation assay showed strong interaction under ABA treatment. When ABA-responsive signaling activity was monitored using a transient expression system in rice protoplasts, OsPYL/RCAR7 had the lowest ABA-responsive signaling activity as compared with other ABA receptors. OsPYL/RCAR7 also showed weak suppression of phosphatase activity as compared with other ABA receptors in vitro. Transcriptome analysis of transgenic rice over-expressing OsPYL/RCAR7 suggested that only a few genes were induced similar to control under without exogenous ABA, but a large number of genes was induced under ABA treatment compared with control. We conclude that OsPYL/RCAR7 is a novel functional ABA receptor that has low ABA signaling activity and exhibits high ABA dependence. These results lay the foundation for a new strategy to improve drought stress tolerance without compromising crop growth.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Droughts",
+        "Ectopic Gene Expression",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Oryza",
+        "Osmotic Pressure",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Protoplasts",
+        "Seedlings",
+        "Seeds",
+        "Signal Transduction"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "28827170",
+      "title": "Modulation of ABA Signaling by Altering VxGΦL Motif of PP2Cs in Oryza sativa.",
+      "pubdate": "2017 Sep 12",
+      "source": "Mol Plant",
+      "authors": "Han S, Min MK, Lee SY, Lim CW, Bhatnagar N, Lee Y, Shin D, Chung KY, Lee SC, Kim BG",
+      "elocationid": "doi: 10.1016/j.molp.2017.08.003",
+      "abstract": "The abscisic acid (ABA) signaling pathway is regulated by clade A type 2C protein phosphatases (PP2CAs) in plants. In the presence of ABA, PP2Cs release stress/ABA-activated protein kinases by binding to ABA-bound receptors (PYL/RCARs) for activation. Although the wedging tryptophan in PP2Cs is critical in the interaction with PYL/RCARs in Arabidopsis and rice, it remains elusive as to how other interface regions are involved in the interaction. Here, we report the identification of a conserved region on PP2Cs, termed the VxGΦL motif, which modulates the interaction with PYL/RCARs through its second and fourth residues. The effects of the second and fourth residues on the interaction of OsPP2C50 with several OsPYL/RCAR proteins were investigated by systematic mutagenesis. One OsPP2C50 mutant, VFGML (\"FM\") mutant, lowered the affinity to OsPYL/RCAR3 by ∼15-fold in comparison with the wild-type. Comparison of the crystal structures of wild-type OsPP2C50:ABA:OsPYL/RCAR3 with those composed of FM mutant revealed local conformational changes near the VxGΦL motif, further supported by hydrogen-deuterium exchange mass spectrometry. In rice protoplasts, ABA signaling was altered by mutations in the VxGΦL motif. Transgenic Arabidopsis plants overexpressing OsPP2C50 and OsPP2C50FM showed altered ABA sensitivity. Taken together, the VxGΦL motif of PP2Cs appears to modulate the affinity of PP2Cs with PYL/RCARs and thus likely to alter the ABA signaling, leading to the differential sensitivity to ABA in planta.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Amino Acid Motifs",
+        "Amino Acid Sequence",
+        "Conserved Sequence",
+        "Crystallography, X-Ray",
+        "Germination",
+        "Hydrophobic and Hydrophilic Interactions",
+        "Ions",
+        "Mutation",
+        "Oryza",
+        "Phylogeny",
+        "Plant Proteins",
+        "Protein Binding",
+        "Protein Conformation",
+        "Protein Phosphatase 2C",
+        "Receptors, Cell Surface",
+        "Seedlings",
+        "Signal Transduction",
+        "Solutions",
+        "Structure-Activity Relationship",
+        "Tryptophan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "24474809",
+      "title": "Overexpression of PYL5 in rice enhances drought tolerance, inhibits growth, and modulates gene expression.",
+      "pubdate": "2014 Feb",
+      "source": "J Exp Bot",
+      "authors": "Kim H, Lee K, Hwang H, Bhatnagar N, Kim DY, Yoon IS, Byun MO, Kim ST, Jung KH, Kim BG",
+      "elocationid": "doi: 10.1093/jxb/ert397",
+      "abstract": "Abscisic acid (ABA) is a phytohormone that plays important roles in the regulation of seed dormancy and adaptation to abiotic stresses. Previous work identified OsPYL/RCARs as functional ABA receptors regulating ABA-dependent gene expression in Oryza sativa. OsPYL/RCARs thus are considered to be good candidate genes for improvement of abiotic stress tolerance in crops. This work demonstrates that the cytosolic ABA receptor OsPYL/RCAR5 in O. sativa functions as a positive regulator of abiotic stress-responsive gene expression. The constitutive expression of OsPYL/RCAR5 in rice driven by the Zea mays ubiquitin promoter induced the expression of many stress-responsive genes even under normal growth conditions and resulted in improved drought and salt stress tolerance in rice. However, it slightly reduced plant height under paddy field conditions and severely reduced total seed yield. This suggests that, although exogenous expression of OsPYL/RCAR5 is able to improve abiotic stress tolerance in rice, fine regulation of its expression will be required to avoid deleterious effects on agricultural traits.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Adaptation, Physiological",
+        "Droughts",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Gene Ontology",
+        "Oryza",
+        "Osmotic Pressure",
+        "Phenotype",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Quantitative Trait, Heritable",
+        "Salt Tolerance",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "31405333",
+      "title": "In silico study revealed major conserve architectures and novel features of pyrabactin binding to Oryza sativa ABA receptors compare to the Arabidopsis thaliana.",
+      "pubdate": "2020 Jul",
+      "source": "J Biomol Struct Dyn",
+      "authors": "Gupta MK, Sharma V, Lenka SK, Chinnusamy V",
+      "elocationid": "doi: 10.1080/07391102.2019.1654922",
+      "abstract": "Enhancing water use efficiency (WUE) of crops in irrigated agriculture and drought tolerance in rain-fed agriculture is the major goal for sustaining and enhancing agricultural productivity in the future. The phytohormone abscisic acid (ABA) signaling pathway is a major target for the agronomic management of WUE and genetic improvement of drought tolerance in crops. The START domain proteins PYRABACTIN RESISTANCE1 (PYR1)/PYR1-like (PYL)/Regulatory Components of ABA Receptors (RCARs) of the model plant Arabidopsis thaliana have been characterized as bona fide ABA receptors (ABARs). ABA signaling pathway can be activated or repressed by using specific agonist and antagonist against ABAR and therefore, can be used to control ABA-mediated physiological changes in plants. In the present work, we have reported the 3 D structure models of three ABARs (OsPYL1-3) from drought-tolerant Indica rice N22 (Oryza sativa L. sp. Indica cv N22) in apo- and ligand-bound conformations developed using comparative modeling techniques. Subsequently, these models were used in docking study to investigate the binding mode of known ABAR agonists and antagonists. Further, molecular dynamics studies on the selected systems verified the residues involved in protein-ligand interactions. The study identified the important ligand-binding features for the future development of specific agonists/antagonists to modulate the ABA activity in O. sativa and provides in silico models for designing and virtual screening to identify potent ABA receptor ligands.Communicated by Ramaswamy H. Sarma.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Computer Simulation",
+        "Naphthalenes",
+        "Oryza",
+        "Signal Transduction",
+        "Sulfonamides"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32998689",
+      "title": "Genome-wide identification and characterization of ABA receptor PYL gene family in rice.",
+      "pubdate": "2020 Sep 30",
+      "source": "BMC Genomics",
+      "authors": "Yadav SK, Santosh Kumar VV, Verma RK, Yadav P, Saroha A, Wankhede DP, Chaudhary B, Chinnusamy V",
+      "elocationid": "doi: 10.1186/s12864-020-07083-y",
+      "abstract": "BACKGROUND: Abscisic acid (ABA), a key phytohormone that controls plant growth and stress responses, is sensed by the pyrabactin resistance 1(PYR1)/PYR1-like (PYL)/regulatory components of the ABA receptor (RCAR) family of proteins. Comprehensive information on evolution and function of PYL gene family in rice (Oryza sativa) needs further investigation. This study made detailed analysis on evolutionary relationship between PYL family members, collinearity, synteny, gene structure, protein motifs, cis-regulatory elements (CREs), SNP variations, miRNAs targeting PYLs and expression profiles in different tissues and stress responses. RESULTS: Based on sequence homology with Arabidopsis PYL proteins, we identified a total of 13 PYLs in rice (BOP clade) and maize (PACCMAD clade), while other members of BOP (wheat - each diploid genome, barley and Brachypodium) and PACCMAD (sorghum and foxtail millet) have 8-9 PYLs. The phylogenetic analysis divided PYLs into three subfamilies that are structurally and functionally conserved across species. Gene structure and motif analysis of OsPYLs revealed that members of each subfamily have similar gene and motif structure. Segmental duplication appears be the driving force for the expansion of PYLs, and the majority of the PYLs underwent evolution under purifying selection in rice. 32 unique potential miRNAs that might target PYLs were identified in rice. Thus, the predicted regulation of PYLs through miRNAs in rice is more elaborate as compared with B. napus. Further, the miRNAs identified to in this study were also regulated by stresses, which adds additional layer of regulation of PYLs. The frequency of SAPs identified was higher in indica cultivars and were predominantly located in START domain that participate in ABA binding. The promoters of most of the OsPYLs have cis-regulatory elements involved in imparting abiotic stress responsive expression. In silico and q-RT-PCR expression analyses of PYL genes revealed multifaceted role of ABARs in shaping plant development as well as abiotic stress responses. CONCLUSION: The predicted miRNA mediated regulation of OsPYLs and stress regulated expression of all OsPYLs, at least, under one stress, lays foundation for further validation and fine tuning ABA receptors for stress tolerance without yield penalty in rice.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Amino Acid Motifs",
+        "Gene Duplication",
+        "Gene Expression Regulation, Plant",
+        "Genome, Plant",
+        "MicroRNAs",
+        "Multigene Family",
+        "Oryza",
+        "Plant Proteins",
+        "Polymorphism, Single Nucleotide",
+        "Receptors, Cell Surface",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "22071266",
+      "title": "A rice orthologue of the ABA receptor, OsPYL/RCAR5, is a positive regulator of the ABA signal transduction pathway in seed germination and early seedling growth.",
+      "pubdate": "2012 Jan",
+      "source": "J Exp Bot",
+      "authors": "Kim H, Hwang H, Hong JW, Lee YN, Ahn IP, Yoon IS, Yoo SD, Lee S, Lee SC, Kim BG",
+      "elocationid": "doi: 10.1093/jxb/err338",
+      "abstract": "Abscisic acid (ABA) is a phytohormone that positively regulates seed dormancy and stress tolerance. PYL/RCARs were identified an intracellular ABA receptors regulating ABA-dependent gene expression in Arabidopsis thaliana. However, their function in monocot species has not been characterized yet. Herein, it is demonstrated that PYL/RCAR orthologues in Oryza sativa function as a positive regulator of the ABA signal transduction pathway. Transgenic rice plants expressing OsPYL/RCAR5, a PYL/RCAR orthologue of rice, were found to be hypersensitive to ABA during seed germination and early seedling growth. A rice ABA signalling unit composed of OsPYL/RCAR5, OsPP2C30, SAPK2, and OREB1 for ABA-dependent gene regulation was further identified, via interaction assays and a transient gene expression assay. Thus, a core signalling unit for ABA-responsive gene expression modulating seed germination and early seedling growth in rice has been unravelled. This study provides substantial contributions toward understanding the ABA signal transduction pathway in rice.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Cell Nucleus",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Models, Biological",
+        "Oryza",
+        "Phenotype",
+        "Plant Dormancy",
+        "Plant Growth Regulators",
+        "Plant Leaves",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Protoplasts",
+        "Saccharomyces cerevisiae",
+        "Seedlings",
+        "Seeds",
+        "Signal Transduction",
+        "Nicotiana",
+        "Two-Hybrid System Techniques"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36675223",
+      "title": "Jasmonic Acid-Induced β-Cyclocitral Confers Resistance to Bacterial Blight and Negatively Affects Abscisic Acid Biosynthesis in Rice.",
+      "pubdate": "2023 Jan 15",
+      "source": "Int J Mol Sci",
+      "authors": "Taniguchi S, Takeda A, Kiryu M, Gomi K",
+      "elocationid": "doi: 10.3390/ijms24021704",
+      "abstract": "Jasmonic acid (JA) regulates the production of several plant volatiles that are involved in plant defense mechanisms. In this study, we report that the JA-responsive volatile apocarotenoid, β-cyclocitral (β-cyc), negatively affects abscisic acid (ABA) biosynthesis and induces a defense response against Xanthomonas oryzae pv. oryzae (Xoo), which causes bacterial blight in rice (Oryza sativa L.). JA-induced accumulation of β-cyc was regulated by OsJAZ8, a repressor of JA signaling in rice. Treatment with β-cyc induced resistance against Xoo and upregulated the expression of defense-related genes in rice. Conversely, the expression of ABA-responsive genes, including ABA-biosynthesis genes, was downregulated by JA and β-cyc treatment, resulting in a decrease in ABA levels in rice. β-cyc did not inhibit the ABA-dependent interactions between OsPYL/RCAR5 and OsPP2C49 in yeast cells. Furthermore, we revealed that JA-responsive rice carotenoid cleavage dioxygenase 4b (OsCCD4b) was localized in the chloroplast and produced β-cyc both in vitro and in planta. These results suggest that β-cyc plays an important role in the JA-mediated resistance against Xoo in rice.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Oryza",
+        "Plant Proteins",
+        "Cyclopentanes",
+        "Plant Diseases",
+        "Xanthomonas",
+        "Disease Resistance",
+        "Gene Expression Regulation, Plant",
+        "Oxylipins",
+        "Aldehydes",
+        "Diterpenes"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "31913304",
+      "title": "Selection and functional identification of a synthetic partial ABA agonist, S7.",
+      "pubdate": "2020 Jan 8",
+      "source": "Sci Rep",
+      "authors": "Min MK, Kim R, Moon SJ, Lee Y, Han S, Lee S, Kim BG",
+      "elocationid": "doi: 10.1038/s41598-019-56343-9",
+      "abstract": "The stress hormone abscisic acid (ABA) helps plants to survive under abiotic stresses; however, its use as an agrochemical is limited by its chemical instability and expense. Here, we report the development of an in vivo screening system to isolate chemicals able to induce ABA signalling responses in rice (Oryza sativa) protoplasts. This system consists of an ABA-hypersensitive synthetic promoter containing ABRE and DRE motifs driving a luciferase reporter gene. After efficiently transfecting rice protoplasts with this construct, we screened chemicals library with a similar molecular weight and chemical structure to ABA and identified one chemical, S7, that induced ABA signalling by mediating interactions between the group I and II OsPYL receptors and certain OsPP2CAs in a yeast two-hybrid assay. In an in vitro pulldown assay, S7 was found to mediate a weak interaction between OsPYL5/8 and various OsPP2CAs. S7 treatments did not affect seedling growth or seed germination, but could reduce water loss. Rice seedlings treated with S7 exhibited transcriptome profiles that partially overlapped those treated with ABA. Taken together, we concluded that S7 is a new partial ABA agonist, which has potential use in future dissections of ABA signalling and as an agrochemical.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Gene Expression Regulation, Plant",
+        "High-Throughput Screening Assays",
+        "Oryza",
+        "Plant Growth Regulators",
+        "Plant Proteins",
+        "Promoter Regions, Genetic",
+        "Seedlings",
+        "Small Molecule Libraries",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26831097",
+      "title": "ABA receptor PYL9 promotes drought resistance and leaf senescence.",
+      "pubdate": "2016 Feb 16",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": "Zhao Y, Chan Z, Gao J, Xing L, Cao M, Yu C, Hu Y, You J, Shi H, Zhu Y",
+      "elocationid": "doi: 10.1073/pnas.1522840113",
+      "abstract": "Drought stress is an important environmental factor limiting plant productivity. In this study, we screened drought-resistant transgenic plants from 65 promoter-pyrabactin resistance 1-like (PYL) abscisic acid (ABA) receptor gene combinations and discovered that pRD29A::PYL9 transgenic lines showed dramatically increased drought resistance and drought-induced leaf senescence in both Arabidopsis and rice. Previous studies suggested that ABA promotes senescence by causing ethylene production. However, we found that ABA promotes leaf senescence in an ethylene-independent manner by activating sucrose nonfermenting 1-related protein kinase 2s (SnRK2s), which subsequently phosphorylate ABA-responsive element-binding factors (ABFs) and Related to ABA-Insensitive 3/VP1 (RAV1) transcription factors. The phosphorylated ABFs and RAV1 up-regulate the expression of senescence-associated genes, partly by up-regulating the expression of Oresara 1. The pyl9 and ABA-insensitive 1-1 single mutants, pyl8-1pyl9 double mutant, and snrk2.2/3/6 triple mutant showed reduced ABA-induced leaf senescence relative to the WT, whereas pRD29A::PYL9 transgenic plants showed enhanced ABA-induced leaf senescence. We found that leaf senescence may benefit drought resistance by helping to generate an osmotic potential gradient, which is increased in pRD29A::PYL9 transgenic plants and causes water to preferentially flow to developing tissues. Our results uncover the molecular mechanism of ABA-induced leaf senescence and suggest an important role of PYL9 and leaf senescence in promoting resistance to extreme drought stress.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carrier Proteins",
+        "Droughts",
+        "Intracellular Signaling Peptides and Proteins",
+        "Oryza",
+        "Phosphorylation",
+        "Plant Leaves",
+        "Plants, Genetically Modified",
+        "Signal Transduction",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26300907",
+      "title": "Functional characterization and reconstitution of ABA signaling components using transient gene expression in rice protoplasts.",
+      "pubdate": "2015",
+      "source": "Front Plant Sci",
+      "authors": "Kim N, Moon SJ, Min MK, Choi EH, Kim JA, Koh EY, Yoon I, Byun MO, Yoo SD, Kim BG",
+      "elocationid": "doi: 10.3389/fpls.2015.00614",
+      "abstract": "The core components of ABA-dependent gene expression signaling have been identified in Arabidopsis and rice. This signaling pathway consists of four major components; group A OsbZIPs, SAPKs, subclass A OsPP2Cs and OsPYL/RCARs in rice. These might be able to make thousands of combinations through interaction networks resulting in diverse signaling responses. We tried to characterize those gene functions using transient gene expression for rice protoplasts (TGERP) because it is instantaneous and convenient system. Firstly, in order to monitor the ABA signaling output, we developed reporter system named pRab16A-fLUC which consists of Rab16A promoter of rice and luciferase gene. It responses more rapidly and sensitively to ABA than pABRC3-fLUC that consists of ABRC3 of HVA1 promoter in TGERP. We screened the reporter responses for over-expression of each signaling components from group A OsbZIPs to OsPYL/RCARs with or without ABA in TGERP. OsbZIP46 induced reporter most strongly among OsbZIPs tested in the presence of ABA. SAPKs could activate the OsbZIP46 even in the ABA independence. Subclass A OsPP2C6 and -8 almost completely inhibited the OsbZIP46 activity in the different degree through the SAPK9. Lastly, OsPYL/RCAR2 and -5 rescued the OsbZIP46 activity in the presence of SAPK9 and OsPP2C6 dependent on ABA concentration and expression level. By using TGERP, we could characterize successfully the effects of ABA dependent gene expression signaling components in rice. In conclusion, TGERP represents very useful technology to study systemic functional genomics in rice or other monocots.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38237440",
+      "title": "Positive regulation of ABA signaling by MdCPK4 interacting with and phosphorylating MdPYL2/12 in Arabidopsis.",
+      "pubdate": "2024 Feb",
+      "source": "J Plant Physiol",
+      "authors": "Liu Y, Zhang Q, Chen D, Shi W, Gao X, Liu Y, Hu B, Wang A, Li X, An X",
+      "elocationid": "doi: 10.1016/j.jplph.2023.154165",
+      "abstract": "The phytohormone abscisic acid (ABA) regulates plant growth and development and stress resistance through the ABA receptor PYLs. To date, no interaction between CPK and PYL has been reported, even in Arabidopsis and rice. In this study, we found that MdCPK4 from Malus domestica (Md for short) interacts with two MdPYLs, MdPYL2/12, in the nucleus and the cytoplasm in vivo and phosphorylates the latter in vitro as well. Compared with the wild type (WT), the MdCPK4- or MdPYL2/12-overexpressing Arabidopsis lines showed more sensitivity to ABA, and therefore stronger drought resistance. The ABA-related genes (ABF1, ABF2, ABF4, RD29A and SnRK2.2) were significantly upregulated in the overexpressing (OE) lines after ABA treatment. These results indicate that MdCPK4 and MdPYL2/12 act as positive regulators in response to ABA-mediated drought resistance in apple. Our results reveal the relationship between MdCPK4 and MdPYL2/12 in ABA signaling, which will further enrich the molecular mechanism of drought resistance in plants.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Plant Growth Regulators",
+        "Abscisic Acid",
+        "Gene Expression Regulation, Plant",
+        "Droughts"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32568332",
+      "title": "Design of potent ABA receptor antagonists based on a conformational restriction approach.",
+      "pubdate": "2020 Jul 8",
+      "source": "Org Biomol Chem",
+      "authors": "Takeuchi J, Nagamiya H, Moroi S, Ohnishi T, Todoroki Y",
+      "elocationid": "doi: 10.1039/d0ob01017k",
+      "abstract": "The physiological functions of the plant hormone abscisic acid (ABA) are triggered by interactions between PYR/PYL/RCAR receptors (PYLs) and group-A protein phosphatases 2C (PP2Cs). PYL agonists/antagonists capable of inducing/disrupting these interactions would be valuable in investigating the regulatory mechanisms of ABA signaling. Previously, we developed (+)-PAO4, a high-affinity PYL antagonist, by conformationally restricting the S-hexyl chain of our first reported PYL antagonist, 3'-hexylsulfanyl-ABA. Although (+)-PAO4 shows a greater binding affinity for Arabidopsis PYL5 compared with 3'-hexylsulfanyl-ABA, it is not able to completely block the ABA responses both in vitro and in vivo. Therefore, we designed novel conformationally restricted PYL antagonists in which the O-butyl chain of (+)-PAO4 was replaced with a pentyl (PAC4), a pentyne (PAT3) or a pentadiyne (PATT1) chain. (+)-PAT3 and (+)-PATT1 suppressed the ABA-induced inhibition of Arabidopsis seed germination more strongly than (+)-PAO4, but contrary to expectations, the affinity of each compound for PYL5 was almost the same as that of (+)-PAO4. Subsequent biochemical analyses revealed that unlike (+)-PAO4, (+)-PAT3 and (+)-PATT1 completely abolished ABA-induced PYL-PP2C interactions without partial agonistic activities. The superior PYL antagonist functions of (+)-PAT3 and (+)-PATT1 over (+)-PAO4 may explain their potent antagonistic activities against exogenous ABA in vivo. Furthermore, (+)-PAT3 and (+)-PATT1 also suppressed ABA responses in rice, indicating that both compounds are useful chemical tools for ABA-signaling studies, not only in dicots but also in monocots.",
+      "mesh_terms": [
+        "Alkynes",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Drug Design",
+        "Germination",
+        "Molecular Conformation",
+        "Receptors, Cell Surface",
+        "Seeds"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26272249",
+      "title": "The SnRK2-APC/C(TE) regulatory module mediates the antagonistic action of gibberellic acid and abscisic acid pathways.",
+      "pubdate": "2015 Aug 14",
+      "source": "Nat Commun",
+      "authors": "Lin Q, Wu F, Sheng P, Zhang Z, Zhang X, Guo X, Wang J, Cheng Z, Wang J, Wang H",
+      "elocationid": "doi: 10.1038/ncomms8981",
+      "abstract": "Abscisic acid (ABA) and gibberellic acid (GA) antagonistically regulate many developmental processes and responses to biotic or abiotic stresses in higher plants. However, the molecular mechanism underlying this antagonism is still poorly understood. Here, we show that loss-of-function mutation in rice Tiller Enhancer (TE), an activator of the APC/C(TE) complex, causes hypersensitivity and hyposensitivity to ABA and GA, respectively. We find that TE physically interacts with ABA receptor OsPYL/RCARs and promotes their degradation by the proteasome. Genetic analysis also shows OsPYL/RCARs act downstream of TE in mediating ABA responses. Conversely, ABA inhibits APC/C(TE) activity by phosphorylating TE through activating the SNF1-related protein kinases (SnRK2s), which may interrupt the interaction between TE and OsPYL/RCARs and subsequently stabilize OsPYL/RCARs. In contrast, GA can reduce the level of SnRK2s and may promote APC/C(TE)-mediated degradation of OsPYL/RCARs. Thus, we propose that the SnRK2-APC/C(TE) regulatory module represents a regulatory hub underlying the antagonistic action of GA and ABA in plants.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Gene Expression Regulation, Plant",
+        "Gibberellins",
+        "Mutation",
+        "Oryza",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Protein Serine-Threonine Kinases"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33401385",
+      "title": "OsPP2C09 Is a Bifunctional Regulator in Both ABA-Dependent and Independent Abiotic Stress Signaling Pathways.",
+      "pubdate": "2021 Jan 1",
+      "source": "Int J Mol Sci",
+      "authors": "Min MK, Kim R, Hong WJ, Jung KH, Lee JY, Kim BG",
+      "elocationid": "doi: 10.3390/ijms22010393",
+      "abstract": "Clade A Type 2C protein phosphatases (PP2CAs) negatively regulate abscisic acid (ABA) signaling and have diverse functions in plant development and in response to various stresses. In this study, we showed that overexpression of the rice ABA receptor OsPYL/RCAR3 reduces the growth retardation observed in plants exposed to osmotic stress. By contrast, overexpression of the OsPYL/RCAR3-interacting protein OsPP2C09 rendered plant growth more sensitive to osmotic stress. We tested whether OsPP2CAs activate an ABA-independent signaling cascade by transfecting rice protoplasts with luciferase reporters containing the drought-responsive element (DRE) or ABA-responsive element (ABRE). We observed that OsPP2CAs activated gene expression via the cis-acting drought-responsive element. In agreement with this observation, transcriptome analysis of plants overexpressing OsPP2C09 indicated that OsPP2C09 induces the expression of genes whose promoters contain DREs. Further analysis showed that OsPP2C09 interacts with DRE-binding (DREB) transcription factors and activates reporters containing DRE. We conclude that, through activating DRE-containing promoters, OsPP2C09 positively regulates the drought response regulon and activates an ABA-independent signaling pathway.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Droughts",
+        "Gene Expression Regulation, Plant",
+        "Oryza",
+        "Osmotic Pressure",
+        "Plant Proteins",
+        "Protein Phosphatase 2C",
+        "Signal Transduction",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40750053",
+      "title": "PYL2 regulates drought and blast (Magnaporthe oryzae) resistance in rice.",
+      "pubdate": "2025 Nov",
+      "source": "Plant Sci",
+      "authors": "Qiao Z, Zhao Y, Wang X, Fu Y, Chen C, Du X, Sheng F",
+      "elocationid": "doi: 10.1016/j.plantsci.2025.112690",
+      "abstract": "The ABA receptor PYL/RCAR plays a crucial role in initiating ABA sensing and signal transduction, which is essential for plant stress resistance. However, the role of OsPYL2 in rice drought and blast tolerance remains largely unexplored. In this study, we investigated the function of OsPYL2 in drought and rice blast. Overexpression of OsPYL2 resulted in stronger drought tolerance by increasing photosynthetic pigment content, water-holding capacity in rice leaves, while significantly decreasing MDA content. Additionally, overexpression of OsPYL2 could also increase the resistance to rice blast by promoting the accumulation of H2O2. In contrast, loss of OsPYL2 function resulted in the opposite effects. And, PYL2 also regulates hormone content by affecting the expression of ABA and JA signaling pathway genes in response to stress environment. Results of yeast two-hybrid assay, bimolecular fluorescence complementation and firefly luciferase complementation revealed that OsPYL2 could interact with PP2C proteins, VQ24 protein and JAZ proteins. These results illustrated that OsPYL2 can integrate dual stress tolerance responses by synergistically regulating ABA and JA signaling pathways. This study provides valuable insights underlying drought and blast tolerance in rice.",
+      "mesh_terms": [
+        "Oryza",
+        "Plant Proteins",
+        "Droughts",
+        "Plant Diseases",
+        "Disease Resistance",
+        "Gene Expression Regulation, Plant",
+        "Signal Transduction",
+        "Abscisic Acid",
+        "Magnaporthe",
+        "Plant Growth Regulators",
+        "Ascomycota"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "31541388",
+      "title": "Comprehensive survey of the VxGΦL motif of PP2Cs from Oryza sativa reveals the critical role of the fourth position in regulation of ABA responsiveness.",
+      "pubdate": "2019 Nov",
+      "source": "Plant Mol Biol",
+      "authors": "Han S, Lee JY, Lee Y, Kim TH, Lee S",
+      "elocationid": "doi: 10.1007/s11103-019-00916-9",
+      "abstract": "Regulation of abscisic acid (ABA) signaling is crucial in balancing responses to abiotic stresses and retaining growth in planta. An ABA receptor (PYL/RCAR) and a protein phosphatase (PP2C), a co-receptor, form a complex upon binding to ABA. Previously we reported that the second and fourth positions in the VxGΦL motif of PP2Cs from Oryza sativa are critical in the interaction of PP2Cs with PYL/RCARs. Considering substantial effects of the VxGΦL motif on ABA signaling outputs, further comprehensive characterization of residues in the second and fourth positions are required. Here we surveyed the second and fourth positions of the VxGΦL motif by combination of biochemical, structural and physiological analyses. We found that the fourth position of the VxGΦL motif, highly conserved to small hydrophobic residues, was a key determinant of the OsPP2C50:OsPYL/RCAR interactions across subfamilies. Large hydrophobic or any hydrophilic residues in the fourth position abrogated ABA responsiveness. Analysis of crystal structures of OsPP2C50 mutants, S265L/I267V (\"LV\"), I267L (\"SL\") and I267W (\"SW\"), in complex with ABA and OsPYL/RCAR3, along with energy calculation of the complexes, uncovered that a bulky hydrophobic residue in the fourth position of the VxGΦL motif pushed away side chains of nearby residues, conferring side-chain rotameric energy stress. Hydrophilic residues in this position imposed solvation energy stress to the PP2C:PYL/RCAR complex. Germination and gene expression analyses corroborated that OsPP2C50 AS and AK mutants modulated ABA responsiveness in Arabidopsis. Our results suggest that ABA responsiveness could be fine-tuned by the fourth position of the VxGΦL motif on PP2Cs. KEY MESSAGE: We comprehensively surveyed the VxGΦL motif to find that the fourth position, highly conserved to small hydrophobic residues, was critical in regulating ABA responsiveness.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Amino Acid Motifs",
+        "Arabidopsis",
+        "Cloning, Molecular",
+        "Crystallography, X-Ray",
+        "Oryza",
+        "Phosphoprotein Phosphatases",
+        "Plant Growth Regulators",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Signal Transduction"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "28000033",
+      "title": "The protein phosphatase 2C clade A protein OsPP2C51 positively regulates seed germination by directly inactivating OsbZIP10.",
+      "pubdate": "2017 Mar",
+      "source": "Plant Mol Biol",
+      "authors": "Bhatnagar N, Min MK, Choi EH, Kim N, Moon SJ, Yoon I, Kwon T, Jung KH, Kim BG",
+      "elocationid": "doi: 10.1007/s11103-016-0568-2",
+      "abstract": "Protein phosphatase 2C clade A members are major signaling components in the ABA-dependent signaling cascade that regulates seed germination. To elucidate the role of PP2CA genes in germination of rice seed, we selected OsPP2C51, which shows highly specific expression in the embryo compared with other protein phosphatases based on microarray data. GUS histochemical assay confirmed that OsPP2C51 is expressed in the seed embryo and that this expression pattern is unique compared with those of other OsPP2CA genes. Data obtained from germination assays and alpha-amylase assays of OsPP2C51 knockout and overexpression lines suggest that OsPP2C51 positively regulates seed germination in rice. The expression of alpha-amylase synthesizing genes was high in OsPP2C51 overexpressing plants, suggesting that elevated levels of OsPP2C51 might enhance gene expression related to higher rates of seed germination. Analysis of protein interactions between ABA signaling components showed that OsPP2C51 interacts with OsPYL/RCAR5 in an ABA-dependent manner. Furthermore, interactions were observed between OsPP2C51 and SAPK2, and between OsPP2C51 and OsbZIP10 and we found out that OsPP2C51 can dephosphorylates OsbZIP10. These findings suggest the existence of a new branch in ABA signaling pathway consisting of OsPYL/RCAR-OsPP2C-bZIP apart from the previously reported OsPYL/RCAR-OsPP2C-SAPK-bZIP. Overall, our result suggests that OsPP2C51 is a positive regulator of seed germination by directly suppressing active phosphorylated OsbZIP10.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Basic-Leucine Zipper Transcription Factors",
+        "Gene Expression Regulation, Developmental",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Immunoprecipitation",
+        "Microscopy, Fluorescence",
+        "Mutation",
+        "Oryza",
+        "Phosphorylation",
+        "Plant Growth Regulators",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Protein Binding",
+        "Protein Phosphatase 2C",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "Seeds",
+        "Two-Hybrid System Techniques",
+        "alpha-Amylases"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

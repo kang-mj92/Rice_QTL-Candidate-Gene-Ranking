@@ -1,0 +1,8 @@
+{
+  "term": "(\"Os08g0401800\"[Title/Abstract] OR \"PLDalpha7\"[Title/Abstract] OR \"OsPLDalpha7\"[Title/Abstract] OR \"OsPLDtheta\"[Title/Abstract] OR \"PHOSPHOLIPASE D alpha 7\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [],
+  "records": [],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

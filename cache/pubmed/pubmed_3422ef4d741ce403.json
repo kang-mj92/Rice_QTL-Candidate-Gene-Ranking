@@ -1,0 +1,107 @@
+{
+  "term": "(\"Os07g0691800\"[Title/Abstract] OR \"TBP2\"[Title/Abstract] OR \"OsRpt2a\"[Title/Abstract] OR \"TBPOs-2\"[Title/Abstract] OR \"Similar to 26S protease regulatory subunit 4 homolog.\"[Title/Abstract] OR \"TAT BINDING PROTEIN-2\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "36421949",
+    "14678782",
+    "34597396",
+    "9617816"
+  ],
+  "records": [
+    {
+      "pmid": "36421949",
+      "title": "Reference Genes for Expression Analysis Using RT-qPCR in Cnaphalocrocis medinalis (Lepidoptera: Pyralidae).",
+      "pubdate": "2022 Nov 13",
+      "source": "Insects",
+      "authors": "Zhao X, Guo J, Lu Y, Sun T, Tian J, Huang J, Xu H, Wang Z, Lu Z",
+      "elocationid": "doi: 10.3390/insects13111046",
+      "abstract": "Cnaphalocrocis medinalis is a destructive migratory rice pest. Although many studies have investigated its behavioral and physiological responses to environmental changes and migration-inducing factors, little is known about its molecular mechanisms. This study was conducted to select suitable RT-qPCR reference genes to facilitate future gene expression studies. Here, thirteen candidate housekeeping genes (EF1α, AK, EF1β, GAPDH, PGK, RPL13, RPL18, RPS3, 18S rRNA, TBP1, TBP2, ACT, and UCCR) were selected to evaluate their stabilities under different conditions using the ∆CT method; the geNorm, NormFinder, BestKeeper algorithms; and the online tool RefFinder. The results showed that the most stable reference genes were EF1β, PGK, and RPL18, related to developmental stages; RPS3 and RPL18 in larval tissues; EF1β and PGK in larvae feeding on different rice varieties; EF1α, EF1β, and PGK in larvae temperature treatments; PGK and RPL13, related to different adult ages; PGK, EF1α, and ACT, related to adult nutritional conditions; RPL18 and PGK, related to adult mating status; and, RPS3 and PGK, related to different adult take-off characteristics. Our results reveal reference genes that apply to various experimental conditions and will greatly improve the reliability of RT-qPCR analysis for the further study of gene function in this pest.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "14678782",
+      "title": "Mass spectrometric analysis of expression of ATPase subunits encoded by duplicated genes in the 19S regulatory particle of rice 26S proteasome.",
+      "pubdate": "2004 Jan 1",
+      "source": "Arch Biochem Biophys",
+      "authors": "Shibahara T, Kawasaki H, Hirano H",
+      "elocationid": "",
+      "abstract": "The 26S proteasome consisting of a 20S proteasome and a pair of 19S regulatory particles (RP) plays important roles in degradation of the ubiquitinated protein in eukaryotic cells. The RP consists of six different ATPase subunits and, at least, 11 non-ATPase subunits. In rice, we previously identified duplicated genes encoding four ATPase subunits, OsRpt1, OsRpt2, OsRpt4, and OsRpt5. In this study, the genomic sequences of all rice ATPase subunits were identified from the rice genome database and the genomic structure of ATPase subunit genes was determined. The rice RP was purified, and the ATPase subunit isoforms encoded by three pairs of duplicated genes, OsRpt2a/OsRpt2b, OsRpt4a/OsRpt4b, and OsRpt5a/OsRpt5b, were identified in RP by using electrospray ionization quadrupole time-of-flight mass spectrometry. The relative amounts and the expression patterns of these ATPase subunit isoforms in the bran were found to be different from those of the callus, suggesting the presence of multiform 19S regulatory particles engaged in the tissue-specific protein metabolism.",
+      "mesh_terms": [
+        "Adenosine Triphosphatases",
+        "Amino Acid Sequence",
+        "Endopeptidases",
+        "Gene Components",
+        "Gene Duplication",
+        "Genes",
+        "Isoenzymes",
+        "Molecular Sequence Data",
+        "Oryza",
+        "Proteasome Endopeptidase Complex",
+        "Protein Subunits",
+        "Spectrometry, Mass, Electrospray Ionization"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34597396",
+      "title": "The OsSPK1-OsRac1-RAI1 defense signaling pathway is shared by two distantly related NLR proteins in rice blast resistance.",
+      "pubdate": "2021 Dec 4",
+      "source": "Plant Physiol",
+      "authors": "Yu M, Zhou Z, Liu X, Yin D, Li D, Zhao X, Li X, Li S, Chen R, Lu L",
+      "elocationid": "doi: 10.1093/plphys/kiab445",
+      "abstract": "Resistance (R) proteins are important components of plant innate immunity. Most known R proteins are nucleotide-binding site leucine-rich repeat (NLR) proteins. Although a number of signaling components downstream of NLRs have been identified, we lack a general understanding of the signaling pathways. Here, we used the interaction between rice (Oryza sativa) and Magnaporthe oryzae to study signaling of rice NLRs in response to blast infection. We found that in blast resistance mediated by the NLR PIRICULARIA ORYZAE RESISTANCE IN DIGU 3 (PID3), the guanine nucleotide exchange factor OsSPK1 works downstream of PID3. OsSPK1 activates the small GTPase OsRac1, which in turn transduces the signal to the transcription factor RAC IMMUNITY1 (RAI1). Further investigation revealed that the three signaling components also play important roles in disease resistance mediated by the distantly related NLR protein Pi9, suggesting that the OsSPK1-OsRac1-RAI1 signaling pathway could be conserved across rice NLR-induced blast resistance. In addition, we observed changes in RAI1 levels during blast infection, which led to identification of OsRPT2a, a subunit of the 19S regulatory particle of the 26S proteasome. OsRPT2a seemed to be responsible for RAI1 turnover in a 26S proteasome-dependent manner. Collectively, our results suggest a defense signaling route that might be common to NLR proteins in response to blast infection.",
+      "mesh_terms": [
+        "Disease Resistance",
+        "Magnaporthe",
+        "NLR Proteins",
+        "Oryza",
+        "Plant Diseases",
+        "Plant Immunity",
+        "Signal Transduction"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "9617816",
+      "title": "Biochemical and immunological characterization of rice homologues of the human immunodeficiency virus-1 Tat binding protein and subunit 4 of human 26S proteasome subunits.",
+      "pubdate": "1998 Jun",
+      "source": "Plant Mol Biol",
+      "authors": "Suzuka I, Yanagawa Y, Yamazaki K, Ueda T, Nakagawa H, Hashimoto J",
+      "elocationid": "",
+      "abstract": "Previously, we isolated two cDNA clones, TBPOs-1 and TBPOs-2, encoding putative ATPases that are the rice homologues of human immunodeficiency virus-1 (HIV-1) Tat binding protein-1 and subunit 4 of human 26S proteasome. In order to determine the RNA-dependent ATPase activity of these putative proteins, the subclones from these cDNA clones were expressed in Escherichia coli as fusion proteins with maltose-binding protein. The recombinant proteins stimulated ATP hydrolysis in the presence of poly(U) and rice total RNA. In contrast, single- and double-stranded forms of HindIII-digested lambda phage DNA are less effective at stimulating ATP hydrolysis. Western blot analysis using antisera against the TBPOs proteins showed a widespread appearance of these proteins in rice tissues and cultured cells. The TBPOs proteins were also found around the region where rice proteasomes would sediment. In addition, the TBPOs-1 protein bound to tobacco TATA-binding protein in vitro. Thus, we suggest that the TBPOs proteins are novel RNA-dependent ATPases characteristic of DEAD-box proteins and propose that the TPBOs proteins can exist in rice proteasomes. Further, the TBPOs-1 protein is thought to play a role in transcriptional events.",
+      "mesh_terms": [
+        "ATPases Associated with Diverse Cellular Activities",
+        "Adenosine Triphosphatases",
+        "DNA-Binding Proteins",
+        "HIV-1",
+        "Humans",
+        "Oryza",
+        "Peptide Hydrolases",
+        "Plant Proteins",
+        "Proteasome Endopeptidase Complex",
+        "Recombinant Fusion Proteins",
+        "TATA-Box Binding Protein",
+        "Transcription Factors"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

@@ -1,0 +1,32 @@
+{
+  "term": "(\"Os06g0529800\"[Title/Abstract] OR \"UBR7\"[Title/Abstract] OR \"OsUBR7\"[Title/Abstract] OR \"H2BK148ub E3 ligase, E3 ligase containing a Plant Homeodomain-finger and an Ubiquitin Protein Ligase E3 Component N-Recognin7 (UBR7) domain, Homolog of human UBR7, Regulation of plant height, Regulation of histone H2B monoubiquitination and cell proliferation\"[Title/Abstract] OR \"UBIQUITIN PROTEIN LIGASE E3 COMPONENT N-RECOGNIN 7\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "35836378"
+  ],
+  "records": [
+    {
+      "pmid": "35836378",
+      "title": "Rice OsUBR7 modulates plant height by regulating histone H2B monoubiquitination and cell proliferation.",
+      "pubdate": "2022 Nov 14",
+      "source": "Plant Commun",
+      "authors": "Zheng Y, Zhang S, Luo Y, Li F, Tan J, Wang B, Zhao Z, Lin H, Zhang T, Liu J",
+      "elocationid": "doi: 10.1016/j.xplc.2022.100412",
+      "abstract": "Plant height is an important agronomic trait for lodging resistance and yield. Here, we report a new plant-height-related gene, OsUBR7 in rice (Oryza sativa L.); knockout of OsUBR7 caused fewer cells in internodes, resulting in a semi-dwarf phenotype. OsUBR7 encodes a putative E3 ligase containing a plant homeodomain finger and a ubiquitin protein ligase E3 component N-recognin 7 (UBR7) domain. OsUBR7 interacts with histones and monoubiquitinates H2B (H2Bub1) at lysine148 in coordination with the E2 conjugase OsUBC18. OsUBR7 mediates H2Bub1 at a number of chromatin loci for the normal expression of target genes, including cell-cycle-related and pleiotropic genes, consistent with the observation that cell-cycle progression was suppressed in the osubr7 mutant owing to reductions in H2Bub1 and expression levels at these loci. The genetic divergence of OsUBR7 alleles among japonica and indica cultivars affects their transcriptional activity, and these alleles may have undergone selection during rice domestication. Overall, our results reveal a novel mechanism that mediates H2Bub1 in plants, and UBR7 orthologs could be utilized as an untapped epigenetic resource for crop improvement.",
+      "mesh_terms": [
+        "Histones",
+        "Oryza",
+        "Ubiquitination",
+        "Ubiquitin-Protein Ligases",
+        "Cell Proliferation"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

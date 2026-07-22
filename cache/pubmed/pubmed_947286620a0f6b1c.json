@@ -1,0 +1,45 @@
+{
+  "term": "(\"Os08g0406600\"[Title/Abstract] OR \"OsMB12\"[Title/Abstract] OR \"MB12\"[Title/Abstract] OR \"OsMBTB27\"[Title/Abstract] OR \"MATH-BTB protein 12, MDC protein with a BTB domain 12, MDC protein having BTB domain 12, M BTB-type E3 ubiquitin ligase 27\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "16120585"
+  ],
+  "records": [
+    {
+      "pmid": "16120585",
+      "title": "[Isolation and analysis of isolation of differentially-methylated fragment CIDM7 in rice induced by cold stress].",
+      "pubdate": "2005 Jul",
+      "source": "Yi Chuan",
+      "authors": "Hua Y, Chen XF, Xiong JH, Zhang YP, Zhu YG",
+      "elocationid": "",
+      "abstract": "By using restriction enzyme isoschizomers that differ in their sensitivity to methylation of their recognition sites, AFLP analysis is carried out to analyse differences of the methylation state of anonymous CCGG sequences between cold-treated(5 degrees for 2 d) and control 9311(Oryza sativa L.) leaves DNA. Demethylation or De novo methylation induced by cold stress are found in some CCGG sites. Some differentially-methylated encoding sequences are isolated, of which a fragment named CIDM7 (cold-inducing differential methylation) is sequenced and executed BLAST against Nipponbare cDNA data, thus we obtain its full length cDNA of 1422 bp encoding a hypothetical F-box protein(425 aa).CIDM7 is demethylated induced by cold stress. Northern blot analysis confirms that CIDM7 gene expression is up-regulated by cold stress. CIDM7 is single copy and lacated on the Nipponbare chromosome 10 (12.56 Mb-12.57 Mb).",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Amplified Fragment Length Polymorphism Analysis",
+        "Base Sequence",
+        "Binding Sites",
+        "Blotting, Northern",
+        "Cold Temperature",
+        "DNA Methylation",
+        "DNA, Complementary",
+        "DNA, Plant",
+        "F-Box Motifs",
+        "Gene Expression Regulation, Plant",
+        "Molecular Sequence Data",
+        "Oryza",
+        "Plant Leaves",
+        "Plant Proteins",
+        "RNA, Messenger",
+        "Sequence Analysis, DNA"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "chi"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

@@ -1,0 +1,363 @@
+{
+  "term": "(\"PYL7\"[Title/Abstract] OR \"PYL12\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "29784797",
+    "32307082",
+    "37105379",
+    "38448725",
+    "27247417",
+    "22829320",
+    "35134199",
+    "37035898",
+    "34386031",
+    "19889877",
+    "28874521",
+    "41199156",
+    "28837065"
+  ],
+  "records": [
+    {
+      "pmid": "29784797",
+      "title": "Mutations in a subfamily of abscisic acid receptor genes promote rice growth and productivity.",
+      "pubdate": "2018 Jun 5",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": "Miao C, Xiao L, Hua K, Zou C, Zhao Y, Bressan RA, Zhu JK",
+      "elocationid": "doi: 10.1073/pnas.1804774115",
+      "abstract": "Abscisic acid (ABA) is a key phytohormone that controls plant growth and stress responses. It is sensed by the pyrabactin resistance 1 (PYR1)/PYR1-like (PYL)/regulatory components of the ABA receptor (RCAR) family of proteins. Here, we utilized CRISPR/Cas9 technology to edit group I (PYL1-PYL6 and PYL12) and group II (PYL7-PYL11 and PYL13) PYL genes in rice. Characterization of the combinatorial mutants suggested that genes in group I have more important roles in stomatal movement, seed dormancy, and growth regulation than those in group II. Among all of the single pyl mutants, only pyl1 and pyl12 exhibited significant defects in seed dormancy. Interestingly, high-order group I mutants, but not any group II mutants, displayed enhanced growth. Among group I mutants, pyl1/4/6 exhibited the best growth and improved grain productivity in natural paddy field conditions, while maintaining nearly normal seed dormancy. Our results suggest that a subfamily of rice PYLs has evolved to have particularly important roles in regulating plant growth and reveal a genetic strategy to improve rice productivity.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carrier Proteins",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Intracellular Signaling Peptides and Proteins",
+        "Membrane Transport Proteins",
+        "Mutation",
+        "Oryza",
+        "Plant Growth Regulators",
+        "Signal Transduction"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32307082",
+      "title": "Phytochrome-interacting factors regulate seedling growth through ABA signaling.",
+      "pubdate": "2020 Jun 11",
+      "source": "Biochem Biophys Res Commun",
+      "authors": "Liang S, Gao X, Wang Y, Zhang H, Yin K, Chen S, Zhang M, Zhao R",
+      "elocationid": "doi: 10.1016/j.bbrc.2020.04.011",
+      "abstract": "There is a growing body of evidence that abscisic acid (ABA) and the phytochrome-interacting factor (PIF) family of transcription factors interact in light signaling, the regulation of plant growth development, and adaptation to environmental stimuli. In this study, we investigate the role that PIFs play in the regulation of ABA signaling in Arabidopsis thaliana seedlings grown under long-day conditions. We showed that PIFs positively regulate ABA signaling in post-germination seedling growth. We analyzed the DNA-binding sites for PIF3 and PIF5 by DNA-affinity purification sequencing (DAP-seq) genome-wide. The DAP-seq data showed that G-box motif is the direct binding site of PIF3 and PIF5, and a number of ABA responsive genes are potential targets of PIFs, including PYL3, PYL6, PYL12, SnRK2.2, CPK4, CPK6, ABI5, ABF3, and KIN1. Our results provide a basis for understanding the mechanism for PIFs in regulating ABA signal transduction.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Base Sequence",
+        "Binding Sites",
+        "Gene Expression Regulation, Plant",
+        "Genome, Plant",
+        "Loss of Function Mutation",
+        "Nucleotide Motifs",
+        "Phytochrome",
+        "Seedlings",
+        "Signal Transduction"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37105379",
+      "title": "MIW1 participates in ABA signaling through the regulation of MYB30 in Arabidopsis.",
+      "pubdate": "2023 Jul",
+      "source": "Plant Sci",
+      "authors": "Zhan Q, Shen J, Nie K, Zheng Y",
+      "elocationid": "doi: 10.1016/j.plantsci.2023.111717",
+      "abstract": "Seed germination and seedling establishment are critical biological processes, and their underlying molecular mechanisms have practical implications. The ABA signaling during seed germination and early seedling development is negatively regulated by transcription factor MYB30, but its interaction partners and downstream targets are not fully understood. In this study, we identified MIW1 (MYB30-interacting WD40 protein 1), a WD40 protein that could interact with MYB30 and promote its degradation. In the miw1 mutant, the MYB30 protein became more stable. MIW1 enhanced the ABA-mediated inhibition of postgerminative development. The miw1 mutants became hyposensitive to exogenous ABA, and this effect was suppressed by mutations in MYB30. Furthermore, we found that MYB30 negatively regulated the expression of the ABA receptor genes PYR1/PYL/RCARs. The changes in PYLs expression during early seedling development or under ABA treatment became more pronounced in the myb30 mutant. ChIP-qPCR analyses showed MYB30 could directly bind to the promoters of PYL11 and PYL12. Our study reveals that the WD40 protein MIW1 promotes the expression of PYLs by destabilizing MYB30, thus positively regulating the ABA signaling during postgermination in Arabidopsis.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Abscisic Acid",
+        "Signal Transduction",
+        "Mutation",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Seeds",
+        "Transcription Factors"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38448725",
+      "title": "N(6)-methyladenosine-mediated feedback regulation of abscisic acid perception via phase-separated ECT8 condensates in Arabidopsis.",
+      "pubdate": "2024 Mar",
+      "source": "Nat Plants",
+      "authors": "Wu X, Su T, Zhang S, Zhang Y, Wong CE, Ma J, Shao Y, Hua C, Shen L, Yu H",
+      "elocationid": "doi: 10.1038/s41477-024-01638-7",
+      "abstract": "N6-methyladenosine (m6A) is the most abundant internal modification in eukaryotic mRNAs, yet how plants recognize this chemical modification to swiftly adjust developmental plasticity under environmental stresses remains unclear. Here we show that m6A mRNA modification and its reader protein EVOLUTIONARILY CONSERVED C-TERMINAL REGION 8 (ECT8) act together as a key checkpoint for negative feedback regulation of abscisic acid (ABA) signalling by sequestering the m6A-modified ABA receptor gene PYRABACTIN RESISTANCE 1-LIKE 7 (PYL7) via phase-separated ECT8 condensates in stress granules in response to ABA. This partially depletes PYL7 mRNA from its translation in the cytoplasm, thus reducing PYL7 protein levels and compromising ABA perception. The loss of ECT8 results in defective sequestration of m6A-modified PYL7 in stress granules and permits more PYL7 transcripts for translation. This causes overactivation of ABA-responsive genes and the consequent ABA-hypersensitive phenotypes, including drought tolerance. Overall, our findings reveal that m6A-mediated sequestration of PYL7 by ECT8 in stress granules negatively regulates ABA perception, thereby enabling prompt feedback regulation of ABA signalling to prevent plant cell overreaction to environmental stresses.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Abscisic Acid",
+        "Feedback",
+        "RNA, Messenger",
+        "Perception",
+        "Gene Expression Regulation, Plant",
+        "Stress, Physiological",
+        "Droughts",
+        "Plants, Genetically Modified",
+        "Adenosine"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "27247417",
+      "title": "Leveraging abscisic acid receptors for efficient water use in Arabidopsis.",
+      "pubdate": "2016 Jun 14",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": "Yang Z, Liu J, Tischer SV, Christmann A, Windisch W, Schnyder H, Grill E",
+      "elocationid": "doi: 10.1073/pnas.1601954113",
+      "abstract": "Plant growth requires the influx of atmospheric CO2 through stomatal pores, and this carbon uptake for photosynthesis is inherently associated with a large efflux of water vapor. Under water deficit, plants reduce transpiration and are able to improve carbon for water exchange leading to higher water use efficiency (WUE). Whether increased WUE can be achieved without trade-offs in plant growth is debated. The signals mediating the WUE response under water deficit are not fully elucidated but involve the phytohormone abscisic acid (ABA). ABA is perceived by a family of related receptors known to mediate acclimation responses and to reduce transpiration. We now show that enhanced stimulation of ABA signaling via distinct ABA receptors can result in plants constitutively growing at high WUE in the model species Arabidopsis WUE was assessed by three independent approaches involving gravimetric analyses, (13)C discrimination studies of shoots and derived cellulose fractions, and by gas exchange measurements of whole plants and individual leaves. Plants expressing the ABA receptors RCAR6/PYL12 combined up to 40% increased WUE with high growth rates, i.e., are water productive. Water productivity was associated with maintenance of net carbon assimilation by compensatory increases of leaf CO2 gradients, thereby sustaining biomass acquisition. Leaf surface temperatures and growth potentials of plants growing under well-watered conditions were found to be reliable indicators for water productivity. The study shows that ABA receptors can be explored to generate more plant biomass per water transpired, which is a prime goal for a more sustainable water use in agriculture.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carbon Dioxide",
+        "Plant Leaves",
+        "Signal Transduction",
+        "Water"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "22829320",
+      "title": "Unique drought resistance functions of the highly ABA-induced clade A protein phosphatase 2Cs.",
+      "pubdate": "2012 Sep",
+      "source": "Plant Physiol",
+      "authors": "Bhaskara GB, Nguyen TT, Verslues PE",
+      "elocationid": "doi: 10.1104/pp.112.202408",
+      "abstract": "Six Arabidopsis (Arabidopsis thaliana) clade A protein phosphatase 2Cs (PP2Cs) have established abscisic acid (ABA) signaling roles; however, phenotypic roles of the remaining three \"HAI\" PP2Cs, Highly ABA-Induced1 (HAI1), AKT1-Interacting PP2C1/HAI2, and HAI3, have remained unclear. HAI PP2C mutants had enhanced proline and osmoregulatory solute accumulation at low water potential, while mutants of other clade A PP2Cs had no or lesser effect on these drought resistance traits. hai1-2 also had increased expression of abiotic stress-associated genes, including dehydrins and late embryogenesis abundant proteins, but decreased expression of several defense-related genes. Conversely, the HAI PP2Cs had relatively less impact on several ABA sensitivity phenotypes. HAI PP2C single mutants were unaffected in ABA sensitivity, while double and triple mutants were moderately hypersensitive in postgermination ABA response but ABA insensitive in germination. The HAI PP2Cs interacted most strongly with PYL5 and PYL7 to -10 of the PYL/RCAR ABA receptor family, with PYL7 to -10 interactions being relatively little affected by ABA in yeast two-hybrid assays. HAI1 had especially limited PYL interaction. Reduced expression of the main HAI1-interacting PYLs at low water potential when HAI1 expression was strongly induced also suggests limited PYL regulation and a role of HAI1 activity in negatively regulating specific drought resistance phenotypes. Overall, the HAI PP2Cs had greatest effect on ABA-independent low water potential phenotypes and lesser effect on classical ABA sensitivity phenotypes. Both this and their distinct PYL interaction demonstrate a new level of functional differentiation among the clade A PP2Cs and a point of cross talk between ABA-dependent and ABA-independent drought-associated signaling.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Adaptation, Physiological",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carrier Proteins",
+        "Droughts",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Germination",
+        "Osmosis",
+        "Phenotype",
+        "Phosphoprotein Phosphatases",
+        "Protein Phosphatase 2C",
+        "Receptors, Cell Surface",
+        "Seeds",
+        "Signal Transduction",
+        "Soil",
+        "Stress, Physiological",
+        "Two-Hybrid System Techniques",
+        "Water"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35134199",
+      "title": "SKIP Regulates ABA Signaling through Alternative Splicing in Arabidopsis.",
+      "pubdate": "2022 Apr 19",
+      "source": "Plant Cell Physiol",
+      "authors": "Zhang Q, Zhang W, Wei J, Gao Z, Guan J, Cui Z, Wang X",
+      "elocationid": "doi: 10.1093/pcp/pcac014",
+      "abstract": "Abscisic acid (ABA) plays key roles in plant development and responses to abiotic stresses. A wide number of transcriptional and posttranslational regulatory mechanisms of ABA signaling are known; however, less is known about the regulatory roles of alternative splicing. In this work, we found that SKIP, a splicing factor, positively regulates ABA signaling. SKIP binds to the pre-mRNA of ABA signaling-related genes, such as PYL7, PYL8, ABI1, HAB1 and ABI5, to regulate their splicing. The precursor mRNA alternative splicing of several PYL receptors, PP2C phosphatases and ABF transcriptional factors is disrupted by the skip-1 mutation. The abnormal alternative splicing in skip-1 represses the expression of ABA-positive regulators, including PYLs and ABFs, and activates the expression of ABA-negative regulators, such as PP2Cs, which confers ABA hyposensitive phenotype of skip-1. We also found that ABA-mediated genome-wide alternative splicing and differential gene expression are changed by the skip-1 mutation. The number of the differential splicing events is increased by skip-1; however, the number of differential expressed genes in response to ABA is reduced by skip-1. Our results reveal a principle on how a splicing factor regulates ABA signaling and ABA-mediated genome-wide alternative splicing.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Alternative Splicing",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Gene Expression Regulation, Plant",
+        "Phosphoprotein Phosphatases",
+        "RNA Splicing Factors",
+        "Signal Transduction",
+        "Transcription Factors"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37035898",
+      "title": "The Arabidopsis pre-mRNA 3' end processing related protein FIP1 promotes seed dormancy via the DOG1 and ABA pathways.",
+      "pubdate": "2023 Jul",
+      "source": "Plant J",
+      "authors": "Li Y, Chen F, Yang Y, Han Y, Ren Z, Li X, Soppe WJJ, Cao H, Liu Y",
+      "elocationid": "doi: 10.1111/tpj.16239",
+      "abstract": "Seed dormancy is an important adaptive trait to prevent germination occurring at an inappropriate time. The mechanisms governing seed dormancy and germination are complex. Here, we report that FACTOR INTERACTING WITH POLY(A) POLYMERASE 1 (FIP1), a component of the pre-mRNA 3' end processing machinery, is involved in seed dormancy and germination processes in Arabidopsis thaliana. FIP1 is mainly expressed in seeds and the knockout of FIP1 causes reduced seed dormancy, indicating that FIP1 positively influences seed dormancy. Meanwhile, fip1 mutants are insensitive to exogenous ABA during seed germination and early seedling establishment. The terms 'seed maturation' and 'response to ABA stimulus' are significantly enriched in a gene ontology analysis based on genes differentially expressed between fip1-1 and the wild type. Several of these genes, including ABI5, DOG1 and PYL12, show significantly decreased transcript levels in fip1. Genetic analysis showed that either cyp707a2 or dog1-5 partially, but in combination completely, represses the reduced seed dormancy of fip1, indicating that the double mutant cyp707a2 dog1-5 is epistatic to fip1. Moreover, FIP1 is required for CFIM59, another component of pre-mRNA 3' end processing machinery, to govern seed dormancy and germination. Overall, we identified FIP1 as a regulator of seed dormancy and germination that plays a crucial role in governing these processes through the DOG1 and ABA pathways.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Mutation",
+        "Plant Dormancy",
+        "RNA Precursors",
+        "Seeds",
+        "mRNA Cleavage and Polyadenylation Factors"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34386031",
+      "title": "ALKBH10B, an mRNA m(6)A Demethylase, Modulates ABA Response During Seed Germination in Arabidopsis.",
+      "pubdate": "2021",
+      "source": "Front Plant Sci",
+      "authors": "Tang J, Yang J, Duan H, Jia G",
+      "elocationid": "doi: 10.3389/fpls.2021.712713",
+      "abstract": "As the most abundant and reversible chemical modification in eukaryotic mRNA, the epitranscriptomic mark N 6-methyladenine (m6A) regulates plant development and stress response. We have previously characterized that ALKBH10B is an Arabidopsis mRNA m6A demethylase and regulates floral transition. However, it is unclear whether ALKBH10B plays a role in abiotic stress response. Here, we found that the expression of ALKBH10B is increased in response to abscisic acid (ABA), osmotic, and salt stress. The alkbh10b mutants showed hypersensitive to ABA, osmotic, and salt stress during seed germination. Transcriptome analysis revealed that the expression of several ABA response genes is upregulated in alkbh10b-1 than that of wild type, indicating ALKBH10B negatively affects the ABA signaling. Furthermore, m6A sequencing showed that ABA signaling genes, including PYR1, PYL7, PYL9, ABI1, and SnRK2.2 are m6A hypermethylated in alkbh10b-1 after ABA treatment. Taken together, our work demonstrated that ALKBH10B negatively modulates ABA response during seed germination in Arabidopsis.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "19889877",
+      "title": "The nuclear interactor PYL8/RCAR3 of Fagus sylvatica FsPP2C1 is a positive regulator of abscisic acid signaling in seeds and stress.",
+      "pubdate": "2010 Jan",
+      "source": "Plant Physiol",
+      "authors": "Saavedra X, Modrego A, Rodríguez D, González-García MP, Sanz L, Nicolás G, Lorenzo O",
+      "elocationid": "doi: 10.1104/pp.109.146381",
+      "abstract": "The functional protein phosphatase type 2C from beechnut (Fagus sylvatica; FsPP2C1) was a negative regulator of abscisic acid (ABA) signaling in seeds. In this report, to get deeper insight on FsPP2C1 function, we aim to identify PP2C-interacting partners. Two closely related members (PYL8/RCAR3 and PYL7/RCAR2) of the Arabidopsis (Arabidopsis thaliana) BetV I family were shown to bind FsPP2C1 in a yeast two-hybrid screening and in an ABA-independent manner. By transient expression of FsPP2C1 and PYL8/RCAR3 in epidermal onion (Allium cepa) cells and agroinfiltration in tobacco (Nicotiana benthamiana) as green fluorescent protein fusion proteins, we obtained evidence supporting the subcellular localization of both proteins mainly in the nucleus and in both the cytosol and the nucleus, respectively. The in planta interaction of both proteins in tobacco cells by bimolecular fluorescence complementation assays resulted in a specific nuclear colocalization of this interaction. Constitutive overexpression of PYL8/RCAR3 confers ABA hypersensitivity in Arabidopsis seeds and, consequently, an enhanced degree of seed dormancy. Additionally, transgenic 35S:PYL8/RCAR3 plants are unable to germinate under low concentrations of mannitol, NaCl, or paclobutrazol, which are not inhibiting conditions to the wild type. In vegetative tissues, Arabidopsis PYL8/RCAR3 transgenic plants show ABA-resistant drought response and a strong inhibition of early root growth. These phenotypes are strengthened at the molecular level with the enhanced induction of several ABA response genes. Both seed and vegetative phenotypes of Arabidopsis 35S:PYL8/RCAR3 plants are opposite those of 35S:FsPP2C1 plants. Finally, double transgenic plants confirm the role of PYL8/RCAR3 by antagonizing FsPP2C1 function and demonstrating that PYL8/RCAR3 positively regulates ABA signaling during germination and abiotic stress responses.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Amino Acid Sequence",
+        "Fagus",
+        "Gene Expression Regulation, Plant",
+        "Intracellular Signaling Peptides and Proteins",
+        "Nuclear Proteins",
+        "Phylogeny",
+        "Plant Leaves",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Seeds",
+        "Signal Transduction",
+        "Stress, Physiological",
+        "Nicotiana",
+        "Two-Hybrid System Techniques"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "28874521",
+      "title": "Combinatorial interaction network of abscisic acid receptors and coreceptors from Arabidopsis thaliana.",
+      "pubdate": "2017 Sep 19",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": "Tischer SV, Wunschel C, Papacek M, Kleigrewe K, Hofmann T, Christmann A, Grill E",
+      "elocationid": "doi: 10.1073/pnas.1706593114",
+      "abstract": "The phytohormone abscisic acid (ABA) is induced in response to abiotic stress to mediate plant acclimation to environmental challenge. Key players of the ABA-signaling pathway are the ABA-binding receptors (RCAR/PYR1/PYL), which, together with a plant-specific subclade of protein phosphatase 2C (PP2C), form functional holoreceptors. The Arabidopsis genome encodes nine PP2C coreceptors and 14 different RCARs, which can be divided into three subfamilies. The presence of these gene families in higher plants points to the existence of an intriguing regulatory network and poses questions as to the functional compatibility and specificity of receptor-coreceptor interactions. Here, we analyzed all RCAR-PP2C combinations for their capacity to regulate ABA signaling by transient expression in Arabidopsis protoplasts. Of 126 possible RCAR-PP2C pairings, 113 were found to be functional. The three subfamilies within the RCAR family showed different sensitivities to regulating the ABA response at basal ABA levels when efficiently expressed. At exogenous high ABA levels, the RCARs regulated most PP2Cs and activated the ABA response to a similar extent. The PP2C AHG1 was regulated only by RCAR1/PYL9, RCAR2/PYL7, and RCAR3/PYL8, which are characterized by a unique tyrosine residue. Site-directed mutagenesis of RCAR1 showed that its tyrosine residue is critical for AHG1 interaction and regulation. Furthermore, the PP2Cs HAI1 to HAI3 were regulated by all RCARs, and the ABA receptor RCAR4/PYL10 showed ABA-dependent PP2C regulation. The findings unravel the interaction network of possible RCAR-PP2C pairings and their different potentials to serve a rheostat function for integrating fluctuating hormone levels into the ABA-response pathway.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Gene Regulatory Networks",
+        "Genome, Plant",
+        "Phosphoprotein Phosphatases",
+        "Protein Phosphatase 2C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41199156",
+      "title": "Genome-wide identification and expression analysis of the PYL gene family in response to salt, drought and cold stresses in Solanum melongena L.",
+      "pubdate": "2025 Nov 6",
+      "source": "BMC Genomics",
+      "authors": "Gong F, Lan Y, Zhang T, Li C, Li Y, Xia F, Liu X, Liu D, Liang G, Fang C",
+      "elocationid": "doi: 10.1186/s12864-025-12249-7",
+      "abstract": "BACKGROUND: Eggplant (Solanum melongena L.) is a globally important vegetable crop, yet its production faces challenges due to various abiotic stresses. PYL proteins, which act as crucial abscisic acid (ABA) receptors, play a pivotal role in the plant's response to abiotic stresses. However, a genome-wide analysis of the PYL gene family in eggplant has not been conducted to date, hindering the study of their functions in plant development and their roles in abiotic stress tolerance. RESULTS: This study presents the first genome-wide identification of the PYL gene family in eggplant (Solanum melongena) (Sm-PYL), revealing 24 Sm-PYL genes (Sm-PYL1-24) encoding proteins with lengths (92-722 aa), molecular weights (10,256.59-83,087.82 Da), and isoelectric points (4.45-9.77), classified into three subfamilies (I-III). Structural analysis showed exon numbers (1-11) and 15 conserved motifs, while evolutionary analysis identified six syntenic gene pairs under strong purifying selection (Ka/Ks < 0.22) and expansion through diverse duplication mechanisms. Comparative genomics with tomato, potato and pepper revealed 86 syntenic pairs (Ka/Ks < 0.50). Promoter analysis uncovered 20 cis-regulatory elements, predominantly light-responsive, associated with stress, hormone signaling, and growth. Expression profiling implicated Sm-PYL1/12/14/15/23 in salt/drought responses and Sm-PYL7/9/10/13/16/23/24 in cold adaptation, providing insights into their functional diversification in eggplant. CONCLUSION: This study presents the first genome-wide identification of 24 Sm-PYL genes in eggplant, classified into three subfamilies. Structural and evolutionary analyses revealed conserved motifs, purifying selection, and gene family expansion through duplication. Comparative genomics with tomato, potato and pepper identified 86 syntenic pairs, highlighting evolutionary conservation. Promoter analysis uncovered stress- and hormone-related cis-elements, while expression profiling linked specific Sm-PYLs to salt/drought (Sm-PYL1/12/14/15/23) and cold (Sm-PYL7/9/10/13/16/23/24) responses. These findings enhance understanding of ABA-mediated stress tolerance in eggplant and provide a basis for future functional studies to improve abiotic stress resilience.",
+      "mesh_terms": [
+        "Solanum melongena",
+        "Plant Proteins",
+        "Multigene Family",
+        "Gene Expression Regulation, Plant",
+        "Droughts",
+        "Phylogeny",
+        "Cold-Shock Response",
+        "Gene Expression Profiling",
+        "Stress, Physiological",
+        "Genome, Plant",
+        "Genome-Wide Association Study"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "28837065",
+      "title": "Arabidopsis E3 Ubiquitin Ligases PUB22 and PUB23 Negatively Regulate Drought Tolerance by Targeting ABA Receptor PYL9 for Degradation.",
+      "pubdate": "2017 Aug 24",
+      "source": "Int J Mol Sci",
+      "authors": "Zhao J, Zhao L, Zhang M, Zafar SA, Fang J, Li M, Zhang W, Li X",
+      "elocationid": "doi: 10.3390/ijms18091841",
+      "abstract": "Drought causes osmotic stress and rapidly triggers abscisic acid (ABA) accumulation in plants. The roles of various ABA receptors in drought tolerance and molecular mechanisms regulating ABA receptor stability needs to be elucidated. Here, we report that Arabidopsis plants overexpressing PYL9, one of the 14 pyrabactin resistance (PYR)/pyrabactin resistance-like (PYL)/regulatory component of ABA receptors (RCAR) family ABA receptors, gained drought tolerance trait. Osmotic stress induced accumulation of the PYL9 protein, which was regulated by the 26S proteasome. PYL9 interacted with two highly homologous plant U-box E3 ubiquitin ligases PUB22 and PUB23. In the cell-free degradation assay, the degradation of GST-PYL9 was accelerated in protein extract from plants overexpressing PUB22 but slowed down in protein extract from the pub22 pub23 double mutant. The in vivo decay of Myc-PYL9 was significantly reduced in the pub22 pub23 double mutant as compared with the wild-type. Additionally, PUB22 also interacted with other ABA receptors such as PYL5, PYL7 and PYL8. Considering the improved drought tolerance in the pub22 pub23 double mutant in previous studies, our results suggest that PUB22 and PUB23 negatively regulate drought tolerance in part by facilitating ABA receptors degradation.",
+      "mesh_terms": [
+        "Adaptation, Biological",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Carrier Proteins",
+        "Droughts",
+        "Gene Expression",
+        "Intracellular Signaling Peptides and Proteins",
+        "Osmotic Pressure",
+        "Phenotype",
+        "Proteasome Endopeptidase Complex",
+        "Protein Binding",
+        "Protein Stability",
+        "Proteolysis",
+        "Stress, Physiological",
+        "Ubiquitin-Protein Ligases"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

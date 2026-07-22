@@ -1,0 +1,521 @@
+{
+  "term": "(\"Os07g0694700\"[Title/Abstract] OR \"APX2\"[Title/Abstract] OR \"OsAPX2\"[Title/Abstract] OR \"APXb\"[Title/Abstract] OR \"L-ASCORBATE PEROXIDASE 2\"[Title/Abstract] OR \"ascorbate peroxidase 2\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "29907832",
+    "22848448",
+    "39316915",
+    "38465246",
+    "29549445",
+    "14644501",
+    "40668260",
+    "23468992",
+    "25048895",
+    "33753194",
+    "41559540",
+    "38279284",
+    "15685422",
+    "17916638",
+    "36574073",
+    "26197316",
+    "31400771",
+    "35986244",
+    "26419216",
+    "37514345"
+  ],
+  "records": [
+    {
+      "pmid": "29907832",
+      "title": "Functional switching of ascorbate peroxidase 2 of rice (OsAPX2) between peroxidase and molecular chaperone.",
+      "pubdate": "2018 Jun 15",
+      "source": "Sci Rep",
+      "authors": "Hong SH, Tripathi BN, Chung MS, Cho C, Lee S, Kim JH, Bai HW, Bae HJ, Cho JY, Chung BY",
+      "elocationid": "doi: 10.1038/s41598-018-27459-1",
+      "abstract": "Ascorbate peroxidase (APX) is a class I haem-containing peroxidase, which catalyses the conversion of H2O2 to H2O and O2 using ascorbate as the specific electron donor. APX plays a central role in the elimination of intracellular reactive oxygen species (ROS) and protects plants from the oxidative damage that can occur as a result of biotic and abiotic stresses. At present, the only known function of APX is as a peroxidase. However, in this study, we demonstrate that Oryza sativa APX2 also operates as a molecular chaperone in rice. The different functions of OsAPX2 correlate strongly with its structural conformation. The high-molecular-weight (HMW) complexes had chaperone activity, whereas the low-molecular-weight (LMW) forms displayed predominantly APX activity. The APX activity was effectively inhibited by sodium azide, which is an inhibitor of haem-containing enzymes, but this did not affect the protein's activity as a chaperone. Additionally, the OsAPX2 conformational changes could be regulated by salt and heat stresses and these stimulated OsAPX2 dissociation and association, respectively. Our results provide new insight into the roles of APXs.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Heat-Shock Response",
+        "Molecular Chaperones",
+        "Oryza",
+        "Plant Proteins",
+        "Salt Stress"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "22848448",
+      "title": "Genetic transformation and analysis of rice OsAPx2 gene in Medicago sativa.",
+      "pubdate": "2012",
+      "source": "PLoS One",
+      "authors": "Guan Q, Takano T, Liu S",
+      "elocationid": "doi: 10.1371/journal.pone.0041233",
+      "abstract": "The OsAPx2 gene from rice was cloned to produce PBI121::OsAPx2 dual-expression plants, of which expression level would be increasing under stressful conditions. The enzyme ascorbate peroxidase (APX) in the leaves and roots of the plants increased with increasing exposure time to different sodium chloride (NaCl) and hydrogen peroxide (H(2)O(2))concentrations, as indicated by protein gel blot analysis. The increased enzyme yield improved the ability of the plants to resist the stress treatments. The OsAPx2 gene was localized in the cytoplasm of epidermal onion cells as indicated by the instantaneous expression of green fluorescence. An 80% regeneration rate was observed in Medicago sativa L. plants transformed with the OsAPx2 gene using Agrobacterium tumefaciens, as indicated by specific primer PCR. The OsAPx2 gene was expressed at the mRNA level and the individual M. sativa (T#1,T#2,T#5) were obtained through assaying the generation of positive T2 using RNA gel blot analysis. When the seeds of the wild type (WT) and the T2 (T#1,T#5) were incubated in culture containing MS with NaCl for 7 days, the results as shown of following: the root length of transgenic plant was longer than WT plants, the H(2)O(2) content in roots of WT was more than of transgenic plants, the APX activity under stresses increased by 2.89 times compared with the WT, the malondialdehyde (MDA) content of the WT was higher than the transgenic plants, the leaves of the WT turned yellow, but those of the transgenic plants remained green and remained healthy. The chlorophyll content in the WT leaves was less than in the transgenic plants, after soaking in solutions of H(2)O(2), sodium sulfite (Na(2)SO(3)), and sodium bicarbonate (NaHCO(3)). Therefore, the OsAPx2 gene overexpression in transgenic M. sativa improves the removal of H(2)O(2) and the salt-resistance compared with WT plants. A novel strain of M. sativa carrying a salt-resistance gene was obtained.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Genes, Plant",
+        "Hydrogen Peroxide",
+        "Medicago sativa",
+        "Oryza",
+        "Oxidants",
+        "Plant Leaves",
+        "Plant Proteins",
+        "Plant Roots",
+        "Plants, Genetically Modified",
+        "Seeds",
+        "Stress, Physiological",
+        "Transformation, Genetic"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39316915",
+      "title": "Ammonium mitigates cadmium toxicity by activating the bZIP20-APX2/CATA transcriptional module in rice seedlings in an ABA-dependent manner.",
+      "pubdate": "2024 Dec 5",
+      "source": "J Hazard Mater",
+      "authors": "Di DW, Li TT, Yu ZL, Cheng J, Wang M, Liu CF, Wang Y, Kronzucker HJ, Yu M, Shi W",
+      "elocationid": "doi: 10.1016/j.jhazmat.2024.135874",
+      "abstract": "The amelioration of cadmium (Cd2+) toxicity in plants by ammonium (NH4+) has been widely investigated. However, the molecular mechanisms underpinning this amelioration have remained ambiguous. Here, we found that NH4+ significantly reduces Cd2+ accumulation and enhances antioxidant capacity by increasing ABA accumulation, which, in turn, improves Cd2+ tolerance in rice seedlings. A combination of qPCR, yeast-one-hybrid and dual-luciferase assays, and CUT&RUN-qPCR methods demonstrates that OsbZIP20 directly binds to the promoters of OsAPX2 and OsCATA, activating their transcription, and we show that the process requires phosphorylation modification of OsbZIP20 by OsSAPK9. Under Cd2+ stress, Osbzip20 and Ossapk9 mutants show reduced peroxidase and catalase activities, higher H2O2 accumulation, and reduced Cd2+ tolerance. In sum, our results elucidate a novel mechanism by which NH4+ enhances Cd2+ resistance, through ABA-SAPK9-bZIP20-APX2/CATA, offering a new strategy for improving Cd2+ resistance in rice.",
+      "mesh_terms": [
+        "Oryza",
+        "Cadmium",
+        "Abscisic Acid",
+        "Seedlings",
+        "Plant Proteins",
+        "Ammonium Compounds",
+        "Gene Expression Regulation, Plant",
+        "Basic-Leucine Zipper Transcription Factors",
+        "Hydrogen Peroxide"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38465246",
+      "title": "Ascorbate-glutathione cycle in wheat and rice seedlings under anoxia and subsequent reaeration.",
+      "pubdate": "2024 Feb",
+      "source": "Vavilovskii Zhurnal Genet Selektsii",
+      "authors": "Yemelyanov VV, Prikaziuk EG, Lastochkin VV, Aresheva OM, Chirkova TV",
+      "elocationid": "doi: 10.18699/vjgb-24-06",
+      "abstract": "The most important part of the plant antioxidant system is the ascorbate-glutathione cycle (AGC), the activity of which is observed upon exposure to a range of stressors, including lack of O2, and oxidative stress occurring immediately after the restoration of oxygen access, hereafter termed reaeration or post-anoxia. The operation of the AGC (enzymes and low-molecular components) in wheat (Triticum aestivum, cv. Leningradka, non-resistant to hypoxia) and rice (Oryza sativa, cv. Liman, resistant) seedlings after 24 h anoxia and 1 h or 24 h reaeration was studied. Significant accumulation of oxidized forms of ascorbate and glutathione was revealed in the non-resistant plant (wheat) after 24 h of anoxia and reaeration, indicating the development of oxidative stress. In the resistant plant (rice), reduced forms of these antioxidants prevailed both in normoxia and under stress, which may indicate their intensive reduction. In wheat, the activities of ascorbate peroxidase and dehydroascorbate reductase in shoots, and monodehydroascorbate reductase and glutathione reductase in roots decreased under anoxia and reaeration. The activity of antioxidant enzymes was maintained in rice under lack of oxygen (ascorbate peroxidase, glutathione reductase) and increased during post-anoxia (AGC reductases). Anoxia stimulated accumulation of mRNA of the organellar ascorbate peroxidase genes OsAPX3, OsAPX5 in shoots, and OsAPX3-5 and OsAPX7 in roots. At post-anoxia, the contribution of the OsAPX1 and OsAPX2 genes encoding the cytosolic forms of the enzyme increased in the whole plant, and so did that of the OsAPX8 gene for the plastid form of the enzyme. The accumulation of mRNA of the genes OsMDAR2 and OsMDAR4 encoding peroxisomal and cytosolic monodehydroascorbate reductase as well as the OsGR2 and OsGR3 for cytosolic and organellar glutathione reductase was activated during reaeration in shoots and roots. In most cases, O2 deficiency activated the genes encoding the peroxisomal, plastid, and mitochondrial forms of the enzymes, and upon reaeration, an enhanced activity of the genes encoding the cytoplasmic forms was observed. Taken together, the inactivation of AGC enzymes was revealed in wheat seedlings during anoxia and subsequent reaeration, which disrupted the effective operation of the cycle and triggered the accumulation of oxidized forms of ascorbate and glutathione. In rice, anoxia led to the maintenance of the activity of AGC enzymes, and reaeration stimulated it, including at the level of gene expression, which ensured the effective operation of AGC.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "29549445",
+      "title": "Cytosolic APX2 is a pleiotropic protein involved in H(2)O(2) homeostasis, chloroplast protection, plant architecture and fertility maintenance.",
+      "pubdate": "2018 Jun",
+      "source": "Plant Cell Rep",
+      "authors": "Wu B, Li L, Qiu T, Zhang X, Cui S",
+      "elocationid": "doi: 10.1007/s00299-018-2272-y",
+      "abstract": "Rice cytoplasmic APX2 is a pleiotropic protein, densely distributed around chloroplasts. It plays key roles in H2O2 homeostasis and chloroplast protection, and is related to plant architecture and fertility regulation. Ascorbate peroxidases (APXs) catalyze the conversion of H2O2 into H2O. In this report, we systematically investigated the function of cytosolic APX2 using a T-DNA knockout mutant. Loss of OsAPX2 altered rice architecture including shoot height and leaf inclination, resulting in shoot dwarfing, leaf dispersion and fertility decline. Sixty-five differentially expressed proteins were identified in flag leaves of the milk-ripe stage, mainly involved in photosynthesis, glycolysis and TCA cycle, redox homeostasis, and defense. The absence of APX2 severely impacted the stability of chloroplast proteins, and dramatically reduced their expression levels. Subcellular localization showed that APX2 was enriched around each chloroplast to form a high concentration sphere, highlighting chloroplasts as key targets protected by the protein. Accumulation of H2O2 was suppressed in the KO-APX2 mutant, which may benefit from increased CAT activity and functional complementation of APX family members. Unexpectedly, the accumulation of soluble sugar, especially sucrose increased significantly, suggesting that APX2 was involved in regulation of sugar metabolism. Obviously, roles of the cytosolic APX2 are very profound and complex in rice. It can be concluded that the cytosolic APX2 is a pleiotropic protein and an important regulator in ROS homeostasis, chloroplast protection, carbohydrate metabolism as well as plant architecture and fertility maintenance.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Carbohydrate Metabolism",
+        "Chloroplasts",
+        "Cytosol",
+        "Homeostasis",
+        "Hydrogen Peroxide",
+        "Oryza",
+        "Oxidation-Reduction",
+        "Photosynthesis",
+        "Plant Proteins",
+        "Reproduction"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "14644501",
+      "title": "Importance of ascorbate peroxidases OsAPX1 and OsAPX2 in the rice pathogen response pathways and growth and reproduction revealed by their transcriptional profiling.",
+      "pubdate": "2003 Dec 11",
+      "source": "Gene",
+      "authors": "Agrawal GK, Jwa NS, Iwahashi H, Rakwal R",
+      "elocationid": "",
+      "abstract": "We have identified and characterized two rice ascorbate peroxidase (OsAPX1 and OsAPX2) genes against diverse signals known to involve in defense/stress responses, using \"2-week-old rice seedling in vitro model system\". Oryza sativa ascorbate peroxidase 1 and 2 (OsAPX1/2) share 83% similarity to each other at amino acid level and belong to a small gene family in the rice genome. OsAPX1/2 show a weak constitutive expression in leaves. Their transcripts were up-regulated upon wounding (by cut), and diverse signals such as salicylic acid (SA), ethylene (using the ethylene generator, ethephon), abscisic acid (ABA), hydrogen peroxide, copper sulfate, protein phosphatase (PP) inhibitors, cantharidin (CN), endothall (EN) and okadaic acid (OA), and blast pathogen (Magnaporthe grisea) attack, but surprisingly not by jasmonic acid (JA). Interestingly, the OsAPX2 inductions were more potent and rapid than OsAPX1, whose expression increased gradually with time. These inductions were influenced by light signal(s), and showed requirement for certain de novo synthesized protein factor(s). Intriguingly, OsAPX1/2 mRNAs expression manifested a clear rhythmicity under light/dark cycle. Differential regulation of the OsAPX1/2 expressions by diverse environmental cues, including pathogen, and their developmental regulation in both young and reproductive stages strongly suggests their role in stress-signaling pathways and development in rice.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Ascorbate Peroxidases",
+        "Circadian Rhythm",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Developmental",
+        "Gene Expression Regulation, Enzymologic",
+        "Gene Expression Regulation, Plant",
+        "Isoenzymes",
+        "Magnaporthe",
+        "Molecular Sequence Data",
+        "Oryza",
+        "Peroxidases",
+        "Phylogeny",
+        "Plant Diseases",
+        "RNA, Messenger",
+        "Reproduction",
+        "Sequence Homology, Amino Acid",
+        "Signal Transduction",
+        "Transcription, Genetic"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40668260",
+      "title": "TaCIPK19-3D Improves Photosynthetic Machinery, Growth, Yield, and Salt Tolerance in Transgenic Rice.",
+      "pubdate": "2025 Jul 16",
+      "source": "Rice (N Y)",
+      "authors": "Arif M, Hong D, Xu R, Chen MX, Rehman HM, Wang Z, Li L",
+      "elocationid": "doi: 10.1186/s12284-025-00827-y",
+      "abstract": "Calcineurin B-like interacting protein kinases (CIPKs) are central regulators of plant development and stress adaptation. However, the specific roles of individual CIPK family members remain largely unexplored in major crops like wheat and rice. In this study, we characterized the function of TaCIPK19-3D through overexpression in transgenic rice and CRISPR-Cas9-mediated oscipk19 knockout lines. Expression profiling and subcellular localization analyses revealed that TaCIPK19-3D is associated with chloroplast development and metabolic activity. Overexpression lines exhibited enhanced chloroplast structure, increased chlorophyll biosynthesis, stomatal conductance, net photosynthetic rate, transpiration, and elevated levels of K⁺/Na⁺, Ca²⁺, and Mg²⁺, resulting in improved growth and yield compared to wild-type and mutant lines. Notably, TaCIPK19-3D overexpression conferred increased salt tolerance by upregulating ABA signaling, antioxidant responses, and proline biosynthesis. Key genes involved in chlorophyll synthesis (OsCAO, OsCHLH) and salt stress responses (OsAPX2, OsP5CS, OsABA2) were significantly upregulated in transgenic plants. Protein interaction studies using yeast two-hybrid and bimolecular fluorescence complementation (BiFC) assays demonstrated that TaCIPK19-3D interacts with TaFBA-4D and four CBL proteins (TaCBL1, TaCBL3, TaCBL4, and TaCBL7). Collectively, our findings reveal that TaCIPK19-3D positively regulates photosynthesis, ion homeostasis, and stress-responsive signaling pathways, highlighting its potential for improving crop productivity and stress resilience in wheat and rice.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "23468992",
+      "title": "Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses.",
+      "pubdate": "2013",
+      "source": "PLoS One",
+      "authors": "Zhang Z, Zhang Q, Wu J, Zheng X, Zheng S, Sun X, Qiu Q, Lu T",
+      "elocationid": "doi: 10.1371/journal.pone.0057472",
+      "abstract": "Plant ascorbate peroxidases (APXs), enzymes catalyzing the dismutation of H2O2 into H2O and O2, play an important role in reactive oxygen species homeostasis in plants. The rice genome has eight OsAPXs, but their physiological functions remain to be determined. In this report, we studied the function of OsAPX2 gene using a T-DNA knockout mutant under the treatment of drought, salt and cold stresses. The Osapx2 knockout mutant was isolated by a genetic screening of a rice T-DNA insertion library under 20% PEG-2000 treatment. Loss of function in OsAPX2 affected the growth and development of rice seedlings, resulting in semi-dwarf seedlings, yellow-green leaves, leaf lesion mimic and seed sterility. OsAPX2 expression was developmental- and spatial-regulated, and was induced by drought, salt, and cold stresses. Osapx2 mutants had lower APX activity and were sensitive to abiotic stresses; overexpression of OsAPX2 increased APX activity and enhanced stress tolerance. H2O2 and MDA levels were high in Osapx2 mutants but low in OsAPX2-OX transgenic lines relative to wild-type plants after stress treatments. Taken together, the cytosolic ascorbate peroxidase OsAPX2 plays an important role in rice growth and development by protecting the seedlings from abiotic stresses through scavenging reactive oxygen species.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Base Sequence",
+        "Cytosol",
+        "DNA Primers",
+        "Droughts",
+        "Gene Expression Profiling",
+        "Gene Knockdown Techniques",
+        "Malondialdehyde",
+        "Mutation",
+        "Oryza",
+        "Real-Time Polymerase Chain Reaction",
+        "Stress, Physiological"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "25048895",
+      "title": "Physiological and molecular level effects of silver nanoparticles exposure in rice (Oryza sativa L.) seedlings.",
+      "pubdate": "2014 Oct",
+      "source": "Chemosphere",
+      "authors": "Nair PM, Chung IM",
+      "elocationid": "doi: 10.1016/j.chemosphere.2014.03.056",
+      "abstract": "The physiological and molecular level changes of silver nanoparticles (AgNPs) exposure were investigated in rice (Oryza sativa L.) seedlings. The seedlings were exposed to different concentrations of (0, 0.2, 0.5 and 1 mg L(-1)) AgNPs for one week. Significant reduction in root elongation, shoot and root fresh weights, total chlorophyll and carotenoids contents were observed. Exposure to 0.5 and 1 mg L(-1) of AgNPs caused significant increase in hydrogen peroxide formation and lipid peroxidation in shoots and roots, increased foliar proline accumulation and decreased sugar contents. AgNPs exposure resulted in a dose dependant increase in reactive oxygen species generation and also caused cytotoxicity as evidenced by increased dihydroethidium, 3'-(p-hydroxyphenyl) fluorescein and propidium iodide fluorescence. Tetramethylrhodamine methyl ester assay showed decreased mitochondrial membrane potential with increasing concentrations of AgNPs exposure in roots. Real Time PCR analysis showed differential transcription of genes related to oxidative stress tolerance viz. FSD1, MSD1, CSD1, CSD2, CATa, CATb, CATc, APXa and APXb in shoots and roots of rice seedlings. The overall results suggest that exposure to AgNPs caused significant physiological and molecular level changes, oxidative stress and also resulted in the induction oxidative stress tolerance mechanisms in rice seedlings.",
+      "mesh_terms": [
+        "Carbohydrate Metabolism",
+        "Carotenoids",
+        "Chlorophyll",
+        "Dose-Response Relationship, Drug",
+        "Gene Expression Regulation, Plant",
+        "Hydrogen Peroxide",
+        "Lipid Peroxidation",
+        "Nanoparticles",
+        "Oryza",
+        "Oxidative Stress",
+        "Proline",
+        "Reactive Oxygen Species",
+        "Seedlings",
+        "Silver",
+        "Toxicity Tests"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33753194",
+      "title": "Characteristics of starch from rice seeds modified by T-DNA insertion of ascorbate peroxidase 2.",
+      "pubdate": "2021 Jun 1",
+      "source": "Int J Biol Macromol",
+      "authors": "Wu B, Xie C, Zhang Q, Wang B, Liu W",
+      "elocationid": "doi: 10.1016/j.ijbiomac.2021.03.099",
+      "abstract": "Starch is the main storage carbohydrate in rice seed. The amylose and amylopectin content differ among varieties. A transgenic rice line was obtained by T-DNA insertion of ascorbate peroxidase 2 (apx2), resulting in decrease of thousand kernel weight. In this study, starches were isolated from apx2 and wild type seeds. Morphology, physical and chemical properties of starch granules were analyzed. The seed micro-surface in apx2 showed distinct textures, compared with that of wild type. The morphology of starch granules in apx2 exhibited irregular shapes, while the wild type starch granules presented regular polyhedral shapes. Additionally, the length and width of starch granules in apx2 were significantly decreased, compared with that of wild type. Further analysis found that apx2 starch showed low crystallinity and high amylose with the methods of X-ray diffraction pattern, iodine binding and blue value analysis, fourier transform infrared (FT-IR) spectrum and thermogravimetric investigation. This study broadened our knowledge of relationship between antioxidant enzyme and rice seed starch formation.",
+      "mesh_terms": [
+        "Amylopectin",
+        "Amylose",
+        "Ascorbate Peroxidases",
+        "DNA, Bacterial",
+        "Iodine",
+        "Microscopy, Electron, Scanning",
+        "Mutagenesis, Insertional",
+        "Oryza",
+        "Plants, Genetically Modified",
+        "Seeds",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Starch",
+        "Surface Properties",
+        "Thermogravimetry",
+        "X-Ray Diffraction"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41559540",
+      "title": "Transcriptome and metabolome analyses reveal the roles of APX2 in regulating tiller growth and metabolism in rice (Oryza sativa L.).",
+      "pubdate": "2026 Jan 21",
+      "source": "BMC Genomics",
+      "authors": "Liu X, Wang L, Qiu P, Wu B, Liu W",
+      "elocationid": "doi: 10.1186/s12864-026-12557-6",
+      "abstract": "BACKGROUND: Tiller angle, a key determinant of plant architecture in rice (Oryza sativa), critically influences photosynthetic efficiency and grain yield potential. Nevertheless, the molecular mechanisms that regulate tiller angle remain poorly characterized. As a central component of the ascorbate-glutathione cycle, ascorbate peroxidase (APX) scavenges reactive oxygen species (ROS) and maintains cellular redox homeostasis, thereby modulating diverse growth and developmental processes in plants. Despite its established pleiotropic functions, the specific role of OsAPX2 in controlling tiller angle in rice has yet to be elucidated. RESULTS: Here, we employed an integrated transcriptomic and metabolomics analyses to elucidate the role of OsAPX2 in regulating rice tiller angle. Comparative analysis revealed 1,473 differentially expressed genes (DEGs) in the apx2 mutant, with significant enrichment in 23 pathways including starch and sucrose metabolism, plant-pathogen interaction, and plant hormone signal transduction. Concurrently, OsAPX2 deletion perturbed the metabolome, leading to significant accumulation changes in 34 metabolites (15 increased, 19 decreased). Moreover, the results of co-expression analysis showed that the interactions of identified DEGs and DEMs diversely involved in starch and sucrose metabolism, pentose phosphate pathway, amino sugar and nucleotide sugar metabolism, indicating that OsAPX2 may be involved in the regulation of these processes during tillering stage. CONCLUSION: The results indicated that a loss-of-function mutation in OsAPX2 increased the tiller angle by (i) enhancement of the starch and sucrose metabolism, (ii) promotion of plant hormone signal transduction pathways. This study provided new mechanistic insight into how this pleiotropic regulator modulated carbohydrate metabolism and plant hormone signal transduction pathways that specifically link ROS signaling to tiller angle.",
+      "mesh_terms": [
+        "Oryza",
+        "Metabolome",
+        "Gene Expression Regulation, Plant",
+        "Transcriptome",
+        "Plant Proteins",
+        "Gene Expression Profiling",
+        "Metabolomics",
+        "Ascorbate Peroxidases"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "38279284",
+      "title": "RNAi-Mediated Suppression of OsBBTI5 Promotes Salt Stress Tolerance in Rice.",
+      "pubdate": "2024 Jan 20",
+      "source": "Int J Mol Sci",
+      "authors": "Lin Z, Yi X, Ali MM, Zhang L, Wang S, Tian S, Chen F",
+      "elocationid": "doi: 10.3390/ijms25021284",
+      "abstract": "This study explores the impact of RNAi in terms of selectively inhibiting the expression of the OsBBTI5 gene, with the primary objective of uncovering its involvement in the molecular mechanisms associated with salt tolerance in rice. OsBBTI5, belonging to the Bowman-Birk inhibitor (BBI) family gene, is known for its involvement in plant stress responses. The gene was successfully cloned from rice, exhibiting transcriptional self-activation in yeast. A yeast two-hybrid assay confirmed its specific binding to OsAPX2 (an ascorbate peroxidase gene). Transgenic OsBBTI5-RNAi plants displayed insensitivity to varying concentrations of 24-epibrassinolide in the brassinosteroid sensitivity assay. However, they showed reduced root and plant height at high concentrations (10 and 100 µM) of GA3 immersion. Enzyme activity assays revealed increased peroxidase (POD) and superoxide dismutase (SOD) activities and decreased malondialdehyde (MDA) content under 40-60 mM NaCl. Transcriptomic analysis indicated a significant upregulation of photosynthesis-related genes in transgenic plants under salt stress compared to the wild type. Notably, this study provides novel insights, suggesting that the BBI gene is part of the BR signaling pathway, and that OsBBTI5 potentially enhances stress tolerance in transgenic plants through interaction with the salt stress-related gene OsAPX2.",
+      "mesh_terms": [
+        "Salt Tolerance",
+        "Oryza",
+        "RNA Interference",
+        "Salt Stress",
+        "Peroxidases",
+        "Plants, Genetically Modified",
+        "Gene Expression Regulation, Plant",
+        "Stress, Physiological",
+        "Plant Proteins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "15685422",
+      "title": "Purification and characterization of two ascorbate peroxidases of rice (Oryza sativa L.) expressed in Escherichia coli.",
+      "pubdate": "2005 Jan",
+      "source": "Biotechnol Lett",
+      "authors": "Lu Z, Takano T, Liu S",
+      "elocationid": "",
+      "abstract": "To clarify the diversity and function of isozymes of ascorbate peroxidase (APX) in plants, a method of producing large quantities of these proteins is needed. Here, we describe an Escherichia coli expression system for the rapid and economic expression of two rice APX genes, APXa and APXb (GeneBank accession Nos. D45423 and AB053297, respectively). The two genes were cloned into the pGEX-6p-3 vector to allow expression of APX as a glutathione-S-transferase (GST) fusion protein. The GST-APXa and GST-APXb fusion proteins were purified by affinity chromatography using a glutathione-Sepharose 4B column, with final yields of 40 and 73 mg g(-1) dry cells, respectively. Specific activities were 15 and 20 mM ascorbate min(-1) mg(-1) protein, respectively. The K(m) values for ascorbate were 4 and 1 mM, respectively, and those for H(2)O(2) were 0.3 and 0.7 mM, respectively indicating that the two rice isoenzymes have different properties.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Base Sequence",
+        "Chromatography, Affinity",
+        "DNA Primers",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Escherichia coli",
+        "Glutathione Transferase",
+        "Isoenzymes",
+        "Molecular Sequence Data",
+        "Oryza",
+        "Peroxidases",
+        "Recombinant Proteins"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "17916638",
+      "title": "Expression of ASCORBATE PEROXIDASE 8 in roots of rice (Oryza sativa L.) seedlings in response to NaCl.",
+      "pubdate": "2007",
+      "source": "J Exp Bot",
+      "authors": "Hong CY, Hsu YT, Tsai YC, Kao CH",
+      "elocationid": "",
+      "abstract": "Reactive oxygen species are thought to play an important role in NaCl stress. Therefore, the expression patterns of the gene family encoding the H(2)O(2)-scavenging enzyme ascorbate peroxidase (APx; EC1.11.1.11) were analysed in roots of etiolated rice (Oryza sativa L.) seedlings in response to NaCl stress. Applying semi-quantitative RT-PCR, the mRNA levels were quantified for two cytosolic (OsAPx1 and OsAPx2), two peroxisomal (OsAPx3 and OsAPx4), and four chloroplastic (OsAPx5, OsAPx6, OsAPx7, and OsAPx8) isoforms identified in the rice genome. NaCl at 150 mM and 200 mM increased the expression of OsAPx8 and the activities of APx, but had no effect on the expression of OsAPx1, OsAPx2, OsAPx3, OsAPx4, OsAPx5, OsAPx6, and OsAPx7 in rice roots. However, NaCl at 300 mM up-regulated OsAPx8 expression, increased APx activity, and down-regulated OsAPx7 expression, but had no effect on the expression of OsAPx1, OsAPx2, OsAPx3, OsAPx4, OsAPx5, and OsAPx6. The accumulation of abscisic acid (ABA) in response to NaCl was observed in rice roots. Exogenously applied ABA also specifically enhanced the expression of OsAPx8 in rice roots. The accumulation of ABA in rice roots in response to NaCl was inhibited by fluridone (Flu), an inhibitor of carotenoid biosynthesis. Flu treatment also suppressed NaCl-enhanced OsAPx8 expression and APx activity. The effect of Flu on the expression of OsAPx8 and increase in APx activity was reversed by the application of ABA. It appears that NaCl-enhanced expression of OsAPx8 in rice roots is mediated through an accumulation of ABA. Evidence is provided to show that Na(+) but not Cl(-) is required for enhancing OsAPx8 expression, APx activity, and ABA accumulation in rice roots treated with NaCl. H(2)O(2) treatment resulted in an enhancement of OsAPx8 induction but no accumulation of ABA. Diphenylene iodonium treatment, which is known to inhibit NaCl-induced accumulation of H(2)O(2) in rice roots, did not suppress OsAPx8 induction and ABA accumulation by NaCl. It appears that H(2)O(2) is not involved in the regulation of NaCl-induced OsAPx8 expression in rice roots.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Base Sequence",
+        "DNA Primers",
+        "Gene Expression Regulation, Enzymologic",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Oryza",
+        "Peroxidases",
+        "Plant Roots",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "Sodium Chloride"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36574073",
+      "title": "OsSAP6 Positively Regulates Soda Saline-Alkaline Stress Tolerance in Rice.",
+      "pubdate": "2022 Dec 27",
+      "source": "Rice (N Y)",
+      "authors": "Zhu F, Wang K, Li D, Liu Z, Li M, Wang Z, Li X, Lan X, Guan Q",
+      "elocationid": "doi: 10.1186/s12284-022-00616-x",
+      "abstract": "BACKGROUND: Soil salinization is a worldwide environmental problem, especially in the arid and semiarid regions of northeastern China, which are heavily affected by soda saline-alkaline stress. At present, there is an urgent need to improve the soda saline-alkaline stress tolerance of rice. RESULTS: Stress-associated proteins are involved in regulating the abiotic stresses in plants. There are 18 members of the rice stress-associated protein (OsSAP) gene family. In this study, the expression levels of OsSAP6 in leaves and roots were upregulated with increasing NaHCO3 stress duration. OsSAP6 was located in nucleus and cytoplasm. The bud length and total root length of OsSAP6 overexpression rice were significantly longer than those of Lj11 (Oryza sativa longjing11) during germination stage, and the survival rates, plant height and malondialdehyde content at the seedling stage showed tolerance growth of saline-alkaline stress. The expression of OsCu/Zn-SOD, OsAPX2, and OsCAT1 in transgenic lines was increased significantly under SAE (soda saline-alkali soil eluent) stress. OsSAP6 interacts with OsPK5 according to yeast two-hybrid screening and luciferase complementation experiments. The expression of OsPK5 increased under NaHCO3 and H2O2 stress, and the overexpression of OsPK5 in rice improved soda saline-alkaline tolerance. CONCLUSION: Overexpression of OsSAP6 in rice significantly enhanced saline-alkaline tolerance compared with the wild type. It is speculated that OsSAP6 responds to soda salinity stress and interacts with OsPK5 to positively regulate soda saline-alkaline tolerance through ROS homeostasis. This study revealed the features of OsSAP6 involved in response to soda saline-alkaline stress and the interaction with OsPK5, which provided resources for breeding aimed at improving the soda saline-alkaline stress tolerance of rice.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26197316",
+      "title": "Differential Antioxidant Responses and Perturbed Porphyrin Biosynthesis after Exposure to Oxyfluorfen and Methyl Viologen in Oryza sativa.",
+      "pubdate": "2015 Jul 21",
+      "source": "Int J Mol Sci",
+      "authors": "Pham NT, Kim JG, Jung S",
+      "elocationid": "doi: 10.3390/ijms160716529",
+      "abstract": "We compared antioxidant responses and regulation of porphyrin metabolism in rice plants treated with oxyfluorfen (OF) or methyl viologen (MV). Plants treated with MV exhibited not only greater increases in conductivity and malondialdehyde but also a greater decline in Fv/Fm, compared to plants treated with OF. MV-treated plants had greater increases in activities of superoxide dismutase (SOD) and catalase (CAT) as well as transcript levels of SODA and CATA than OF-treated plants after 28 h of the treatments, whereas increases in ascorbate peroxidase (APX) activity and transcript levels of APXA and APXB were greater in OF-treated plants. Both OF- and MV-treated plants resulted in not only down-regulation of most genes involved in porphyrin biosynthesis but also disappearance of Mg-porphyrins during the late stage of photooxidative stress. By contrast, up-regulation of heme oxygenase 2 (HO2) is possibly part of an efficient antioxidant response to compensate photooxidative damage in both treatments. Our data show that down-regulated biosynthesis and degradation dynamics of porphyrin intermediates have important roles in photoprotection of plants from perturbed porphyrin biosynthesis and photosynthetic electron transport. This study suggests that porphyrin scavenging as well as strong antioxidative activities are required for mitigating reactive oxygen species (ROS) production under photooxidative stress caused by OF and MV.",
+      "mesh_terms": [
+        "Ascorbate Peroxidases",
+        "Catalase",
+        "Down-Regulation",
+        "Halogenated Diphenyl Ethers",
+        "Heme Oxygenase (Decyclizing)",
+        "Herbicides",
+        "Oryza",
+        "Oxidative Stress",
+        "Paraquat",
+        "Plant Proteins",
+        "Porphyrins",
+        "Reactive Oxygen Species",
+        "Superoxide Dismutase"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "31400771",
+      "title": "Altered regulation of porphyrin biosynthesis and protective responses to acifluorfen-induced photodynamic stress in transgenic rice expressing Bradyrhizobium japonicum Fe-chelatase.",
+      "pubdate": "2019 Sep",
+      "source": "Pestic Biochem Physiol",
+      "authors": "Tran BQ, Tran LH, Kim SJ, Jung S",
+      "elocationid": "doi: 10.1016/j.pestbp.2019.05.017",
+      "abstract": "We examined the molecular regulation of porphyrin biosynthesis and protective responses in transgenic rice (Oryza sativa) expressing Bradyrhizobium japonicum Fe-chelatase (BjFeCh) after treatment with acifluorfen (AF). During the photodynamic stress imposed by AF, transcript levels of BjFeCh in transgenic plants increased greatly; moreover, transcript levels of OsFeCh2 remained almost constant, whereas in wild type (WT) plants they were considerably down-regulated. In the heme branch, transgenic plants exhibited greater levels of OsFC and HO transcripts than WT plants in the untreated stems as well as in the AF-treated leaves and stems. Both WT and transgenic plants treated with AF substantially decreased transcript levels for all the genes in the chlorophyll branch, with less decline in transgenic plants. After AF treatment, ascorbate (Asc) content and the redox Asc state greatly decreased in leaves of WT plants; however, in transgenic plants both parameters remained constant in leaves and the Asc redox state increased by 20% in stems. In response to AF, the leaves of WT plants greatly up-regulated CatA, CatB, and GST compared to those of transgenic plants, whereas, in the stems, transgenic plants showed higher levels of CatA, CatC, APXb, BCH, and VDE. Photochemical quenching, qP, was considerably dropped by 31% and 18% in WT and transgenic plants, respectively in response to AF, whereas non-radiative energy dissipation through non-photochemical quenching increased by 77% and 38% in WT and transgenic plants, respectively. Transgenic plants treated with AF exhibited higher transcript levels of nucleus-encoded photosynthetic genes, Lhcb1 and Lhcb6, as well as levels of Lhcb6 protein compared to those of WT plants. Our study demonstrates that expression of BjFeCh in transgenic plants influences not only the regulation of porphyrin biosynthesis through maintaining higher levels of gene expression in the heme branch, but also the Asc redox function during photodynamic stress caused by AF.",
+      "mesh_terms": [
+        "Bacterial Proteins",
+        "Bradyrhizobium",
+        "Ferrochelatase",
+        "Gene Expression Regulation, Plant",
+        "Nitrobenzoates",
+        "Oryza",
+        "Oxidative Stress",
+        "Plants, Genetically Modified",
+        "Porphyrins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "35986244",
+      "title": "A maize heat shock factor ZmHsf11 negatively regulates heat stress tolerance in transgenic plants.",
+      "pubdate": "2022 Aug 20",
+      "source": "BMC Plant Biol",
+      "authors": "Qin Q, Zhao Y, Zhang J, Chen L, Si W, Jiang H",
+      "elocationid": "doi: 10.1186/s12870-022-03789-1",
+      "abstract": "BACKGROUND: Heat shock transcription factors (Hsfs) are highly conserved among eukaryote and always play vital role in plant stress responses. Whereas, function and mechanism of Hsfs in maize are limited. RESULTS: In this study, an HSF gene ZmHsf11, a member of class B Hsfs, was cloned from maize, and it was up-regulated under heat treatment. ZmHsf11 was a nuclear protein with no transcriptional autoactivation activity in yeast. Overexpression of ZmHsf11 gene in Arabidopsis and rice significantly reduced the survival rate under heat shock treatment and decreased ABA sensitivity of transgenic plants. Under heat stress, transgenic rice accumulated more H2O2, increased cell death, and decreased proline content compared with wild type. In addition, RT-qPCR analysis revealed that ZmHsf11 negatively regulated some oxidative stress-related genes APX2, DREB2A, HsfA2e, NTL3, GR and HSP17 under heat stress treatment. CONCLUSIONS: Our results indicate that ZmHsf11 decreases plant tolerance to heat stress by negatively regulating the expression of oxidative stress-related genes, increasing ROS levels and decreasing proline content. It is a negative regulator involved in high temperature stress response.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Gene Expression Regulation, Plant",
+        "Heat Shock Transcription Factors",
+        "Heat-Shock Response",
+        "Hydrogen Peroxide",
+        "Oryza",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Proline",
+        "Transcription Factors",
+        "Zea mays"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26419216",
+      "title": "Seed priming with polyethylene glycol regulating the physiological and molecular mechanism in rice (Oryza sativa L.) under nano-ZnO stress.",
+      "pubdate": "2015 Sep 30",
+      "source": "Sci Rep",
+      "authors": "Salah SM, Yajing G, Dongdong C, Jie L, Aamir N, Qijuan H, Weimin H, Mingyu N, Jin H",
+      "elocationid": "doi: 10.1038/srep14278",
+      "abstract": "The present study was designed to highlight the impact of seed priming with polyethylene glycol on physiological and molecular mechanism of two cultivars of Oryza sativa L. under different levels of zinc oxide nanorods (0, 250, 500 and 750 mg L(-1)). Plant growth parameters were significantly increased in seed priming with 30% PEG under nano-ZnO stress in both cultivars. Whereas, this increase was more prominent in cultivar Qian You No. 1 as compared to cultivar Zhu Liang You 06. Significant increase in photosynthetic pigment with PEG priming under stress. Antioxidant enzymes activities of superoxide dismutase (SOD), peroxidase (POD) and catalase (CAT) as well as malondialdehyde (MDA) contents were significantly reduced with PEG priming under nano-ZnO stress. Gene expression analysis also suggested that expression of APXa, APXb, CATa, CATb, CATc, SOD1, SOD2 and SOD3 genes were down regulated with PEG priming as compared to non-primed seeds under stress. The ultrastructural analysis showed that leaf mesophyll and root cells were significantly damaged under nano-ZnO stress in both cultivars but the damage was prominent in Zhu Liang You 06. However, seed priming with PEG significantly alleviate the toxic effects of nano-ZnO stress and improved the cell structures of leaf and roots in both cultivars.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Malondialdehyde",
+        "Oryza",
+        "Oxidative Stress",
+        "Photosynthesis",
+        "Pigments, Biological",
+        "Polyethylene Glycols",
+        "Seedlings",
+        "Stress, Physiological",
+        "Zinc Oxide"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37514345",
+      "title": "SNAC3 Transcription Factor Enhances Arsenic Stress Tolerance and Grain Yield in Rice (Oryza sativa L.) through Regulating Physio-Biochemical Mechanisms, Stress-Responsive Genes, and Cryptochrome 1b.",
+      "pubdate": "2023 Jul 23",
+      "source": "Plants (Basel)",
+      "authors": "Pooam M, El-Ballat EM, Jourdan N, Ali HM, Hano C, Ahmad M, El-Esawi MA",
+      "elocationid": "doi: 10.3390/plants12142731",
+      "abstract": "Arsenic (As) is one of the toxic heavy metal pollutants found in the environment. An excess of As poses serious threats to plants and diminishes their growth and productivity. NAC transcription factors revealed a pivotal role in enhancing crops tolerance to different environmental stresses. The present study investigated, for the first time, the functional role of SNAC3 in boosting As stress tolerance and grain productivity in rice (Oryza sativa L.). Two SNAC3-overexpressing (SNAC3-OX) and two SNAC3-RNAi transgenic lines were created and validated. The wild-type and transgenic rice plants were exposed to different As stress levels (0, 25, and 50 µM). The results revealed that SNAC3 overexpression significantly improved rice tolerance to As stress and boosted grain yield traits. Under both levels of As stress (25 and 50 µM), SNAC3-OX rice lines exhibited significantly lower levels of oxidative stress biomarkers and OsCRY1b (cryptochrome 1b) expression, but they revealed increased levels of gas exchange characters, chlorophyll, osmolytes (soluble sugars, proteins, proline, phenols, and flavonoids), antioxidant enzymes (SOD, CAT, APX, and POD), and stress-tolerant genes expression (OsSOD-Cu/Zn, OsCATA, OsCATB, OsAPX2, OsLEA3, OsDREB2B, OsDREB2A, OsSNAC2, and OsSNAC1) in comparison to wild-type plants. By contrast, SNAC3 suppression (RNAi) reduced grain yield components and reversed the aforementioned measured physio-biochemical and molecular traits. Taken together, this study is the first to demonstrate that SNAC3 plays a vital role in boosting As stress resistance and grain productivity in rice through modulating antioxidants, photosynthesis, osmolyte accumulation, and stress-related genes expression, and may be a useful candidate for further genetic enhancement of stress resistance in many crops.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

@@ -1,0 +1,8 @@
+{
+  "term": "(\"Os06g0531200\"[Title/Abstract] OR \"OsDJ-1E\"[Title/Abstract] OR \"DJ-1E\"[Title/Abstract] OR \"DJ-1/PfpI domain containing protein E, DJ-1 protein E\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [],
+  "records": [],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

@@ -1,0 +1,92 @@
+{
+  "term": "(\"PP2C56\"[Title/Abstract] OR \"PP87\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "4016079",
+    "3893532",
+    "42116722"
+  ],
+  "records": [
+    {
+      "pmid": "4016079",
+      "title": "Characterization of initiation factor 3 from wheat germ. 1. Effects of proteolysis on activity and subunit composition.",
+      "pubdate": "1985 Jun 4",
+      "source": "Biochemistry",
+      "authors": "Lauer SJ, Burks EA, Ravel JM",
+      "elocationid": "",
+      "abstract": "Wheat germ initiation factor 3 (eIF-3) is a large (15 S) particle containing 10 subunits with molecular weights ranging from 28 000 to 116 000. Two forms of wheat germ eIF-3 which differ in ability to support polypeptide synthesis in vitro have been obtained by chromatography on carboxymethyl-Sephadex (CM-Sephadex). The less active form is not retained on CM-Sephadex in 50 mM KCl and contains lower amounts of two subunits, the 116 000-dalton polypeptide (pp116) and the 36 000-dalton polypeptide (pp36). The more active form is retained on CM-Sephadex in 50 mM KCl and is eluted by 150 mM KCl. Treatment of the more active form with small amounts of trypsin results in a rapid degradation of four of the subunits (pp116, pp107, pp87, and pp36) and in a rapid loss in the ability to support polypeptide synthesis. Trypsin treatment also diminishes the ability of eIF-3 to support the binding of mRNA to 40S ribosomal subunits. These findings indicate that pp116, pp107, pp87, and pp36 are in exposed positions in the eIF-3 particle and that pp116 and/or pp36 are essential for activity.",
+      "mesh_terms": [
+        "Eukaryotic Initiation Factor-3",
+        "Kinetics",
+        "Macromolecular Substances",
+        "Molecular Weight",
+        "Peptide Fragments",
+        "Peptide Initiation Factors",
+        "Ribosomal Proteins",
+        "Seeds",
+        "Triticum",
+        "Trypsin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "3893532",
+      "title": "Characterization of initiation factor 3 from wheat germ. 2. Effects of polyclonal and monoclonal antibodies on activity.",
+      "pubdate": "1985 Jun 4",
+      "source": "Biochemistry",
+      "authors": "Lauer SJ, Browning KS, Ravel JM",
+      "elocationid": "",
+      "abstract": "Rabbit polyclonal antibodies to wheat germ initiation factor 3 (eIF-3) were obtained and were shown to react strongly with 4 of the 10 subunits of eIF-3 (pp116, pp87, pp56, and pp36). Two mouse monoclonal antibodies were obtained, one of which reacts specifically with pp87 and one of which reacts specifically with pp36. Highly purified anti-pp87 has no effect on the activity of eIF-3. Highly purified polyclonal antibodies and anti-pp36 inhibit the ability of eIF-3 to support polypeptide synthesis in vitro and the ability of eIF-3 to support mRNA binding to 40S ribosomal subunits. These results provide additional evidence that pp116, pp87, and pp36 are in exposed positions in the eIF-3 particle and that pp36 is essential for activity.",
+      "mesh_terms": [
+        "Antibodies",
+        "Antibodies, Monoclonal",
+        "Antigen-Antibody Complex",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Eukaryotic Initiation Factor-3",
+        "Immunoenzyme Techniques",
+        "Kinetics",
+        "Molecular Weight",
+        "Peptide Initiation Factors",
+        "Ribosomal Proteins",
+        "Seeds",
+        "Triticum"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "42116722",
+      "title": "Deciphering ABA Receptor PYL Gene Family in Sugar Beet: Evolutionary Analysis and Drought Stress Response.",
+      "pubdate": "2026 May-Jun",
+      "source": "Physiol Plant",
+      "authors": "Shang E, Qiu W, He Y, Zhu J, Tian Y, Yu B",
+      "elocationid": "doi: 10.1111/ppl.70925",
+      "abstract": "Abscisic acid (ABA) receptors (PYL) play a pivotal role in plant responses to abiotic stress. However, functional characterization of PYL genes in sugar beet response to stresses remains unexplored. Here, 11 BvPYL genes were identified in the sugar beet genome, and they were classified into three subgroups. A comprehensive analysis of their gene structures, sequence features, chromosomal distributions, and promoter cis-elements was conducted. Furthermore, their evolutionary relationships, predicted interaction networks, and expression patterns under drought stress were investigated. qRT-PCR and transcriptomics data revealed expression profiles of the BvPYL family from two perspectives: short-term response and long-term adaptation to drought. Most BvPYL members were up-regulated under both conditions. Subcellular localization analysis showed that BvPYL8 is nuclear-localized. Protein interaction screening and molecular docking predicted that BvPYL8 interacts with multiple PP2C proteins (e.g., PP2C8, PP2C24, PP2C37, PP2C50, PP2C51 and PP2C56) through hydrogen bonding with a key asparagine residue (ASN-148), and their interaction was experimentally verified using the Y2H and BiFC assay. A molecular mechanism for the BvPYL8-PP2Cs-BvSnRK2s-TFs pathway in the ABA signaling pathway under drought stress was proposed. These results may serve as a springboard for further functional exploration of the BvPYL gene family in sugar beet and its related species, and provide important target genes for improving crop drought tolerance through genetic engineering and molecular breeding.",
+      "mesh_terms": [
+        "Beta vulgaris",
+        "Plant Proteins",
+        "Gene Expression Regulation, Plant",
+        "Abscisic Acid",
+        "Stress, Physiological",
+        "Droughts",
+        "Drought Resistance",
+        "Phylogeny",
+        "Multigene Family",
+        "Evolution, Molecular"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}

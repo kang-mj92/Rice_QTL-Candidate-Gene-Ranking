@@ -1,0 +1,489 @@
+{
+  "term": "(\"CYCD1\"[Title/Abstract]) AND (\"Plants\"[MeSH Terms] OR plant[Title/Abstract] OR plants[Title/Abstract] OR Arabidopsis[Title/Abstract] OR Zea[Title/Abstract] OR maize[Title/Abstract] OR Triticum[Title/Abstract] OR wheat[Title/Abstract] OR Hordeum[Title/Abstract] OR barley[Title/Abstract] OR Sorghum[Title/Abstract] OR Oryza[Title/Abstract] OR rice[Title/Abstract])",
+  "retmax": 20,
+  "pmids": [
+    "16650909",
+    "39176434",
+    "15316112",
+    "9002599",
+    "36922580",
+    "34459899",
+    "33450002",
+    "37516965",
+    "34192526",
+    "26379676",
+    "27834370",
+    "32607464",
+    "36793134",
+    "40043702",
+    "30474211",
+    "8938409",
+    "25127220",
+    "39121182",
+    "41180019"
+  ],
+  "records": [
+    {
+      "pmid": "16650909",
+      "title": "Divide and conquer: development and cell cycle genes in plant transformation.",
+      "pubdate": "2006 Jun",
+      "source": "Trends Biotechnol",
+      "authors": "Arias RS, Filichkin SA, Strauss SH",
+      "elocationid": "",
+      "abstract": "Genetic transformation and regeneration of transgenic plants remains unfeasible for the majority of plant species. We propose that inducible expression and/or suppression of the genes that control the cell cycle and development, by altering chromatin structure and exerting epigenetic control of gene expression, might substantially improve competence for transformation and/or regeneration. Transformation efficiency was higher in cells with nuclei at the S and G2 phases, and manipulating the genes whose activation or silencing promote the G1-S transition has increased both transient and stable transformation. Controlling the cell cycle directly, using RBR and VIP1, or indirectly, through hormone regulation using IPT and ESR1, has improved rates of stable transformation. Other target genes that might promote incorporation of DNA and/or pluripotency of cells include HP1, CycD3 and CycD1. The availability of large EST databanks, complete plant-genome sequences and/or inducible gene expression systems create opportunities for testing homologous genes to increase competence of transformation and regeneration.",
+      "mesh_terms": [
+        "Cell Cycle",
+        "Gene Expression Regulation, Plant",
+        "Gene Silencing",
+        "Gene Transfer Techniques",
+        "Genes, cdc",
+        "Heterochromatin",
+        "Plants, Genetically Modified",
+        "Transformation, Genetic"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39176434",
+      "title": "ORANGE interplays with TCP7 to regulate endoreduplication and leaf size.",
+      "pubdate": "2024 Oct",
+      "source": "Plant J",
+      "authors": "Wang Q, Wang L, Song S, Zhao YN, Gu HH, Zhu Z, Wang J, Lu S",
+      "elocationid": "doi: 10.1111/tpj.16994",
+      "abstract": "Leaf size is a crucial agronomic trait directly affecting crop yield, which is mainly determined by coordinated cell proliferation, growth, and differentiation. Although endoreduplication is known to be correlated with the onset of cell differentiation and leaf size, the underlying molecular mechanisms are largely unclear. The DnaJ-like zinc finger domain-containing protein ORANGE (OR) was initially demonstrated to confer the massive accumulation of carotenoids in cauliflower curds. However, the cauliflower or mutant also possesses other phenotypes such as smaller curds, smaller leaves with elongated petioles, and delayed flowering. Here, we demonstrated that OR physically interacts with the transcription factor TCP7, which promotes endoreduplication by inducing the expression of the cell cycle gene CYCLIN D 1;1 (CYCD1;1). Overexpression of OR resulted in smaller rosette leaves, whereas the OR-silencing plants had larger rosette leaves than wild-type plants. Our microscopic observations and flow cytometry analysis revealed that the variation in leaf size was a result of different endoreduplication levels. Genetic analyses showed that OR functions antagonistically with TCP7 in regulating the endoreduplication levels in leaf cells. While the expression of OR is induced by TCP7, OR represses the transactivation activity of TCP7 by affecting its binding capability to the TCP-binding motif in the promoter region of CYCD1;1. Through this interaction, OR negatively regulates the expression of CYCD1;1 and reduces the nuclear ploidy level in rosette leaf cells. Our findings provide new insights into the regulatory network of leaf size and also reveal a regulatory circuit controlling endoreduplication in leaf cells.",
+      "mesh_terms": [
+        "Plant Leaves",
+        "Endoreduplication",
+        "Gene Expression Regulation, Plant",
+        "Transcription Factors",
+        "Arabidopsis Proteins",
+        "Arabidopsis",
+        "Plants, Genetically Modified",
+        "Plant Proteins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "15316112",
+      "title": "CycD1, a putative G1 cyclin from Antirrhinum majus, accelerates the cell cycle in cultured tobacco BY-2 cells by enhancing both G1/S entry and progression through S and G2 phases.",
+      "pubdate": "2004 Sep",
+      "source": "Plant Cell",
+      "authors": "Koroleva OA, Tomlinson M, Parinyapong P, Sakvarelidze L, Leader D, Shaw P, Doonan JH",
+      "elocationid": "",
+      "abstract": "A putative G1 cyclin gene, Antma;CycD1;1 (CycD1), from Antirrhinum majus is known to be expressed throughout the cell cycle in the meristem and other actively proliferating cells. To test its role in cell cycle progression, we examined the effect of CycD1 expression in the tobacco (Nicotiana tabacum) cell suspension culture BY-2. Green fluorescent protein:CycD1 is located in the nucleus throughout interphase. Using epitope-tagged CycD1, we show that it interacts in vivo with CDKA, a cyclin dependent protein kinase that acts at both the G1/S and the G2/M boundaries. We examined the effect of induced expression at different stages of the cell cycle. Expression in G0 cells accelerated entry into both S-phase and mitosis, whereas expression during S-phase accelerated entry into mitosis. Consistent with acceleration of both transitions, the CycD1-associated cyclin dependent kinase can phosphorylate both histone H1 and Rb proteins. The expression of cyclinD1 led to the early activation of total CDK activity, consistent with accelerated cell cycle progression. Continuous expression of CycD1 led to moderate increases in growth rate. Therefore, in contrast with animal D cyclins, CycD1 can promote both G0/G1/S and S/G2/M progression. This indicates that D cyclin function may have diverged between plants and animals.",
+      "mesh_terms": [
+        "Animals",
+        "Antirrhinum",
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Cell Cycle",
+        "Cell Nucleus",
+        "Cells, Cultured",
+        "Cyclin D",
+        "Cyclin G",
+        "Cyclin-Dependent Kinases",
+        "Cyclins",
+        "Evolution, Molecular",
+        "G1 Phase",
+        "G2 Phase",
+        "Gene Expression Regulation, Plant",
+        "Gene Transfer Techniques",
+        "Histones",
+        "Molecular Sequence Data",
+        "Phosphorylation",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Recombinant Fusion Proteins",
+        "Retinoblastoma Protein",
+        "S Phase",
+        "Nicotiana"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "9002599",
+      "title": "Plant cyclins: a unified nomenclature for plant A-, B- and D-type cyclins based on sequence organization.",
+      "pubdate": "1996 Dec",
+      "source": "Plant Mol Biol",
+      "authors": "Renaudin JP, Doonan JH, Freeman D, Hashimoto J, Hirt H, Inzé D, Jacobs T, Kouchi H, Rouzé P, Sauter M",
+      "elocationid": "",
+      "abstract": "The comparative analysis of a large number of plant cyclins of the A/B family has recently revealed that plants possess two distinct B-type groups and three distinct A-type groups of cyclins. Despite earlier uncertainties, this large-scale comparative analysis has allowed an unequivocal definition of plant cyclins into either A or B classes. We present here the most important results obtained in this study, and extend them to the case of plant D-type cyclins, in which three groups are identified. For each of the plant cyclin groups, consensus sequences have been established and a new, rational, plant-wide naming system is proposed in accordance with the guidelines of the Commission on Plant Gene Nomenclature. This nomenclature is based on the animal system indicating cyclin classes by an upper-case roman letter, and distinct groups within these classes by an arabic numeral suffix. The naming of plant cyclin classes is chosen to indicate homology to their closest animal class. The revised nomenclature of all described plant cyclins is presented, with their classification into groups CycA1, CycA2, CycA3, CycB1, CycB2, CycD1, CycD2 and CycD3.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Consensus Sequence",
+        "Cyclin D",
+        "Cyclins",
+        "Genes, Plant",
+        "Molecular Sequence Data",
+        "Phylogeny",
+        "Plant Proteins",
+        "Plants",
+        "Terminology as Topic"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36922580",
+      "title": "Overexpression of Physcomitrium patens cell cycle regulators leads to larger gametophytes.",
+      "pubdate": "2023 Mar 15",
+      "source": "Sci Rep",
+      "authors": "Peramuna A, López CQ, Rios FJA, Bae H, Fangel JU, Batth R, Harholt J, Simonsen HT",
+      "elocationid": "doi: 10.1038/s41598-023-31417-x",
+      "abstract": "Regulation of cell division is crucial for the development of multicellular organisms, and in plants, this is in part regulated by the D-type cyclins (CYCD) and cyclin-dependent kinase A (CDKA) complex. Cell division regulation in Physcomitrium differs from other plants, by having cell division checks at both the G1 to S and G2 to M transition, controlled by the CYCD1/CDKA2 and CYCD2/CDKA1 complexes, respectively. This led us to hypothesize that upregulation of cell division could be archived in Bryophytes, without the devastating phenotypes observed in Arabidopsis. Overexpressing lines of PpCYCD1, PpCYCD2, PpCDKA1, or PpCDKA2 under Ubiquitin promotor control provided transcriptomic and phenotypical data that confirmed their involvement in the G1 to S or G2 to M transition control. Interestingly, combinatorial overexpression of all four genes produced plants with dominant PpCDKA2 and PpCYCD1 phenotypes and led to plants with twice as large gametophores. No detrimental phenotypes were observed in this line and two of the major carbon sinks in plants, the cell wall and starch, were unaffected by the increased growth rate. These results show that the cell cycle characteristics of P. patens can be manipulated by the ectopic expression of cell cycle regulators.",
+      "mesh_terms": [
+        "Arabidopsis Proteins",
+        "Germ Cells, Plant",
+        "Cell Cycle",
+        "Cyclins",
+        "Cell Division",
+        "Arabidopsis"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34459899",
+      "title": "Three-dimensional quantitative analysis of the Arabidopsis quiescent centre.",
+      "pubdate": "2021 Oct 13",
+      "source": "J Exp Bot",
+      "authors": "Lu R, Canher B, Bisht A, Heyman J, De Veylder L",
+      "elocationid": "doi: 10.1093/jxb/erab404",
+      "abstract": "Quiescent centre (QC) cells represent an integral part of the root stem cell niche. They typically display a low division frequency that has been reported to be controlled by hormone signaling and different regulators, including the ETHYLENE RESPONSE FACTOR 115 (ERF115) transcription factor and D-type cyclins. Here, we applied a three-dimensional (3D) imaging to visualize the Arabidopsis QC cell number, volume and division patterns, including visualization of anticlinal divisions that cannot be deduced from longitudinal 2D imaging. We found that 5-day-old seedlings possess on average eight QC cells which are organized in a monolayered disc. In a period of 7 d, half of the QC cells undergo anticlinal division in a largely invariant space. Ectopic expression of ERF115 and CYCLIN D1;1 (CYCD1;1) promote both anticlinal and periclinal QC cell divisions, the latter resulting in a dual-layered QC zone holding up to 2-fold more QC cells compared with the wild type. In contrast, application of cytokinin or ethylene results in an increase in the number of periclinal, but a decrease in anticlinal QC divisions, suggesting that they control the orientation of QC cell division. Our data illustrate the power of 3D visualization in revealing unexpected QC characteristics.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Cell Division",
+        "Meristem",
+        "Plant Roots"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "33450002",
+      "title": "The ATR-WEE1 kinase module inhibits the MAC complex to regulate replication stress response.",
+      "pubdate": "2021 Feb 22",
+      "source": "Nucleic Acids Res",
+      "authors": "Wang L, Zhan L, Zhao Y, Huang Y, Wu C, Pan T, Qin Q, Xu Y, Deng Z, Li J",
+      "elocationid": "doi: 10.1093/nar/gkaa1082",
+      "abstract": "DNA damage response is a fundamental mechanism to maintain genome stability. The ATR-WEE1 kinase module plays a central role in response to replication stress. Although the ATR-WEE1 pathway has been well studied in yeasts and animals, how ATR-WEE1 functions in plants remains unclear. Through a genetic screen for suppressors of the Arabidopsis atr mutant, we found that loss of function of PRL1, a core subunit of the evolutionarily conserved MAC complex involved in alternative splicing, suppresses the hypersensitivity of atr and wee1 to replication stress. Biochemical studies revealed that WEE1 directly interacts with and phosphorylates PRL1 at Serine 145, which promotes PRL1 ubiquitination and subsequent degradation. In line with the genetic and biochemical data, replication stress induces intron retention of cell cycle genes including CYCD1;1 and CYCD3;1, which is abolished in wee1 but restored in wee1 prl1. Remarkably, co-expressing the coding sequences of CYCD1;1 and CYCD3;1 partially restores the root length and HU response in wee1 prl1. These data suggested that the ATR-WEE1 module inhibits the MAC complex to regulate replication stress responses. Our study discovered PRL1 or the MAC complex as a key downstream regulator of the ATR-WEE1 module and revealed a novel cell cycle control mechanism.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Ataxia Telangiectasia Mutated Proteins",
+        "Cell Cycle Proteins",
+        "DNA Damage",
+        "DNA Replication",
+        "Genes, cdc",
+        "Mutation",
+        "Nuclear Proteins",
+        "Proteasome Endopeptidase Complex",
+        "Protein Serine-Threonine Kinases",
+        "RNA Splicing",
+        "Stress, Physiological",
+        "Suppression, Genetic",
+        "Ubiquitination"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "37516965",
+      "title": "Functional analogs of mammalian 4E-BPs reveal a role for TOR in global plant translation.",
+      "pubdate": "2023 Aug 29",
+      "source": "Cell Rep",
+      "authors": "Dong Y, Srour O, Lukhovitskaya N, Makarian J, Baumberger N, Galzitskaya O, Elser D, Schepetilnikov M, Ryabova LA",
+      "elocationid": "doi: 10.1016/j.celrep.2023.112892",
+      "abstract": "Mammalian/mechanistic target of rapamycin (mTOR) regulates global protein synthesis through inactivation of eIF4E-binding proteins (m4E-BPs) in response to nutrient and energy availability. Until now, 4E-BPs have been considered as metazoan inventions, and how target of rapamycin (TOR) controls cap-dependent translation initiation in plants remains obscure. Here, we present short unstructured 4E-BP-like Arabidopsis proteins (4EBP1/4EBP2) that are non-homologous to m4E-BPs except for the eIF4E-binding motif and TOR phosphorylation sites. Unphosphorylated 4EBPs exhibit strong affinity toward eIF4Es and can inhibit formation of the cap-binding complex. Upon TOR activation, 4EBPs are phosphorylated, probably when bound directly to TOR, and likely relocated to ribosomes. 4EBPs can suppress a distinct set of mRNAs; 4EBP2 predominantly inhibits translation of core cell-cycle regulators CycB1;1 and CycD1;1, whereas 4EBP1 interferes with chlorophyll biosynthesis. Accordingly, 4EBP2 overexpression halts early seedling development, which is overcome by induction of Glc/Suc-TOR signaling. Thus, TOR regulates cap-dependent translation initiation by inactivating atypical 4EBPs in plants.",
+      "mesh_terms": [
+        "Animals",
+        "Sirolimus",
+        "Eukaryotic Initiation Factor-4E",
+        "Phosphorylation",
+        "Cell Cycle Proteins",
+        "Signal Transduction",
+        "RNA, Messenger",
+        "Protein Biosynthesis",
+        "Phosphoproteins",
+        "Mammals"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "34192526",
+      "title": "The Polycomb group protein MEDEA controls cell proliferation and embryonic patterning in Arabidopsis.",
+      "pubdate": "2021 Jul 12",
+      "source": "Dev Cell",
+      "authors": "Simonini S, Bemer M, Bencivenga S, Gagliardini V, Pires ND, Desvoyes B, van der Graaff E, Gutierrez C, Grossniklaus U",
+      "elocationid": "doi: 10.1016/j.devcel.2021.06.004",
+      "abstract": "Establishing the embryonic body plan of multicellular organisms relies on precisely orchestrated cell divisions coupled with pattern formation, which, in animals, are regulated by Polycomb group (PcG) proteins. The conserved Polycomb Repressive Complex 2 (PRC2) mediates H3K27 trimethylation and comes in different flavors in Arabidopsis. The PRC2 catalytic subunit MEDEA is required for seed development; however, a role for PRC2 in embryonic patterning has been dismissed. Here, we demonstrate that embryos derived from medea eggs abort because MEDEA is required for patterning and cell lineage determination in the early embryo. Similar to PcG proteins in mammals, MEDEA regulates embryonic patterning and growth by controlling cell-cycle progression through repression of CYCD1;1, which encodes a core cell-cycle component. Thus, Arabidopsis embryogenesis is epigenetically regulated by PcG proteins, revealing that the PRC2-dependent modulation of cell-cycle progression was independently recruited to control embryonic cell proliferation and patterning in animals and plants.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Body Patterning",
+        "Cell Proliferation",
+        "Cyclin D3",
+        "Flowers",
+        "Gene Expression Regulation, Plant",
+        "Histones",
+        "Methylation",
+        "Plant Development",
+        "Polycomb Repressive Complex 2",
+        "Polycomb-Group Proteins",
+        "Seeds"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "26379676",
+      "title": "Arabidopsis PCNAs form complexes with selected D-type cyclins.",
+      "pubdate": "2015",
+      "source": "Front Plant Sci",
+      "authors": "Strzalka WK, Aggarwal C, Krzeszowiec W, Jakubowska A, Sztatelman O, Banas AK",
+      "elocationid": "doi: 10.3389/fpls.2015.00516",
+      "abstract": "Proliferating Cell Nuclear Antigen (PCNA) is a key nuclear protein of eukaryotic cells. It has been shown to form complexes with cyclin dependent kinases, cyclin dependent kinase inhibitors and the D-type cyclins which are involved in the cell cycle control. In Arabidopsis two genes coding for PCNA1 and PCNA2 proteins have been identified. In this study by analyzing Arabidopsis PCNA/CycD complexes we tested the possible functional differentiation of PCNA1/2 proteins in cell cycle control. Most out of the 10 cyclins investigated showed only nuclear localization except CycD2;1, CycD4;1, and CycD4;2 which were observed both in the nucleus and cytoplasm. Using the Y2H, BiFC and FLIM-FRET techniques we identified D-type cyclins which formed complexes with either PCNA1 or PCNA2. Among the candidates tested only CycD1;1, CycD3;1, and CycD3;3 were not detected in a complex with the PCNA proteins. Moreover, our results indicate that the formation of CycD3;2/PCNA and CycD4;1/PCNA complexes can be regulated by other as yet unidentified factor(s). Additionally, FLIM-FRET analyses suggested that in planta the distance between PCNA1/CycD4;1, PCNA1/CycD6;1, PCNA1/CycD7;1, and PCNA2/CycD4;2 proteins was shorter than that between PCNA2/CycD4;1, PCNA2/CycD6;1, PCNA2/CycD7;1, and PCNA1/CycD4;2 pairs. These data indicate that the nine amino acid differences between PCNA1 and PCNA2 have an impact on the architecture of Arabidopsis CycD/PCNA complexes.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "27834370",
+      "title": "Arabidopsis seed germination speed is controlled by SNL histone deacetylase-binding factor-mediated regulation of AUX1.",
+      "pubdate": "2016 Nov 11",
+      "source": "Nat Commun",
+      "authors": "Wang Z, Chen F, Li X, Cao H, Ding M, Zhang C, Zuo J, Xu C, Xu J, Deng X",
+      "elocationid": "doi: 10.1038/ncomms13412",
+      "abstract": "Histone acetylation is known to affect the speed of seed germination, but the molecular regulatory basis of this remains ambiguous. Here we report that loss of function of two histone deacetylase-binding factors, SWI-INDEPENDENT3 (SIN3)-LIKE1 (SNL1) and SNL2, results in accelerated radicle protrusion and growth during seed germination. AUXIN RESISTANT 1 (AUX1) is identified as a key factor in this process, enhancing germination speed downstream of SNL1 and SNL2. AUX1 expression and histone H3 acetylation at lysines 9 and 18 is regulated by SNL1 and SNL2. The D-type cyclins encoding genes CYCD1;1 and CYCD4;1 display increased expression in AUX1 over-expression lines and the snl1snl2 double mutant. Accordingly, knockout of CYCD4;1 reduces seed germination speed of AUX1 over-expression lines and snl1snl2 suggesting the importance of cell cycling for radicle protrusion during seed germination. Together, our work identifies AUX1 as a link between histone acetylation mediated by SNL1 and SNL2, and radicle growth promoted by CYCD1;1 and CYCD4;1 during seed germination.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Histones",
+        "Indoleacetic Acids",
+        "RNA, Plant",
+        "Repressor Proteins",
+        "Seeds"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "32607464",
+      "title": "Shade signals alter the expression of circadian clock genes in newly-formed bioenergy sorghum internodes.",
+      "pubdate": "2020 Jun",
+      "source": "Plant Direct",
+      "authors": "Kebrom TH, McKinley BA, Mullet JE",
+      "elocationid": "doi: 10.1002/pld3.235",
+      "abstract": "Stem internodes of bioenergy sorghum inbred R.07020 are longer at high plant density (shade) than at low plant density (control). Initially, the youngest newly-formed subapical stem internodes of shade-treated and control plants are comparable in length. However, full-length internodes of shade-treated plants are three times longer than the internodes of the control plants. To identify the early molecular events associated with internode elongation in response to shade, we analyzed the transcriptome of the newly-formed internodes of shade-treated and control plants sampled between 4 and 6 hr after the start of the light period (14 hr light/10 hr dark). Sorghum genes homologous to the Arabidopsis shade marker genes ATHB2 and PIL1 were not differentially expressed. The results indicate that shade signals promote internode elongation indirectly because sorghum internodes are not illuminated and grow while enclosed with leaf sheaths. Sorghum genes homologous to the Arabidopsis morning-phased circadian clock genes LHY, RVE, and LNK were downregulated and evening-phased genes such as TOC1, PRR5, and GI were upregulated in young internodes in response to shade. We hypothesize that a change in the function or patterns of expression of the circadian clock genes is the earliest molecular event associated with internode elongation in response to shade in bioenergy sorghum. Increased expression of CycD1, which promotes cell division, and decreased expression of cell wall-loosening and MBF1-like genes, which promote cell expansion, suggest that shade signals promote internode elongation in bioenergy sorghum in part through increasing cell number by delaying transition from cell division to cell expansion.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "36793134",
+      "title": "Effect of a suitable treatment period on the genetic transformation efficiency of the plant leaf disc method.",
+      "pubdate": "2023 Feb 15",
+      "source": "Plant Methods",
+      "authors": "Xia Y, Cao Y, Ren Y, Ling A, Du K, Li Y, Yang J, Kang X",
+      "elocationid": "doi: 10.1186/s13007-023-00994-3",
+      "abstract": "BACKGROUND: Agrobacterium tumefaciens-mediated leaf disc genetic transformation is an important way to achieve transgenics or gene editing. Ensuring stable and efficient genetic transformation is still an important problem in modern biology. It is assumed that the difference in the development status of genetic transformation cells of receptor materials is the main reason for the difference and instability of genetic transformation efficiency; the stable and efficient genetic transformation rate can be obtained by defining the appropriate treatment period of the receptor material and applying genetic transformation in a timely manner. RESULTS: Based on these assumptions, we studied and established an efficient and stable Agrobacterium-mediated plant transformation system with hybrid poplar (Populus alba × Populus glandulosa, 84 K) leaves, stem segments and tobacco leaves as the research objects. There were differences in the development process of leaf bud primordial cells from different explants, and the genetic transformation efficiency was significantly related to the cell development stage of the in vitro cultured materials. Among them, the genetic transformation rate of poplar and tobacco leaves was the highest on the 3rd and 2nd day of culture, reaching 86.6% and 57.3%, respectively. The genetic transformation rate of poplar stem segments was the highest on the 4th day of culture, reaching 77.8%. The best treatment period was from the development of leaf bud primordial cells to the S phase of the cell cycle. The number of cells detected using flow cytometry and 5-ethynyl-2'-deoxyuridine (EdU) staining, the expression of cell cycle-related protein CDKB1; 2, CDKD1; 1, CYCA3; 4, CYCD1; 1, CYCD3; 2, CYCD6; 1, and CYCH; 1 of explants, and morphological changes of explants can be used as indicators to determine the appropriate treatment period for genetic transformation. CONCLUSIONS: Our study provides a new and universal set of methods and characteristics to identify the S phase of the cell cycle and apply genetic transformation treatments at the appropriate time. Our results are of great significance for improving the efficiency and stability of plant leaf disc genetic transformation.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "40043702",
+      "title": "Plant cell-cycle regulators control the nuclear environment for viral pathogenesis.",
+      "pubdate": "2025 Mar 12",
+      "source": "Cell Host Microbe",
+      "authors": "Zhang X, Wang G, Zhang P, Chen C, Zhang J, Bian Y, Liu M, Niu C, Sun F, Wang Y",
+      "elocationid": "doi: 10.1016/j.chom.2025.02.006",
+      "abstract": "The proper regulation of cell-cycle regulators is curial for both viral replication and host-plant adaptive growth during the viral pathogenesis. Mechanisms on reorchestrating RETINOBLASTOMA-RELATED 1 (RBR1), repressor of E2F transcription factor, and downstream genes in host-virus interactions are unclear. Here, we discover that anaphase-promoting complex/cyclosome (APC/C) E3 ligase activator cell division cycle 20 (CDC20) in tomato binds RBR1 or mediates cyclin D1 depletion to preserve RBR1-E2F complexes, while geminivirus or crinivirus repurposes APC/CCDC20 activities to liberate E2Fs in two ways: activating APC/CCDC20 to deplete RBR1 or blocking APC/CCDC20 to stimulate cyclin-D1-mediated RBR1 depletion. The liberated E2Fs activate DNA polymerase or heat shock protein 70 gene transcription to favor virus propagation. The improper disruption of RBR1-E2F complexes via hijacking APC/CCDC20 causes the host growth repression. We uncover a scenario in which the virus co-opts host APC/CCDC20 to reprogram RBR1-E2F complex to favor its propagation while dampening host vitality.",
+      "mesh_terms": [
+        "Solanum lycopersicum",
+        "Anaphase-Promoting Complex-Cyclosome",
+        "E2F Transcription Factors",
+        "Host-Pathogen Interactions",
+        "Cdc20 Proteins",
+        "Virus Replication",
+        "Plant Proteins",
+        "Plant Diseases",
+        "Cyclin D1",
+        "Cell Cycle",
+        "Geminiviridae",
+        "HSP70 Heat-Shock Proteins",
+        "Cell Nucleus",
+        "Cell Cycle Proteins"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "30474211",
+      "title": "TCP7 functions redundantly with several Class I TCPs and regulates endoreplication in Arabidopsis.",
+      "pubdate": "2019 Nov",
+      "source": "J Integr Plant Biol",
+      "authors": "Zhang G, Zhao H, Zhang C, Li X, Lyu Y, Qi D, Cui Y, Hu L, Wang Z, Liang Z",
+      "elocationid": "doi: 10.1111/jipb.12749",
+      "abstract": "TCP (TEOSINTE BRANCHED1/CYCLOIDEA/PROLIFERATING CELL FACTOR) proteins, a family of plant-specific transcription factors, play important roles in many developmental processes. However, genetic and functional redundancy among class I TCP limits the analysis of their biological roles. Here, we identified a dominant-negative mutant of Arabidopsis thaliana TCP7 named leaf curling-upward (lcu), which exhibits smaller leaf cells and shorter hypocotyls than the wild type, due to defective endoreplication. A septuple loss-of-function mutant of TCP7, TCP8, TCP14, TCP15, TCP21, TCP22, and TCP23 displayed similar developmental defects to those of lcu. Genome-wide RNA-sequencing showed that lcu and the septuple mutant share many misexpressed genes. Intriguingly, TCP7 directly targets the CYCLIN D1;1 (CYCD1;1) locus and activates its transcription. We determined that the C-terminus of TCP7 accounts for its transcriptional activation activity. Furthermore, the mutant protein LCU exhibited reduced transcriptional activation activity due to the introduction of an EAR-like repressive domain at its C-terminus. Together, these observations indicate that TCP7 plays important roles during leaf and hypocotyl development, redundantly, with at least six class I TCPs, and regulates the expression of CYCD1;1 to affect endoreplication in Arabidopsis.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Cyclin D3",
+        "Endoreduplication",
+        "Gene Expression Regulation, Plant",
+        "Genome, Plant",
+        "Hypocotyl",
+        "Plant Leaves",
+        "Transcription Factors"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "8938409",
+      "title": "Modulation of cyclin transcript levels in cultured cells of Arabidopsis thaliana.",
+      "pubdate": "1996 Nov",
+      "source": "Plant Physiol",
+      "authors": "Fuerst RA, Soni R, Murray JA, Lindsey K",
+      "elocationid": "",
+      "abstract": "Previous studies on the cell cycle of Arabidopsis thaliana have been hindered by the lack of synchronous cell culture systems. We have used liquid callus cultures and a cycloheximide-synchronized suspension culture of Arabidopsis to investigate changes in cyclin transcript levels in response to exogenous auxin, cytokinin, and nutrients, and during the cell cycle. CYCD1 (delta 1) transcript was virtually undetectable in liquid-cultured callus or suspension-culture cells. CYCD2 (delta 2) transcript levels were largely unaffected by the readdition of phytohormones or nitrate to the growth medium, and remained constant throughout the cell cycle in suspension-culture cells. CYCD3 (delta 3) transcript levels were strongly dependent on nitrate, and were induced at the G1/S transition following phytohormone readdition. In synchronized suspension-culture cells, CYCD3 transcript accumulated during the S phase, and remained constant thereafter. These results support the hypothesis that D cyclins function as part of the cellular machinery that integrates diverse signals impinging upon commitment to cell division. In synchronized cells transcripts of the mitotic cyclins CYC1, CYC2, and CYC3 reached a maximum with peak mitotic index, but CYC3 transcript levels increased earlier than those of CYC1 or CYC2. The kinetics of accumulation of CYC transcript levels support their classification as A-type (CYC3) and B-type (CYC1 and CYC2) cyclins, respectively.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Cell Cycle",
+        "Cell Division",
+        "Cells, Cultured",
+        "Cyclin D1",
+        "Cyclins",
+        "Cycloheximide",
+        "Cytokinins",
+        "DNA, Plant",
+        "Indoleacetic Acids",
+        "Kinetics",
+        "Mimosine",
+        "Mitotic Index",
+        "Nitrates",
+        "Oncogene Proteins",
+        "Transcription, Genetic"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "25127220",
+      "title": "WOX5 suppresses CYCLIN D activity to establish quiescence at the center of the root stem cell niche.",
+      "pubdate": "2014 Aug 18",
+      "source": "Curr Biol",
+      "authors": "Forzani C, Aichinger E, Sornay E, Willemsen V, Laux T, Dewitte W, Murray JA",
+      "elocationid": "doi: 10.1016/j.cub.2014.07.019",
+      "abstract": "In Arabidopsis, stem cells maintain the provision of new cells for root growth. They surround a group of slowly dividing cells named the quiescent center (QC), and, together, they form the stem cell niche (SCN). The QC acts as the signaling center of the SCN, repressing differentiation of the surrounding stem cells and providing a pool of cells able to replace damaged stem cells. Maintenance of the stem cells depends on the transcription factor WUSCHEL-RELATED HOMEOBOX 5 (WOX5), which is specifically expressed in the QC. However, the molecular mechanisms by which WOX5 promotes stem cell fate and whether WOX5 regulates proliferation of the QC are unknown. Here, we reveal a new role for WOX5 in restraining cell division in the cells of the QC, thereby establishing quiescence. In contrast, WOX5 and CYCD3;3/CYCD1;1 both promote cell proliferation in the nascent columella. The additional QC divisions occurring in wox5 mutants are suppressed in mutant combinations with the D type cyclins CYCD3;3 and CYCD1;1. Moreover, ectopic expression of CYCD3;3 in the QC is sufficient to induce cell division in the QC. WOX5 thus suppresses QC divisions that are otherwise promoted by CYCD3;3 and CYCD1;1, in part by interacting with the CYCD3;3 promoter to repress CYCD3;3 expression in the QC. Therefore, we propose a specific role for WOX5 in initiating and maintaining quiescence of the QC by excluding CYCD activity from the QC.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Arabidopsis Proteins",
+        "Cell Differentiation",
+        "Cell Division",
+        "Cyclin D3",
+        "Gene Expression Regulation, Plant",
+        "Homeodomain Proteins",
+        "Plant Roots",
+        "Stem Cell Niche",
+        "Stem Cells"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "39121182",
+      "title": "An incoherent feed-forward loop involving bHLH transcription factors, Auxin and CYCLIN-Ds regulates style radial symmetry establishment in Arabidopsis.",
+      "pubdate": "2024 Sep",
+      "source": "Plant J",
+      "authors": "Tasker-Brown W, Koh SWH, Trozzi N, Maio KA, Jamil I, Jiang Y, Majda M, Smith RS, Moubayidin L",
+      "elocationid": "doi: 10.1111/tpj.16959",
+      "abstract": "The bilateral-to-radial symmetry transition occurring during the development of the Arabidopsis thaliana female reproductive organ (gynoecium) is a crucial biological process linked to plant fertilization and seed production. Despite its significance, the cellular mechanisms governing the establishment and breaking of radial symmetry at the gynoecium apex (style) remain unknown. To fill this gap, we employed quantitative confocal imaging coupled with MorphoGraphX analysis, in vivo and in vitro transcriptional experiments, and genetic analysis encompassing mutants in two bHLH transcription factors necessary and sufficient to promote transition to radial symmetry, SPATULA (SPT) and INDEHISCENT (IND). Here, we show that defects in style morphogenesis correlate with defects in cell-division orientation and rate. We showed that the SPT-mediated accumulation of auxin in the medial-apical cells undergoing symmetry transition is required to maintain cell-division-oriented perpendicular to the direction of organ growth (anticlinal, transversal cell division). In addition, SPT and IND promote the expression of specific core cell-cycle regulators, CYCLIN-D1;1 (CYC-D1;1) and CYC-D3;3, to support progression through the G1 phase of the cell cycle. This transcriptional regulation is repressed by auxin, thus forming an incoherent feed-forward loop mechanism. We propose that this mechanism fine-tunes cell division rate and orientation with the morphogenic signal provided by auxin, during patterning of radial symmetry at the style.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Flowers",
+        "Basic Helix-Loop-Helix Proteins",
+        "Indoleacetic Acids",
+        "Cyclin D",
+        "Arabidopsis Proteins",
+        "Mutation",
+        "G1 Phase",
+        "Gene Expression Regulation, Plant"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    },
+    {
+      "pmid": "41180019",
+      "title": "Heterometric expression of an LBD gene via LBD-TCP assembly regulates floral organ size and fruit weight in Physalis.",
+      "pubdate": "2025 Nov",
+      "source": "Hortic Res",
+      "authors": "Li Q, Wu L, Li J, Cao Q, Gong P, Wang L, Xu N, He C",
+      "elocationid": "doi: 10.1093/hr/uhaf211",
+      "abstract": "Plant LATERAL ORGAN BOUNDARIES DOMAIN (LBD) family is crucial for defining organ boundaries and participates in various developmental processes, but its role in fruit weight has rarely been elucidated. Here, we characterized an LBD gene, Physalis organ size 3 (POS3), in Physalis floridana, designated as PfPOS3. This gene exhibited high expression levels in floral meristems, carpels, and developing seeds and fruits when compared to Solanum pimpinellifolium and Solanum lycopersicum. The floral organ size, seed weight, and mature fruit weight were significantly reduced in PfPOS3 knockdown and knockout plants. Consistent with overexpression analyses, PfPOS3 promoted cell size and inhibited cell division during berry development. Moreover, overexpression of PfPOS3 and SlPOS3 shared identical phenotypic variation in transgenic Physalis plants. Both PfPOS3 and SlPOS3 interacted with Teosinte branched1/Cycloidea/Proliferating cell factor 15 (TCP15) and TCP18, and the POS3-TCP modules directly regulated the expression of Cyclin D1;1 (CYCD1;1) and CYCB1;1. Overall, POS3 may have the capability to orchestrate cell number and cell size, thus regulating fruit weight variation within Solanaceae. However, a significant reduction in the expression of SlPOS3 may result in a pronounced weakening or complete loss of this function within Solanum. Our findings shed new light on the reproductive organ size control, the developmental evolution of fruit morphology, and the breeding of Physalis crops.",
+      "mesh_terms": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "language": "eng"
+    }
+  ],
+  "fetched_at": "2026-07-23",
+  "sort": "relevance"
+}
