@@ -1,8 +1,0 @@
-{
-  "term": "(\"Os08g0405700\"[Title/Abstract] OR \"HPP7\"[Title/Abstract] OR \"OsHMP40\"[Title/Abstract] OR \"HMP40\"[Title/Abstract] OR \"HEAVY-METAL-ASSOCIATED PLANT PROTEIN 7\"[Title/Abstract] OR \"Heavy metal-associated protein 40, heavy-metal-associated plant protein 7\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
-  "retmax": 20,
-  "pmids": [],
-  "records": [],
-  "fetched_at": "2026-07-23",
-  "sort": "relevance"
-}

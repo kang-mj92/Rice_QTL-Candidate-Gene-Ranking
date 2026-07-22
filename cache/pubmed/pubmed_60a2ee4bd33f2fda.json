@@ -1,8 +1,0 @@
-{
-  "term": "(\"Os06g0535400\"[Title/Abstract] OR \"RING367\"[Title/Abstract] OR \"OsRING367\"[Title/Abstract] OR \"Similar to E3 ubiquitin ligase EL5 (EC 6.3.2.-).\"[Title/Abstract] OR \"RING-TYPE E3 UBIQUITIN LIGASE 367\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
-  "retmax": 20,
-  "pmids": [],
-  "records": [],
-  "fetched_at": "2026-07-23",
-  "sort": "relevance"
-}

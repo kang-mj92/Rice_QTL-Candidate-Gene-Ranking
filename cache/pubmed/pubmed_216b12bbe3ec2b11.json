@@ -1,8 +1,0 @@
-{
-  "term": "(\"Os06g0534900\"[Title/Abstract] OR \"RING187\"[Title/Abstract] OR \"OsRING187\"[Title/Abstract] OR \"RING-TYPE E3 UBIQUITIN LIGASE 187\"[Title/Abstract] OR \"RING-type E3 ubiquitin ligase 187\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
-  "retmax": 20,
-  "pmids": [],
-  "records": [],
-  "fetched_at": "2026-07-23",
-  "sort": "relevance"
-}

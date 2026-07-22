@@ -1,8 +1,0 @@
-{
-  "term": "(\"Os07g0685900\"[Title/Abstract] OR \"SUB54\"[Title/Abstract] OR \"OsSub54\"[Title/Abstract] OR \"SUBTILISIN 54\"[Title/Abstract] OR \"Subtilisin 54\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
-  "retmax": 20,
-  "pmids": [],
-  "records": [],
-  "fetched_at": "2026-07-23",
-  "sort": "relevance"
-}

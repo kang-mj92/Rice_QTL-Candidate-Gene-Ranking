@@ -1,8 +1,0 @@
-{
-  "term": "(\"Os06g0534800\"[Title/Abstract] OR \"ATL17\"[Title/Abstract] OR \"OsATL17\"[Title/Abstract] OR \"OsRING334\"[Title/Abstract] OR \"ARABIDOPSIS TOXICOS EN LEVADURA 17\"[Title/Abstract] OR \"Arabidopsis Toxicos en Levadura 17, RING-type E3 ubiquitin ligase 334\"[Title/Abstract]) AND (\"Oryza sativa\"[MeSH Terms] OR rice[Title/Abstract] OR \"Oryza sativa\"[Title/Abstract] OR Oryza[Title/Abstract])",
-  "retmax": 20,
-  "pmids": [],
-  "records": [],
-  "fetched_at": "2026-07-23",
-  "sort": "relevance"
-}
