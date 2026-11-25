@@ -137,3 +137,9 @@ All weights can be changed in the `WeightSettings` dataclass.
 - NCBI credentials are loaded from environment variables.
 - Cache and output directories are created automatically.
 - Curated PMIDs are used only for post hoc retrieval evaluation and are not inserted into PubMed search queries.
+
+## Related publication
+
+Kang, Mj., Ahn, IP., Kim, MH. et al. (2026).
+[QTL mapping for heading date and yield-related traits in Korean japonica rice varieties and development of a candidate gene prioritization framework](https://doi.org/10.1007/s11816-026-01097-w).
+*Plant Biotechnology Reports*, 20, Article 70.
