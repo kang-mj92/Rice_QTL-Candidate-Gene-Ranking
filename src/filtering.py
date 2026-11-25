@@ -74,10 +74,13 @@ def normalize_genotype(value: str) -> str:
 
     Examples
     --------
+    '0' -> '0/0'
+    '1' -> '1/1'
     '0|0' -> '0/0'
     '1/1:35,12:99' -> '1/1'
     '.' -> './.'
     """
+
     genotype_text = "" if value is None else str(value).strip()
 
     if genotype_text in {"", "nan", "NaN", "."}:
@@ -86,7 +89,16 @@ def normalize_genotype(value: str) -> str:
     if ":" in genotype_text:
         genotype_text = genotype_text.split(":", 1)[0]
 
-    return genotype_text.replace("|", "/")
+    genotype_text = genotype_text.replace("|", "/")
+
+    # 단일 allele 표기 보정
+    if genotype_text == "0":
+        return "0/0"
+
+    if genotype_text == "1":
+        return "1/1"
+
+    return genotype_text
 
 
 def _build_fixed_difference_mask(

@@ -1,22 +1,9 @@
 # -*- coding: utf-8 -*-
 """Create candidate-gene ranking figures for each QTL.
 
-This script generates two figure types:
-1. Top-20 horizontal bar plot of candidate-gene scores.
-2. QTL interval scatter plot using physical gene positions.
-
-Expected inputs
----------------
-Ranking workbook:
-    A candidate sheet containing at least QTL, GeneID, START, END, and a
-    supported ranking-score column. PEAK and CHR are used for the interval
-    scatter plot when available.
-
-RAP-DB annotation table:
-    A tab-separated file containing Locus_ID and gene-symbol columns.
-
-GFF3 file:
-    A gene/locus annotation file used to obtain physical gene midpoints.
+This script generates:
+1. Top-N horizontal bar plots of candidate-gene scores.
+2. QTL interval scatter plots using physical gene positions.
 """
 
 from __future__ import annotations
@@ -65,15 +52,17 @@ SYMBOL_COLUMNS = (
 # -----------------------------------------------------------------------------
 
 def _sanitize_filename(value: str) -> str:
-    text = re.sub(r"[^\w\-.]+", "_", str(value))
+    text = re.sub(r"[^\w.-]+", "_", str(value))
     return re.sub(r"_+", "_", text).strip("_")
 
 
 def _pick_candidate_sheet(xlsx: Path) -> str:
     available = pd.ExcelFile(xlsx).sheet_names
+
     for sheet in CANDIDATE_SHEETS:
         if sheet in available:
             return sheet
+
     raise ValueError(
         "No candidate-ranking sheet was found. Expected one of: "
         f"{list(CANDIDATE_SHEETS)}"
@@ -84,6 +73,7 @@ def _resolve_score_column(table: pd.DataFrame) -> str:
     for column in SCORE_COLUMNS:
         if column in table.columns:
             return column
+
     raise ValueError(
         "No supported ranking-score column was found. Expected one of: "
         f"{list(SCORE_COLUMNS)}"
@@ -94,9 +84,11 @@ def _first_valid_symbol(row: pd.Series) -> str:
     for column in SYMBOL_COLUMNS:
         if column not in row.index or pd.isna(row[column]):
             continue
+
         value = str(row[column]).strip()
         if value and value.lower() != "nan":
             return value.split(",")[0].split(";")[0].strip()
+
     return ""
 
 
@@ -104,6 +96,7 @@ def _normalize_chromosome(value: str) -> str:
     match = re.search(r"(\d+)", str(value).strip())
     if not match:
         return str(value).strip()
+
     return f"chr{int(match.group(1)):02d}"
 
 
@@ -160,6 +153,191 @@ def _load_gene_positions(gff3_path: Path) -> pd.DataFrame:
     return positions.drop_duplicates(subset=["GeneID"])
 
 
+def _bbox_overlap_area(box_a, box_b) -> float:
+    """Return the intersection area of two rendered text bounding boxes."""
+    width = max(0.0, min(box_a.x1, box_b.x1) - max(box_a.x0, box_b.x0))
+    height = max(0.0, min(box_a.y1, box_b.y1) - max(box_a.y0, box_b.y0))
+    return width * height
+
+
+def _add_top5_symbol_labels(
+    axis,
+    figure,
+    top5: pd.DataFrame,
+    score_column: str,
+) -> None:
+    """Place up to five gene symbols inside the axes without label overlap."""
+    if "Symbol" not in top5.columns or top5.empty:
+        return
+
+    label_rows = (
+        top5.sort_values(score_column, ascending=False)
+        .drop_duplicates(subset=["GeneID"])
+        .head(5)
+    )
+
+    # Nearby offsets are tried first. More distant positions are considered
+    # only when labels would otherwise overlap.
+    candidate_offsets = [
+        (8, 8),
+        (8, -12),
+        (-8, 8),
+        (-8, -12),
+        (0, 18),
+        (0, -22),
+        (16, 12),
+        (-16, 12),
+        (16, -18),
+        (-16, -18),
+        (24, 8),
+        (-24, 8),
+        (24, -12),
+        (-24, -12),
+        (0, 28),
+        (0, -32),
+        (32, 16),
+        (-32, 16),
+        (32, -22),
+        (-32, -22),
+    ]
+
+    placed_boxes = []
+
+    for _, row in label_rows.iterrows():
+        symbol = str(row.get("Symbol", "")).strip()
+        if not symbol or symbol.lower() == "nan":
+            continue
+
+        point_x = float(row["MID_GFF"])
+        point_y = float(row[score_column])
+
+        selected_offset = None
+        best_fallback = None
+
+        for dx, dy in candidate_offsets:
+            distance = float(np.hypot(dx, dy))
+            use_connector = distance > 13
+
+            arrowprops = (
+                {
+                    "arrowstyle": "-",
+                    "color": "0.35",
+                    "linewidth": 0.7,
+                    "shrinkA": 2,
+                    "shrinkB": 4,
+                }
+                if use_connector
+                else None
+            )
+
+            trial = axis.annotate(
+                symbol,
+                xy=(point_x, point_y),
+                xytext=(dx, dy),
+                textcoords="offset points",
+                ha="left" if dx >= 0 else "right",
+                va="bottom" if dy >= 0 else "top",
+                fontsize=9,
+                fontweight="bold",
+                zorder=6,
+                annotation_clip=False,
+                bbox={
+                    "boxstyle": "round,pad=0.2",
+                    "facecolor": "white",
+                    "edgecolor": "none",
+                    "alpha": 0.85,
+                },
+                arrowprops=arrowprops,
+            )
+
+            figure.canvas.draw()
+            renderer = figure.canvas.get_renderer()
+
+            # Measure only the label's background/text box, not its connector.
+            text_box = trial.get_bbox_patch().get_window_extent(renderer)
+            axes_box = axis.get_window_extent(renderer)
+
+            inside_axes = (
+                text_box.x0 >= axes_box.x0
+                and text_box.x1 <= axes_box.x1
+                and text_box.y0 >= axes_box.y0
+                and text_box.y1 <= axes_box.y1
+            )
+
+            overlaps = sum(
+                _bbox_overlap_area(text_box, existing_box) > 0
+                for existing_box in placed_boxes
+            )
+            overlap_area = sum(
+                _bbox_overlap_area(text_box, existing_box)
+                for existing_box in placed_boxes
+            )
+
+            trial.remove()
+
+            if inside_axes and overlaps == 0:
+                selected_offset = (dx, dy)
+                break
+
+            if inside_axes:
+                # Retain the in-bounds position with the least overlap as a
+                # fallback in case every candidate position is occupied.
+                fallback_score = (overlaps, overlap_area, distance)
+                if best_fallback is None or fallback_score < best_fallback[0]:
+                    best_fallback = (fallback_score, (dx, dy))
+
+        if selected_offset is None and best_fallback is not None:
+            selected_offset = best_fallback[1]
+
+        # If the axes are too narrow for the label, skip it rather than
+        # allowing the text to spill outside the graph.
+        if selected_offset is None:
+            continue
+
+        dx, dy = selected_offset
+        use_connector = float(np.hypot(dx, dy)) > 13
+
+        arrowprops = (
+            {
+                "arrowstyle": "-",
+                "color": "0.35",
+                "linewidth": 0.7,
+                "shrinkA": 2,
+                "shrinkB": 4,
+            }
+            if use_connector
+            else None
+        )
+
+        annotation = axis.annotate(
+            symbol,
+            xy=(point_x, point_y),
+            xytext=(dx, dy),
+            textcoords="offset points",
+            ha="left" if dx >= 0 else "right",
+            va="bottom" if dy >= 0 else "top",
+            fontsize=9,
+            fontweight="bold",
+            zorder=6,
+            annotation_clip=False,
+            bbox={
+                "boxstyle": "round,pad=0.2",
+                "facecolor": "white",
+                "edgecolor": "none",
+                "alpha": 0.85,
+            },
+            arrowprops=arrowprops,
+        )
+
+        figure.canvas.draw()
+        renderer = figure.canvas.get_renderer()
+        placed_boxes.append(
+            annotation.get_bbox_patch().get_window_extent(renderer).expanded(
+                1.04,
+                1.10,
+            )
+        )
+
 
 # -----------------------------------------------------------------------------
 # 1. Load candidate-ranking results
@@ -213,18 +391,31 @@ def attach_gene_symbols(
 
     rapdb_tsv = Path(rapdb_tsv)
     if not rapdb_tsv.exists():
-        raise FileNotFoundError(f"RAP-DB annotation table was not found: {rapdb_tsv}")
+        raise FileNotFoundError(
+            f"RAP-DB annotation table was not found: {rapdb_tsv}"
+        )
 
-    annotation = pd.read_csv(rapdb_tsv, sep="\t", dtype=str, low_memory=False)
+    annotation = pd.read_csv(
+        rapdb_tsv,
+        sep="\t",
+        dtype=str,
+        low_memory=False,
+    )
     annotation.columns = [str(column).strip() for column in annotation.columns]
 
     if "Locus_ID" not in annotation.columns:
-        raise ValueError("RAP-DB annotation table must contain a 'Locus_ID' column.")
+        raise ValueError(
+            "RAP-DB annotation table must contain a 'Locus_ID' column."
+        )
 
     annotation["GeneID"] = annotation["Locus_ID"].astype(str).str.strip()
     annotation["Symbol"] = annotation.apply(_first_valid_symbol, axis=1)
-    annotation["Symbol"] = annotation["Symbol"].replace({"": np.nan, "nan": np.nan})
-    annotation = annotation[["GeneID", "Symbol"]].drop_duplicates(subset=["GeneID"])
+    annotation["Symbol"] = annotation["Symbol"].replace(
+        {"": np.nan, "nan": np.nan}
+    )
+    annotation = annotation[["GeneID", "Symbol"]].drop_duplicates(
+        subset=["GeneID"]
+    )
 
     output = candidate_table.copy()
     output["GeneID"] = output["GeneID"].astype(str).str.strip()
@@ -232,7 +423,7 @@ def attach_gene_symbols(
 
 
 # -----------------------------------------------------------------------------
-# 3. Top-20 horizontal bar plot
+# 3. Top-N horizontal bar plot
 # -----------------------------------------------------------------------------
 
 def gene_ranking_top20_bar(
@@ -256,6 +447,7 @@ def gene_ranking_top20_bar(
 
     values = ranked[score_column].astype(float).to_numpy()
     gene_ids = ranked["GeneID"].astype(str).tolist()
+
     symbols = (
         ranked["Symbol"].fillna("").astype(str).tolist()
         if "Symbol" in ranked.columns
@@ -264,6 +456,7 @@ def gene_ranking_top20_bar(
 
     y_positions = np.arange(len(ranked))
     figure, axis = plt.subplots(figsize=(7, 6))
+
     axis.barh(y_positions, values)
     axis.set_yticks(y_positions)
     axis.set_yticklabels(gene_ids, fontsize=13)
@@ -289,9 +482,11 @@ def gene_ranking_top20_bar(
 
     output_png = Path(output_png)
     output_png.parent.mkdir(parents=True, exist_ok=True)
+
     figure.tight_layout()
     figure.savefig(output_png, dpi=600, bbox_inches="tight")
     plt.close(figure)
+
     return output_png
 
 
@@ -312,10 +507,13 @@ def gene_interval_scatter(
 
     table = qtl_table.copy()
     table["MID_GFF"] = pd.to_numeric(table["MID_GFF"], errors="coerce")
+    table[score_column] = pd.to_numeric(table[score_column], errors="coerce")
     table = table.dropna(subset=["MID_GFF", score_column]).copy()
 
     if table.empty:
-        raise ValueError("No genes with valid GFF3 coordinates were available for plotting.")
+        raise ValueError(
+            "No genes with valid GFF3 coordinates were available for plotting."
+        )
 
     top5_ids = (
         table.sort_values(score_column, ascending=False)["GeneID"]
@@ -356,6 +554,7 @@ def gene_interval_scatter(
         else pd.Series(dtype=float)
     )
     peak_bp = float(peak_values.iloc[0]) if len(peak_values) else np.nan
+
     if np.isfinite(peak_bp):
         axis.axvline(
             peak_bp,
@@ -366,8 +565,20 @@ def gene_interval_scatter(
             zorder=1,
         )
 
-    start_bp = float(pd.to_numeric(table["START"], errors="coerce").dropna().iloc[0])
-    end_bp = float(pd.to_numeric(table["END"], errors="coerce").dropna().iloc[0])
+    start_values = pd.to_numeric(table["START"], errors="coerce").dropna()
+    end_values = pd.to_numeric(table["END"], errors="coerce").dropna()
+
+    start_bp = (
+        float(start_values.iloc[0])
+        if len(start_values)
+        else float(table["MID_GFF"].min())
+    )
+    end_bp = (
+        float(end_values.iloc[0])
+        if len(end_values)
+        else float(table["MID_GFF"].max())
+    )
+
     x_min = min(start_bp, float(table["MID_GFF"].min()))
     x_max = max(end_bp, float(table["MID_GFF"].max()))
     x_padding = (x_max - x_min) * 0.04 if x_max > x_min else 1.0
@@ -381,8 +592,13 @@ def gene_interval_scatter(
 
     chromosome_label = chromosome.replace("chr", "Chr")
     axis.xaxis.set_major_locator(MultipleLocator(5e5))
-    axis.xaxis.set_major_formatter(FuncFormatter(lambda x, _: f"{x / 1e6:.1f}"))
-    axis.set_xlabel(f"Physical position on {chromosome_label} (Mb)", fontsize=12)
+    axis.xaxis.set_major_formatter(
+        FuncFormatter(lambda x, _: f"{x / 1e6:.1f}")
+    )
+    axis.set_xlabel(
+        f"Physical position on {chromosome_label} (Mb)",
+        fontsize=12,
+    )
     axis.set_ylabel("Integrated score of candidate genes", fontsize=12)
 
     y_min = float(table[score_column].min())
@@ -424,6 +640,7 @@ def gene_interval_scatter(
             label="QTL peak",
         ),
     ]
+
     axis.legend(
         handles=legend_handles,
         frameon=False,
@@ -433,11 +650,18 @@ def gene_interval_scatter(
         borderaxespad=0,
     )
 
+    # Finalize the axes size before placing labels so their positions are
+    # checked against the actual graph area.
+    figure.tight_layout(rect=[0, 0, 0.80, 1])
+    figure.canvas.draw()
+    _add_top5_symbol_labels(axis, figure, top5, score_column)
+
     output_png = Path(output_png)
     output_png.parent.mkdir(parents=True, exist_ok=True)
-    figure.tight_layout(rect=[0, 0, 0.80, 1])
+
     figure.savefig(output_png, dpi=600, bbox_inches="tight")
     plt.close(figure)
+
     return output_png
 
 
@@ -465,17 +689,33 @@ def make_ranking_figures(
     candidate_table = attach_gene_symbols(candidate_table, rapdb_tsv)
 
     positions = _load_gene_positions(Path(gff3_path))
-    candidate_table = candidate_table.merge(positions, on="GeneID", how="left")
+    candidate_table = candidate_table.merge(
+        positions,
+        on="GeneID",
+        how="left",
+    )
 
     if qtl_order is None:
-        qtl_order = candidate_table["QTL"].drop_duplicates().astype(str).tolist()
+        qtl_order = (
+            candidate_table["QTL"]
+            .drop_duplicates()
+            .astype(str)
+            .tolist()
+        )
     else:
-        qtl_order = [str(qtl).strip() for qtl in qtl_order if str(qtl).strip()]
+        qtl_order = [
+            str(qtl).strip()
+            for qtl in qtl_order
+            if str(qtl).strip()
+        ]
 
     created_files: list[Path] = []
 
     for qtl in qtl_order:
-        qtl_table = candidate_table[candidate_table["QTL"].astype(str) == qtl].copy()
+        qtl_table = candidate_table[
+            candidate_table["QTL"].astype(str) == qtl
+        ].copy()
+
         if qtl_table.empty:
             print(f"[Skipped] No candidate rows were found for QTL: {qtl}")
             continue
@@ -504,18 +744,22 @@ def make_ranking_figures(
     print(f"[Ranking] Source sheet: {source_sheet}")
     print(f"[Ranking] Score column: {score_column}")
     print(f"[Ranking] Figures created: {len(created_files)}")
+
     return created_files
 
 
 if __name__ == "__main__":
-    PROJECT_ROOT = Path(__file__).resolve().parent
+    SCRIPT_DIR = Path(__file__).resolve().parent
+    PROJECT_ROOT = (
+        SCRIPT_DIR.parent
+        if SCRIPT_DIR.name.lower() == "src"
+        else SCRIPT_DIR
+    )
 
-    # Update these paths to match your repository structure.
     RESULTS_XLSX = PROJECT_ROOT / "output" / "results.xlsx"
     RAPDB_TSV = PROJECT_ROOT / "data" / "rapdb.tsv"
     GFF3 = PROJECT_ROOT / "data" / "IRGSP-1.0_locus.gff"
     FIGURE_DIR = PROJECT_ROOT / "output" / "figures_ranking"
-
 
     make_ranking_figures(
         xlsx=RESULTS_XLSX,
